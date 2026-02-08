@@ -1,0 +1,331 @@
+[
+  {
+    "category": "icon packs",
+    "name": "Material Design Icons",
+    "count_estimate": 5000,
+    "format": "SVG, PNG",
+    "url": "https://iconscout.com/icons/material-design"
+  },
+  {
+    "category": "icon packs",
+    "name": "Flat Icon Set",
+    "count_estimate": 2000,
+    "format": "SVG",
+    "url": "https://iconscout.com/icons/flat-set"
+  },
+  {
+    "category": "icon packs",
+    "name": "Line Icons Collection",
+    "count_estimate": 1500,
+    "format": "SVG, EPS",
+    "url": "https://iconscout.com/icons/line-collection"
+  },
+  {
+    "category": "icon packs",
+    "name": "Outline Icons",
+    "count_estimate": 1000,
+    "format": "SVG",
+    "url": "https://iconscout.com/icons/outline"
+  },
+  {
+    "category": "icon packs",
+    "name": "Filled Icons Pack",
+    "count_estimate": 800,
+    "format": "PNG",
+    "url": "https://iconscout.com/icons/filled-pack"
+  },
+  {
+    "category": "icon packs",
+    "name": "Social Media Icons",
+    "count_estimate": 300,
+    "format": "SVG, ICO",
+    "url": "https://iconscout.com/icons/social-media"
+  },
+  {
+    "category": "icon packs",
+    "name": "Business Icons",
+    "count_estimate": 400,
+    "format": "SVG",
+    "url": "https://iconscout.com/icons/business"
+  },
+  {
+    "category": "icon packs",
+    "name": "Technology Icons",
+    "count_estimate": 600,
+    "format": "SVG, PNG",
+    "url": "https://iconscout.com/icons/technology"
+  },
+  {
+    "category": "icon packs",
+    "name": "Health Icons",
+    "count_estimate": 250,
+    "format": "SVG",
+    "url": "https://iconscout.com/icons/health"
+  },
+  {
+    "category": "icon packs",
+    "name": "Education Icons",
+    "count_estimate": 350,
+    "format": "SVG, EPS",
+    "url": "https://iconscout.com/icons/education"
+  },
+  {
+    "category": "illustration sets",
+    "name": "Abstract Illustrations",
+    "count_estimate": 100,
+    "format": "AI, EPS",
+    "url": "https://iconscout.com/illustrations/abstract"
+  },
+  {
+    "category": "illustration sets",
+    "name": "Business Illustrations",
+    "count_estimate": 150,
+    "format": "SVG",
+    "url": "https://iconscout.com/illustrations/business"
+  },
+  {
+    "category": "illustration sets",
+    "name": "Technology Illustrations",
+    "count_estimate": 120,
+    "format": "AI",
+    "url": "https://iconscout.com/illustrations/technology"
+  },
+  {
+    "category": "illustration sets",
+    "name": "Nature Illustrations",
+    "count_estimate": 80,
+    "format": "EPS",
+    "url": "https://iconscout.com/illustrations/nature"
+  },
+  {
+    "category": "illustration sets",
+    "name": "People Illustrations",
+    "count_estimate": 90,
+    "format": "SVG, PNG",
+    "url": "https://iconscout.com/illustrations/people"
+  },
+  {
+    "category": "illustration sets",
+    "name": "Food Illustrations",
+    "count_estimate": 70,
+    "format": "AI",
+    "url": "https://iconscout.com/illustrations/food"
+  },
+  {
+    "category": "illustration sets",
+    "name": "Travel Illustrations",
+    "count_estimate": 110,
+    "format": "EPS",
+    "url": "https://iconscout.com/illustrations/travel"
+  },
+  {
+    "category": "illustration sets",
+    "name": "Sports Illustrations",
+    "count_estimate": 60,
+    "format": "SVG",
+    "url": "https://iconscout.com/illustrations/sports"
+  },
+  {
+    "category": "illustration sets",
+    "name": "Education Illustrations",
+    "count_estimate": 95,
+    "format": "AI, PNG",
+    "url": "https://iconscout.com/illustrations/education"
+  },
+  {
+    "category": "illustration sets",
+    "name": "Animal Illustrations",
+    "count_estimate": 85,
+    "format": "SVG",
+    "url": "https://iconscout.com/illustrations/animals"
+  },
+  {
+    "category": "3D assets",
+    "name": "Product Mockups",
+    "count_estimate": 50,
+    "format": "OBJ, STL",
+    "url": "https://iconscout.com/3d/product-mockups"
+  },
+  {
+    "category": "3D assets",
+    "name": "Furniture Models",
+    "count_estimate": 40,
+    "format": "FBX",
+    "url": "https://iconscout.com/3d/furniture"
+  },
+  {
+    "category": "3D assets",
+    "name": "Character Models",
+    "count_estimate": 30,
+    "format": "BLEND",
+    "url": "https://iconscout.com/3d/characters"
+  },
+  {
+    "category": "3D assets",
+    "name": "Vehicle Designs",
+    "count_estimate": 25,
+    "format": "OBJ",
+    "url": "https://iconscout.com/3d/vehicles"
+  },
+  {
+    "category": "3D assets",
+    "name": "Building Models",
+    "count_estimate": 35,
+    "format": "STL",
+    "url": "https://iconscout.com/3d/buildings"
+  },
+  {
+    "category": "Lottie animations",
+    "name": "Loading Animations",
+    "count_estimate": 20,
+    "format": "JSON",
+    "url": "https://iconscout.com/lottie/loading"
+  },
+  {
+    "category": "Lottie animations",
+    "name": "Success Animations",
+    "count_estimate": 15,
+    "format": "JSON",
+    "url": "https://iconscout.com/lottie/success"
+  },
+  {
+    "category": "Lottie animations",
+    "name": "Error Animations",
+    "count_estimate": 10,
+    "format": "JSON",
+    "url": "https://iconscout.com/lottie/error"
+  },
+  {
+    "category": "stock photos",
+    "name": "Nature Photography",
+    "count_estimate": 200,
+    "format": "JPG",
+    "url": "https://iconscout.com/photos/nature"
+  },
+  {
+    "category": "stock photos",
+    "name": "Urban Landscapes",
+    "count_estimate": 150,
+    "format": "JPG, PNG",
+    "url": "https://iconscout.com/photos/urban"
+  },
+  {
+    "category": "stock photos",
+    "name": "People Portraits",
+    "count_estimate": 180,
+    "format": "JPG",
+    "url": "https://iconscout.com/photos/portraits"
+  },
+  {
+    "category": "stock photos",
+    "name": "Abstract Art",
+    "count_estimate": 120,
+    "format": "PNG",
+    "url": "https://iconscout.com/photos/abstract"
+  },
+  {
+    "category": "icon packs",
+    "name": "Weather Icons",
+    "count_estimate": 50,
+    "format": "SVG",
+    "url": "https://iconscout.com/icons/weather"
+  },
+  {
+    "category": "illustration sets",
+    "name": "Holiday Illustrations",
+    "count_estimate": 40,
+    "format": "AI",
+    "url": "https://iconscout.com/illustrations/holiday"
+  },
+  {
+    "category": "3D assets",
+    "name": "Gadget Models",
+    "count_estimate": 20,
+    "format": "OBJ",
+    "url": "https://iconscout.com/3d/gadgets"
+  },
+  {
+    "category": "Lottie animations",
+    "name": "Transition Effects",
+    "count_estimate": 25,
+    "format": "JSON",
+    "url": "https://iconscout.com/lottie/transitions"
+  },
+  {
+    "category": "stock photos",
+    "name": "Food Images",
+    "count_estimate": 100,
+    "format": "JPG",
+    "url": "https://iconscout.com/photos/food"
+  },
+  {
+    "category": "icon packs",
+    "name": "E-commerce Icons",
+    "count_estimate": 400,
+    "format": "SVG",
+    "url": "https://iconscout.com/icons/ecommerce"
+  },
+  {
+    "category": "illustration sets",
+    "name": "Fantasy Illustrations",
+    "count_estimate": 60,
+    "format": "EPS",
+    "url": "https://iconscout.com/illustrations/fantasy"
+  },
+  {
+    "category": "3D assets",
+    "name": "Interior Designs",
+    "count_estimate": 30,
+    "format": "FBX",
+    "url": "https://iconscout.com/3d/interior"
+  },
+  {
+    "category": "Lottie animations",
+    "name": "Intro Animations",
+    "count_estimate": 18,
+    "format": "JSON",
+    "url": "https://iconscout.com/lottie/intro"
+  },
+  {
+    "category": "stock photos",
+    "name": "Technology Gadgets",
+    "count_estimate": 90,
+    "format": "JPG",
+    "url": "https://iconscout.com/photos/gadgets"
+  },
+  {
+    "category": "icon packs",
+    "name": "Medical Icons",
+    "count_estimate": 300,
+    "format": "SVG",
+    "url": "https://iconscout.com/icons/medical"
+  },
+  {
+    "category": "illustration sets",
+    "name": "Sci-Fi Illustrations",
+    "count_estimate": 50,
+    "format": "AI",
+    "url": "https://iconscout.com/illustrations/scifi"
+  },
+  {
+    "category": "3D assets",
+    "name": "Animal Models",
+    "count_estimate": 25,
+    "format": "OBJ",
+    "url": "https://iconscout.com/3d/animals"
+  },
+  {
+    "category": "Lottie animations",
+    "name": "Notification Animations",
+    "count_estimate": 12,
+    "format": "JSON",
+    "url": "https://iconscout.com/lottie/notifications"
+  },
+  {
+    "category": "stock photos",
+    "name": "Travel Destinations",
+    "count_estimate": 110,
+    "format": "JPG",
+    "url": "https://iconscout.com/photos/travel"
+  }
+]

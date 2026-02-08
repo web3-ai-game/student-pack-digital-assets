@@ -1,0 +1,661 @@
+[
+  {
+    "title": "Complete Intro to Web Development, v4",
+    "instructor": "Brian Holt",
+    "hours": 18.5,
+    "sections": [
+      {
+        "name": "Intro to Web Dev",
+        "lessons": [
+          "What is Web Development?",
+          "Setting up Your Environment",
+          "HTML Basics",
+          "CSS Basics",
+          "JavaScript Basics"
+        ]
+      },
+      {
+        "name": "Responsive Web Design",
+        "lessons": [
+          "Media Queries",
+          "Flexbox Introduction",
+          "CSS Grid Introduction",
+          "Mobile-First Design",
+          "Responsive Images"
+        ]
+      },
+      {
+        "name": "JavaScript Deep Dive",
+        "lessons": [
+          "DOM Manipulation",
+          "Events and Event Handling",
+          "Async JavaScript",
+          "Promises and Fetch API",
+          "ES6+ Features"
+        ]
+      },
+      {
+        "name": "Build a Complete App",
+        "lessons": [
+          "Project Planning",
+          "Building a Todo App",
+          "Local Storage",
+          "Deployment to Netlify"
+        ]
+      }
+    ],
+    "slug": "complete-intro-to-web-development-v4",
+    "prerequisites": [],
+    "what_you_learn": [
+      "HTML5, CSS3, and JavaScript fundamentals",
+      "Responsive design with Flexbox and Grid",
+      "Modern JavaScript (ES6+)",
+      "DOM manipulation and events",
+      "Async programming and APIs",
+      "Building and deploying complete web apps"
+    ]
+  },
+  {
+    "title": "JavaScript: The Hard Parts, v2",
+    "instructor": "Will Sentance",
+    "hours": 8.5,
+    "sections": [
+      {
+        "name": "Advanced Scope & Closures",
+        "lessons": [
+          "Scope Deep Dive",
+          "Block Scope and Let/Const",
+          "Closures Explained",
+          "Module Pattern"
+        ]
+      },
+      {
+        "name": "Higher-Order Functions",
+        "lessons": [
+          "Functions as Values",
+          "Callbacks Deep Dive",
+          "Array Methods (map, filter, reduce)",
+          "Function Composition"
+        ]
+      },
+      {
+        "name": "Prototypes & Inheritance",
+        "lessons": [
+          "Prototype Chain",
+          "Classes vs Constructor Functions",
+          "Inheritance Patterns",
+          "Private Properties"
+        ]
+      },
+      {
+        "name": "Async Patterns",
+        "lessons": [
+          "Event Loop Deep Dive",
+          "Generators and Iterators",
+          "Async/Await Mastery",
+          "Promise Chaining"
+        ]
+      }
+    ],
+    "slug": "javascript-the-hard-parts-v2",
+    "prerequisites": ["Basic JavaScript knowledge"],
+    "what_you_learn": [
+      "Deep understanding of JavaScript scope and closures",
+      "Mastery of higher-order functions and functional programming",
+      "Prototype-based inheritance and ES6 classes",
+      "Advanced async patterns and event loop",
+      "Writing production-ready JavaScript code"
+    ]
+  },
+  {
+    "title": "CSS Grid and Flexbox for Responsive Layouts",
+    "instructor": "Jen Kramer",
+    "hours": 7.2,
+    "sections": [
+      {
+        "name": "Flexbox Fundamentals",
+        "lessons": [
+          "Flexbox Basics",
+          "Flex Direction and Wrap",
+          "Justify Content and Align Items",
+          "Flex Grow, Shrink, Basis"
+        ]
+      },
+      {
+        "name": "CSS Grid Fundamentals",
+        "lessons": [
+          "Grid Container Properties",
+          "Grid Template Areas",
+          "Grid Lines and Placement",
+          "Grid Auto-Flow"
+        ]
+      },
+      {
+        "name": "Advanced Layouts",
+        "lessons": [
+          "Named Grid Areas",
+          "Subgrid",
+          "Masonry Layout",
+          "Responsive Grid Patterns"
+        ]
+      },
+      {
+        "name": "Real-World Projects",
+        "lessons": [
+          "Dashboard Layout",
+          "E-commerce Grid",
+          "Photo Gallery",
+          "Complete Responsive Site"
+        ]
+      }
+    ],
+    "slug": "css-grid-flexbox",
+    "prerequisites": ["Basic CSS knowledge"],
+    "what_you_learn": [
+      "Complete mastery of Flexbox",
+      "CSS Grid from basics to advanced",
+      "Modern responsive layout techniques",
+      "Building complex layouts efficiently",
+      "Browser compatibility and fallbacks"
+    ]
+  },
+  {
+    "title": "Complete Intro to React, v9",
+    "instructor": "Brian Holt",
+    "hours": 12.8,
+    "sections": [
+      {
+        "name": "React Fundamentals",
+        "lessons": [
+          "What is React?",
+          "JSX Syntax",
+          "Components and Props",
+          "State and useState"
+        ]
+      },
+      {
+        "name": "React Patterns",
+        "lessons": [
+          "Event Handling",
+          "Conditional Rendering",
+          "Lists and Keys",
+          "Forms in React"
+        ]
+      },
+      {
+        "name": "Hooks Deep Dive",
+        "lessons": [
+          "useEffect Hook",
+          "useContext Hook",
+          "useReducer Hook",
+          "Custom Hooks"
+        ]
+      },
+      {
+        "name": "Advanced React",
+        "lessons": [
+          "React Router",
+          "Performance Optimization",
+          "Testing with React Testing Library",
+          "Deployment"
+        ]
+      }
+    ],
+    "slug": "complete-intro-to-react-v9",
+    "prerequisites": ["JavaScript fundamentals"],
+    "what_you_learn": [
+      "Building React applications from scratch",
+      "React Hooks mastery",
+      "Component patterns and best practices",
+      "React Router for SPAs",
+      "Testing and deployment strategies"
+    ]
+  },
+  {
+    "title": "TypeScript 5 Fundamentals, v3",
+    "instructor": "Matt Pocock",
+    "hours": 9.1,
+    "sections": [
+      {
+        "name": "TypeScript Basics",
+        "lessons": [
+          "Setting up TypeScript",
+          "Basic Types",
+          "Interfaces vs Types",
+          "Type Inference"
+        ]
+      },
+      {
+        "name": "Advanced Types",
+        "lessons": [
+          "Union and Intersection Types",
+          "Generics",
+          "Mapped and Conditional Types",
+          "Template Literal Types"
+        ]
+      },
+      {
+        "name": "Working with React",
+        "lessons": [
+          "Typing React Components",
+          "Hooks with Types",
+          "Custom Hooks Typing",
+          "Third-Party Library Typing"
+        ]
+      },
+      {
+        "name": "Real-World TypeScript",
+        "lessons": [
+          "Strict Mode Benefits",
+          "Error Handling with Types",
+          "Building a Typed API Client",
+          "Migration Strategies"
+        ]
+      }
+    ],
+    "slug": "typescript-v3",
+    "prerequisites": ["JavaScript experience"],
+    "what_you_learn": [
+      "TypeScript fundamentals to advanced",
+      "Typing React applications",
+      "Advanced type system features",
+      "Production TypeScript best practices",
+      "Migration from JavaScript to TypeScript"
+    ]
+  },
+  {
+    "title": "Complete Intro to Node.js, v7",
+    "instructor": "Brian Holt",
+    "hours": 11.3,
+    "sections": [
+      {
+        "name": "Node Fundamentals",
+        "lessons": [
+          "What is Node.js?",
+          "Modules and npm",
+          "File System Operations",
+          "Event Loop and Async"
+        ]
+      },
+      {
+        "name": "Express.js",
+        "lessons": [
+          "Express Basics",
+          "Routing and Middleware",
+          "Request/Response Handling",
+          "Error Handling"
+        ]
+      },
+      {
+        "name": "Databases",
+        "lessons": [
+          "SQLite with Better-SQLite3",
+          "PostgreSQL with pg",
+          "Authentication with JWT",
+          "Environment Variables"
+        ]
+      },
+      {
+        "name": "Production Node",
+        "lessons": [
+          "Testing with Jest",
+          "Deployment Strategies",
+          "Docker Basics",
+          "Performance Optimization"
+        ]
+      }
+    ],
+    "slug": "complete-nodejs-v7",
+    "prerequisites": ["JavaScript knowledge"],
+    "what_you_learn": [
+      "Building production Node.js applications",
+      "Express.js web framework mastery",
+      "Database integration (SQL)",
+      "Authentication and security",
+      "Testing, deployment, and scaling"
+    ]
+  },
+  {
+    "title": "JavaScript Algorithms and Data Structures Masterclass",
+    "instructor": "Will Sentance",
+    "hours": 14.2,
+    "sections": [
+      {
+        "name": "Big O Notation",
+        "lessons": [
+          "Time and Space Complexity",
+          "Common Big O Examples",
+          "Analyzing Algorithms"
+        ]
+      },
+      {
+        "name": "Arrays and HashMaps",
+        "lessons": [
+          "Array Methods Performance",
+          "HashMap Implementation",
+          "Two Pointer Technique",
+          "Sliding Window"
+        ]
+      },
+      {
+        "name": "Recursion and Trees",
+        "lessons": [
+          "Recursion Patterns",
+          "Binary Trees",
+          "Binary Search Trees",
+          "Tree Traversal"
+        ]
+      },
+      {
+        "name": "Graphs and Advanced",
+        "lessons": [
+          "Graph Representation",
+          "BFS and DFS",
+          "Dynamic Programming",
+          "Interview Problem Solving"
+        ]
+      }
+    ],
+    "slug": "javascript-algorithms",
+    "prerequisites": ["JavaScript fundamentals"],
+    "what_you_learn": [
+      "Big O notation and algorithm analysis",
+      "Essential data structures",
+      "Common coding interview patterns",
+      "Recursion and tree algorithms",
+      "Graph algorithms and dynamic programming"
+    ]
+  },
+  {
+    "title": "Rust Fundamentals, v2",
+    "instructor": "Jim Blandy",
+    "hours": 15.6,
+    "sections": [
+      {
+        "name": "Rust Basics",
+        "lessons": [
+          "Ownership and Borrowing",
+          "Lifetimes",
+          "References and Destructuring"
+        ]
+      },
+      {
+        "name": "Data Structures",
+        "lessons": [
+          "Strings and Slices",
+          "Vectors and Arrays",
+          "HashMaps and Sets",
+          "Enums and Pattern Matching"
+        ]
+      },
+      {
+        "name": "Error Handling",
+        "lessons": [
+          "Result and Option",
+          "Panic vs Recover",
+          "Custom Error Types",
+          "Error Propagation"
+        ]
+      },
+      {
+        "name": "Advanced Rust",
+        "lessons": [
+          "Traits and Generics",
+          "Concurrency with Threads",
+          "Async Rust Basics",
+          "Building a CLI App"
+        ]
+      }
+    ],
+    "slug": "rust-fundamentals-v2",
+    "prerequisites": ["Programming experience"],
+    "what_you_learn": [
+      "Rust ownership and memory safety",
+      "Safe concurrency patterns",
+      "Modern Rust idioms",
+      "Building performant applications",
+      "CLI application development"
+    ]
+  },
+  {
+    "title": "Go: Beyond the Basics",
+    "instructor": "Jon Bodner",
+    "hours": 10.4,
+    "sections": [
+      {
+        "name": "Idiomatic Go",
+        "lessons": [
+          "Interfaces Deep Dive",
+          "Error Handling Patterns",
+          "Struct Embedding"
+        ]
+      },
+      {
+        "name": "Concurrency",
+        "lessons": [
+          "Goroutines Advanced",
+          "Channels Patterns",
+          "Worker Pools",
+          "Select Statement"
+        ]
+      },
+      {
+        "name": "Testing and Performance",
+        "lessons": [
+          "Table-Driven Tests",
+          "Benchmarking",
+          "Profiling",
+          "Race Conditions"
+        ]
+      },
+      {
+        "name": "Production Go",
+        "lessons": [
+          "Context Usage",
+          "HTTP Clients and Servers",
+          "Graceful Shutdown",
+          "Microservices Patterns"
+        ]
+      }
+    ],
+    "slug": "go-beyond-basics",
+    "prerequisites": ["Basic Go knowledge"],
+    "what_you_learn": [
+      "Idiomatic Go programming",
+      "Advanced concurrency patterns",
+      "Comprehensive testing strategies",
+      "Performance optimization",
+      "Production deployment patterns"
+    ]
+  },
+  {
+    "title": "Complete Intro to Svelte",
+    "instructor": "Filipe Pina",
+    "hours": 6.8,
+    "sections": [
+      {
+        "name": "Svelte Fundamentals",
+        "lessons": [
+          "Svelte vs React/Vue",
+          "Components and Props",
+          "Reactive Statements",
+          "Stores"
+        ]
+      },
+      {
+        "name": "Svelte Features",
+        "lessons": [
+          "Transitions and Animations",
+          "Custom Elements",
+          "File Structure",
+          "Build Process"
+        ]
+      },
+      {
+        "name": "SvelteKit",
+        "lessons": [
+          "Routing",
+          "Server-Side Rendering",
+          "API Routes",
+          "Deployment"
+        ]
+      }
+    ],
+    "slug": "complete-intro-svelte",
+    "prerequisites": ["Basic JavaScript"],
+    "what_you_learn": [
+      "Svelte compiler magic",
+      "Reactive programming model",
+      "SvelteKit full-stack framework",
+      "Modern frontend development",
+      "Bundle-free deployment"
+    ]
+  },
+  {
+    "title": "Vue 3 Fundamentals",
+    "instructor": "Markus Oberlehner",
+    "hours": 8.9,
+    "sections": [
+      {
+        "name": "Vue 3 Basics",
+        "lessons": [
+          "Composition API",
+          "Reactivity Fundamentals",
+          "Components and Props",
+          "Template Syntax"
+        ]
+      },
+      {
+        "name": "Advanced Vue",
+        "lessons": [
+          "Teleport and Suspense",
+          "Custom Directives",
+          "Provide/Inject",
+          "Lifecycle Hooks"
+        ]
+      },
+      {
+        "name": "Vue Router & Pinia",
+        "lessons": [
+          "File-based Routing",
+          "State Management with Pinia",
+          "Forms with Vuelidate",
+          "Testing Vue Components"
+        ]
+      }
+    ],
+    "slug": "vue3-fundamentals",
+    "prerequisites": ["JavaScript basics"],
+    "what_you_learn": [
+      "Vue 3 Composition API",
+      "Modern Vue patterns",
+      "Vue Router and Pinia",
+      "Production-ready Vue apps",
+      "Component testing"
+    ]
+  },
+  {
+    "title": "Next.js 14 Fundamentals",
+    "instructor": "Scott Moss",
+    "hours": 10.2,
+    "sections": [
+      {
+        "name": "Next.js Basics",
+        "lessons": [
+          "App Router vs Pages Router",
+          "File-based Routing",
+          "Server Components",
+          "Client Components"
+        ]
+      },
+      {
+        "name": "Data Fetching",
+        "lessons": [
+          "Server-Side Data Fetching",
+          "Streaming and Suspense",
+          "Client-Side Fetching",
+          "Caching Strategies"
+        ]
+      },
+      {
+        "name": "Advanced Features",
+        "lessons": [
+          "Authentication Patterns",
+          "API Routes",
+          "Middleware",
+          "Image Optimization"
+        ]
+      },
+      {
+        "name": "Deployment",
+        "lessons": [
+          "Vercel Deployment",
+          "Custom Server",
+          "Environment Variables",
+          "Performance Optimization"
+        ]
+      }
+    ],
+    "slug": "nextjs-14-fundamentals",
+    "prerequisites": ["React knowledge"],
+    "what_you_learn": [
+      "Next.js 14 App Router",
+      "Server Components architecture",
+      "Full-stack development patterns",
+      "Performance optimization",
+      "Production deployment"
+    ]
+  },
+  {
+    "title": "Full Stack for Front-End Engineers",
+    "instructor": "Brian Holt",
+    "hours": 13.7,
+    "sections": [
+      {
+        "name": "Backend Fundamentals",
+        "lessons": [
+          "HTTP and REST APIs",
+          "Node.js + Express",
+          "Database Design",
+          "Authentication Basics"
+        ]
+      },
+      {
+        "name": "Database Deep Dive",
+        "lessons": [
+          "PostgreSQL Fundamentals",
+          "SQL vs NoSQL",
+          "Database Migrations",
+          "Query Optimization"
+        ]
+      },
+      {
+        "name": "Full Stack Integration",
+        "lessons": [
+          "Frontend-Backend Communication",
+          "Authentication Flow",
+          "Real-time with WebSockets",
+          "File Uploads"
+        ]
+      },
+      {
+        "name": "Production Full Stack",
+        "lessons": [
+          "Docker Containerization",
+          "CI/CD Pipelines",
+          "Monitoring and Logging",
+          "Scaling Strategies"
+        ]
+      }
+    ],
+    "slug": "fullstack-for-frontend",
+    "prerequisites": ["Frontend experience"],
+    "what_you_learn": [
+      "Complete full-stack development",
+      "Database design and optimization",
+      "Authentication and authorization",
+      "Containerization with Docker",
+      "Production deployment strategies"
+    ]
+  }
+]

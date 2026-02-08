@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Educative",
+    "url": "https://www.educative.io/",
+    "logo": "https://www.educative.io/static/imgs/logos/logoMarkv3.png",
+    "description": "Educative is a platform for online learning of coding skills through interactive, hands-on courses and so much more.",
+    "foundingDate": "2015",
+    "founders": [
+      {
+        "@type": "Person",
+        "name": "Fahim-ul-Haq"
+      },
+      {
+        "@type": "Person",
+        "name": "Naeem-ul-Haq"
+      }
+    ],
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "contactType": "customer service",
+      "url": "https://www.educative.io/contactUs"
+    },
+    "sameAs": [
+      "https://www.facebook.com/educativeinc",
+      "https://www.linkedin.com/company/educative-inc",
+      "https://twitter.com/educativeinc",
+      "https://www.instagram.com/educativeinc/"
+    ],
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "12280 NE District Way",
+      "addressLocality": "Bellevue",
+      "addressRegion": "WA",
+      "postalCode": "98005",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "US"
+      }
+    }
+  }
+]

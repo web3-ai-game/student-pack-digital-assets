@@ -1,0 +1,1445 @@
+[
+  {
+    "id": "frontend-masters-0",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Complete Intro to React (V8)",
+    "description": "The definitive guide to React for beginners.",
+    "topics": [
+      "React",
+      "JavaScript",
+      "Components"
+    ],
+    "level": "Beginner",
+    "hours": 0,
+    "url": "https://frontendmasters.com/complete-intro-to-react-v8"
+  },
+  {
+    "id": "frontend-masters-1",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Complete Intro to Linux, Part 1",
+    "description": "Master the Linux command line.",
+    "topics": [
+      "Linux",
+      "Command Line"
+    ],
+    "level": "Beginner",
+    "hours": 0,
+    "url": "https://frontendmasters.com/complete-intro-to-linux-part-1"
+  },
+  {
+    "id": "frontend-masters-2",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "JavaScript: The Hard Parts, V2",
+    "description": "Deep dive into JavaScript's tricky concepts.",
+    "topics": [
+      "JavaScript",
+      "Closures",
+      "Scope"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": "https://frontendmasters.com/javascript-hard-parts-v2"
+  },
+  {
+    "id": "frontend-masters-3",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Complete Intro to Containers, Part 1",
+    "description": "Introduction to Docker and containers.",
+    "topics": [
+      "Docker",
+      "Containers"
+    ],
+    "level": "Beginner",
+    "hours": 0,
+    "url": "https://frontendmasters.com/complete-intro-to-containers-part-1"
+  },
+  {
+    "id": "frontend-masters-4",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "CSS In-Depth, V3",
+    "description": "Master modern CSS techniques.",
+    "topics": [
+      "CSS",
+      "Layout",
+      "Animation"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": "https://frontendmasters.com/css-in-depth-v3"
+  },
+  {
+    "id": "frontend-masters-5",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "React Router: From Zero to GML",
+    "description": "Everything you need to know about React Router.",
+    "topics": [
+      "React Router"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": "https://frontendmasters.com/react-router-from-zero-to-gml"
+  },
+  {
+    "id": "frontend-masters-6",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Production-Grade TypeScript",
+    "description": "TypeScript for large-scale applications.",
+    "topics": [
+      "TypeScript"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": "https://frontendmasters.com/production-grade-typescript"
+  },
+  {
+    "id": "frontend-masters-7",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Advanced React Patterns",
+    "description": "Cutting-edge React patterns and hooks.",
+    "topics": [
+      "React",
+      "Patterns"
+    ],
+    "level": "Advanced",
+    "hours": 0,
+    "url": "https://frontendmasters.com/advanced-react-patterns"
+  },
+  {
+    "id": "frontend-masters-8",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Complete Intro to Real-Time",
+    "description": "Build real-time applications.",
+    "topics": [
+      "WebSockets",
+      "Real-time"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": "https://frontendmasters.com/complete-intro-to-real-time"
+  },
+  {
+    "id": "frontend-masters-9",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "The Hard Parts of Servers & Node.js",
+    "description": "Deep dive into Node.js internals.",
+    "topics": [
+      "Node.js",
+      "Servers"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": "https://frontendmasters.com/hard-parts-servers-node"
+  },
+  {
+    "id": "frontend-masters-10",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Vue 3 Concepts",
+    "description": "Master Vue 3 Composition API.",
+    "topics": [
+      "Vue.js"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": "https://frontendmasters.com/vue-3-concepts"
+  },
+  {
+    "id": "frontend-masters-11",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Svelte 3 Fundamentals",
+    "description": "Get started with Svelte.",
+    "topics": [
+      "Svelte"
+    ],
+    "level": "Beginner",
+    "hours": 0,
+    "url": "https://frontendmasters.com/svelte-3-fundamentals"
+  },
+  {
+    "id": "frontend-masters-12",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Angular Fundamentals",
+    "description": "Complete Angular introduction.",
+    "topics": [
+      "Angular"
+    ],
+    "level": "Beginner",
+    "hours": 0,
+    "url": "https://frontendmasters.com/angular-fundamentals"
+  },
+  {
+    "id": "frontend-masters-13",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Modern HTML",
+    "description": "HTML5 and modern best practices.",
+    "topics": [
+      "HTML",
+      "Semantics"
+    ],
+    "level": "Beginner",
+    "hours": 0,
+    "url": "https://frontendmasters.com/modern-html"
+  },
+  {
+    "id": "frontend-masters-14",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "JavaScript Performance",
+    "description": "Optimize JavaScript applications.",
+    "topics": [
+      "Performance",
+      "JavaScript"
+    ],
+    "level": "Advanced",
+    "hours": 0,
+    "url": "https://frontendmasters.com/javascript-performance"
+  },
+  {
+    "id": "frontend-masters-15",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Web Accessibility (A11y)",
+    "description": "Build accessible web applications.",
+    "topics": [
+      "Accessibility"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": "https://frontendmasters.com/web-accessibility"
+  },
+  {
+    "id": "frontend-masters-16",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Testing React Apps",
+    "description": "Comprehensive React testing strategies.",
+    "topics": [
+      "Testing",
+      "React"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": "https://frontendmasters.com/testing-react-apps"
+  },
+  {
+    "id": "frontend-masters-17",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "GraphQL with React",
+    "description": "Integrate GraphQL with React.",
+    "topics": [
+      "GraphQL",
+      "React"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": "https://frontendmasters.com/graphql-react"
+  },
+  {
+    "id": "frontend-masters-18",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Next.js Fundamentals, V4",
+    "description": "Build production Next.js apps.",
+    "topics": [
+      "Next.js"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": "https://frontendmasters.com/nextjs-fundamentals-v4"
+  },
+  {
+    "id": "frontend-masters-19",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Remix Fundamentals",
+    "description": "Full-stack React with Remix.",
+    "topics": [
+      "Remix"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": "https://frontendmasters.com/remix-fundamentals"
+  },
+  {
+    "id": "frontend-masters-20",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Complete Intro to Databases",
+    "description": "From SQL to NoSQL.",
+    "topics": [
+      "Databases",
+      "SQL"
+    ],
+    "level": "Beginner",
+    "hours": 0,
+    "url": "https://frontendmasters.com/complete-intro-to-databases"
+  },
+  {
+    "id": "frontend-masters-21",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "PostgreSQL Fundamentals",
+    "description": "Master PostgreSQL.",
+    "topics": [
+      "PostgreSQL"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": "https://frontendmasters.com/postgres-fundamentals"
+  },
+  {
+    "id": "frontend-masters-22",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "The Algorithms Course",
+    "description": "Essential algorithms for developers.",
+    "topics": [
+      "Algorithms",
+      "Data Structures"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": "https://frontendmasters.com/algorithms-course"
+  },
+  {
+    "id": "frontend-masters-23",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "System Design for Interviews",
+    "description": "Design scalable systems.",
+    "topics": [
+      "System Design"
+    ],
+    "level": "Advanced",
+    "hours": 0,
+    "url": "https://frontendmasters.com/system-design-interviews"
+  },
+  {
+    "id": "frontend-masters-24",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Rust for JavaScript Developers",
+    "description": "Learn Rust from a JS perspective.",
+    "topics": [
+      "Rust"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": "https://frontendmasters.com/rust-for-js-devs"
+  },
+  {
+    "id": "frontend-masters-25",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Go for JavaScript Developers",
+    "description": "Go programming for frontend devs.",
+    "topics": [
+      "Go"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": "https://frontendmasters.com/go-for-js-devs"
+  },
+  {
+    "id": "frontend-masters-26",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Python for Frontend Developers",
+    "description": "Python basics for web developers.",
+    "topics": [
+      "Python"
+    ],
+    "level": "Beginner",
+    "hours": 0,
+    "url": "https://frontendmasters.com/python-for-frontend"
+  },
+  {
+    "id": "frontend-masters-27",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Machine Learning for JavaScript",
+    "description": "ML in the browser with TensorFlow.js.",
+    "topics": [
+      "ML",
+      "JavaScript"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": "https://frontendmasters.com/ml-javascript"
+  },
+  {
+    "id": "frontend-masters-28",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "WebAssembly Fundamentals",
+    "description": "Introduction to WebAssembly.",
+    "topics": [
+      "WebAssembly"
+    ],
+    "level": "Advanced",
+    "hours": 0,
+    "url": "https://frontendmasters.com/wasm-fundamentals"
+  },
+  {
+    "id": "frontend-masters-29",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Advanced CSS Grid",
+    "description": "Master CSS Grid layouts.",
+    "topics": [
+      "CSS Grid"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": "https://frontendmasters.com/advanced-css-grid"
+  },
+  {
+    "id": "frontend-masters-30",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "CSS Animations & Transitions",
+    "description": "Create stunning CSS animations.",
+    "topics": [
+      "CSS",
+      "Animation"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": "https://frontendmasters.com/css-animations"
+  },
+  {
+    "id": "frontend-masters-31",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Tailwind CSS Complete Course",
+    "description": "Utility-first CSS with Tailwind.",
+    "topics": [
+      "Tailwind CSS"
+    ],
+    "level": "Beginner",
+    "hours": 0,
+    "url": "https://frontendmasters.com/tailwind-complete"
+  },
+  {
+    "id": "frontend-masters-32",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "React Performance",
+    "description": "Optimize React applications.",
+    "topics": [
+      "React",
+      "Performance"
+    ],
+    "level": "Advanced",
+    "hours": 0,
+    "url": "https://frontendmasters.com/react-performance"
+  },
+  {
+    "id": "frontend-masters-33",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Zustand State Management",
+    "description": "Lightweight React state management.",
+    "topics": [
+      "State Management"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": "https://frontendmasters.com/zustand-state"
+  },
+  {
+    "id": "frontend-masters-34",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "React Query",
+    "description": "Server state management with React Query.",
+    "topics": [
+      "Data Fetching"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": "https://frontendmasters.com/react-query"
+  },
+  {
+    "id": "frontend-masters-35",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "TypeScript 5 Fundamentals",
+    "description": "Complete TypeScript 5 course.",
+    "topics": [
+      "TypeScript"
+    ],
+    "level": "Beginner",
+    "hours": 0,
+    "url": "https://frontendmasters.com/typescript-5-fundamentals"
+  },
+  {
+    "id": "frontend-masters-36",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Advanced TypeScript",
+    "description": "TypeScript wizardry.",
+    "topics": [
+      "TypeScript"
+    ],
+    "level": "Advanced",
+    "hours": 0,
+    "url": "https://frontendmasters.com/advanced-typescript"
+  },
+  {
+    "id": "frontend-masters-37",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Node.js: The Complete Guide",
+    "description": "Build production Node.js apps.",
+    "topics": [
+      "Node.js"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": "https://frontendmasters.com/nodejs-complete"
+  },
+  {
+    "id": "frontend-masters-38",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Express.js Fundamentals",
+    "description": "Build APIs with Express.",
+    "topics": [
+      "Express.js"
+    ],
+    "level": "Beginner",
+    "hours": 0,
+    "url": "https://frontendmasters.com/express-fundamentals"
+  },
+  {
+    "id": "frontend-masters-39",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Prisma ORM Complete",
+    "description": "Modern database workflows with Prisma.",
+    "topics": [
+      "Prisma",
+      "ORM"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": "https://frontendmasters.com/prisma-complete"
+  },
+  {
+    "id": "frontend-masters-40",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "tRPC Fundamentals",
+    "description": "End-to-end typesafe APIs.",
+    "topics": [
+      "tRPC"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": "https://frontendmasters.com/trpc-fundamentals"
+  },
+  {
+    "id": "frontend-masters-41",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Docker Deep Dive",
+    "description": "Master Docker containers.",
+    "topics": [
+      "Docker"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": "https://frontendmasters.com/docker-deep-dive"
+  },
+  {
+    "id": "frontend-masters-42",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Kubernetes Fundamentals",
+    "description": "Orchestrate containers with Kubernetes.",
+    "topics": [
+      "Kubernetes"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": "https://frontendmasters.com/kubernetes-fundamentals"
+  },
+  {
+    "id": "frontend-masters-43",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "CI/CD Pipelines",
+    "description": "Automate your deployments.",
+    "topics": [
+      "DevOps",
+      "CI/CD"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": "https://frontendmasters.com/cicd-pipelines"
+  },
+  {
+    "id": "frontend-masters-44",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "React Native Fundamentals",
+    "description": "Build mobile apps with React Native.",
+    "topics": [
+      "React Native"
+    ],
+    "level": "Beginner",
+    "hours": 0,
+    "url": "https://frontendmasters.com/react-native-fundamentals"
+  },
+  {
+    "id": "frontend-masters-45",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Flutter for Web Developers",
+    "description": "Cross-platform mobile with Flutter.",
+    "topics": [
+      "Flutter"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": "https://frontendmasters.com/flutter-web-devs"
+  },
+  {
+    "id": "frontend-masters-46",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "PWA Fundamentals",
+    "description": "Build Progressive Web Apps.",
+    "topics": [
+      "PWA"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": "https://frontendmasters.com/pwa-fundamentals"
+  },
+  {
+    "id": "frontend-masters-47",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Web Vitals & Core Web Vitals",
+    "description": "Optimize for Core Web Vitals.",
+    "topics": [
+      "Performance"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": "https://frontendmasters.com/web-vitals"
+  },
+  {
+    "id": "frontend-masters-48",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Jamstack Architecture",
+    "description": "Modern web architecture patterns.",
+    "topics": [
+      "Jamstack"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": "https://frontendmasters.com/jamstack-architecture"
+  },
+  {
+    "id": "frontend-masters-49",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Micro Frontends",
+    "description": "Scale frontend teams with micro frontends.",
+    "topics": [
+      "Micro Frontends"
+    ],
+    "level": "Advanced",
+    "hours": 0,
+    "url": "https://frontendmasters.com/micro-frontends"
+  },
+  {
+    "id": "frontend-masters-50",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Design Systems with React",
+    "description": "Build scalable design systems.",
+    "topics": [
+      "Design Systems"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": "https://frontendmasters.com/design-systems-react"
+  },
+  {
+    "id": "frontend-masters-51",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Storybook Fundamentals",
+    "description": "Component development with Storybook.",
+    "topics": [
+      "Storybook"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": "https://frontendmasters.com/storybook-fundamentals"
+  },
+  {
+    "id": "frontend-masters-52",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Vite Fundamentals",
+    "description": "Fast bundler for modern web development.",
+    "topics": [
+      "Vite"
+    ],
+    "level": "Beginner",
+    "hours": 0,
+    "url": "https://frontendmasters.com/vite-fundamentals"
+  },
+  {
+    "id": "frontend-masters-53",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "esbuild & Bun",
+    "description": "Next-gen JavaScript tooling.",
+    "topics": [
+      "Build Tools"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": "https://frontendmasters.com/esbuild-bun"
+  },
+  {
+    "id": "frontend-masters-54",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Web Components Deep Dive",
+    "description": "Custom elements and Shadow DOM.",
+    "topics": [
+      "Web Components"
+    ],
+    "level": "Advanced",
+    "hours": 0,
+    "url": "https://frontendmasters.com/web-components-deep-dive"
+  },
+  {
+    "id": "frontend-masters-55",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Lit Fundamentals",
+    "description": "Build fast web components with Lit.",
+    "topics": [
+      "Lit"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": "https://frontendmasters.com/lit-fundamentals"
+  },
+  {
+    "id": "frontend-masters-56",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Solid.js Fundamentals",
+    "description": "Reactive UI framework.",
+    "topics": [
+      "Solid.js"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": "https://frontendmasters.com/solidjs-fundamentals"
+  },
+  {
+    "id": "frontend-masters-57",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Qwik Fundamentals",
+    "description": "Resumable framework for instant apps.",
+    "topics": [
+      "Qwik"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": "https://frontendmasters.com/qwik-fundamentals"
+  },
+  {
+    "id": "frontend-masters-58",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Signals Pattern",
+    "description": "Fine-grained reactivity with signals.",
+    "topics": [
+      "Signals"
+    ],
+    "level": "Advanced",
+    "hours": 0,
+    "url": "https://frontendmasters.com/signals-pattern"
+  },
+  {
+    "id": "frontend-masters-59",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Advanced JavaScript",
+    "description": "Deep JavaScript concepts.",
+    "topics": [
+      "JavaScript"
+    ],
+    "level": "Advanced",
+    "hours": 0,
+    "url": "https://frontendmasters.com/advanced-javascript"
+  },
+  {
+    "id": "frontend-masters-60",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Functional-Light JavaScript",
+    "description": "Practical functional programming.",
+    "topics": [
+      "Functional Programming"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": "https://frontendmasters.com/functional-light-js"
+  },
+  {
+    "id": "frontend-masters-61",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Async JavaScript",
+    "description": "Master asynchronous JavaScript.",
+    "topics": [
+      "Async",
+      "Promises"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": "https://frontendmasters.com/async-javascript"
+  },
+  {
+    "id": "frontend-masters-62",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Production JavaScript Debugging",
+    "description": "Debug production JavaScript apps.",
+    "topics": [
+      "Debugging"
+    ],
+    "level": "Advanced",
+    "hours": 0,
+    "url": "https://frontendmasters.com/production-js-debugging"
+  },
+  {
+    "id": "frontend-masters-63",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Effective Git",
+    "description": "Git workflows and best practices.",
+    "topics": [
+      "Git"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": "https://frontendmasters.com/effective-git"
+  },
+  {
+    "id": "frontend-masters-64",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Advanced Git",
+    "description": "Git for large teams.",
+    "topics": [
+      "Git"
+    ],
+    "level": "Advanced",
+    "hours": 0,
+    "url": "https://frontendmasters.com/advanced-git"
+  },
+  {
+    "id": "frontend-masters-65",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Security for Developers",
+    "description": "Web application security essentials.",
+    "topics": [
+      "Security"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": "https://frontendmasters.com/security-developers"
+  },
+  {
+    "id": "frontend-masters-66",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "OAuth & OpenID Connect",
+    "description": "Implement secure authentication.",
+    "topics": [
+      "Authentication"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": "https://frontendmasters.com/oauth-openid"
+  },
+  {
+    "id": "frontend-masters-67",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Redis Deep Dive",
+    "description": "In-memory data store mastery.",
+    "topics": [
+      "Redis"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": "https://frontendmasters.com/redis-deep-dive"
+  },
+  {
+    "id": "frontend-masters-68",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Advanced SQL",
+    "description": "Complex queries and optimization.",
+    "topics": [
+      "SQL"
+    ],
+    "level": "Advanced",
+    "hours": 0,
+    "url": "https://frontendmasters.com/advanced-sql"
+  },
+  {
+    "id": "frontend-masters-69",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "NoSQL Data Modeling",
+    "description": "Design effective NoSQL schemas.",
+    "topics": [
+      "NoSQL"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": "https://frontendmasters.com/nosql-modeling"
+  },
+  {
+    "id": "frontend-masters-70",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Apache Kafka Fundamentals",
+    "description": "Event streaming with Kafka.",
+    "topics": [
+      "Kafka"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": "https://frontendmasters.com/kafka-fundamentals"
+  },
+  {
+    "id": "frontend-masters-71",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Monitoring & Observability",
+    "description": "Production system monitoring.",
+    "topics": [
+      "Observability"
+    ],
+    "level": "Advanced",
+    "hours": 0,
+    "url": "https://frontendmasters.com/monitoring-observability"
+  },
+  {
+    "id": "frontend-masters-72",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Frontend Testing Strategies",
+    "description": "Complete testing guide.",
+    "topics": [
+      "Testing"
+    ],
+    "level": "Advanced",
+    "hours": 0,
+    "url": "https://frontendmasters.com/frontend-testing-strategies"
+  },
+  {
+    "id": "frontend-masters-73",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Cypress Fundamentals",
+    "description": "End-to-end testing with Cypress.",
+    "topics": [
+      "Cypress"
+    ],
+    "level": "Beginner",
+    "hours": 0,
+    "url": "https://frontendmasters.com/cypress-fundamentals"
+  },
+  {
+    "id": "frontend-masters-74",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Playwright Testing",
+    "description": "Cross-browser E2E testing.",
+    "topics": [
+      "Playwright"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": "https://frontendmasters.com/playwright-testing"
+  },
+  {
+    "id": "frontend-masters-75",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Complete Intro to GitHub Copilot",
+    "description": "AI-powered coding assistant.",
+    "topics": [
+      "AI",
+      "Copilot"
+    ],
+    "level": "Beginner",
+    "hours": 0,
+    "url": "https://frontendmasters.com/github-copilot-intro"
+  },
+  {
+    "id": "frontend-masters-76",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "AI Agents for Developers",
+    "description": "Build AI agents with JavaScript.",
+    "topics": [
+      "AI Agents"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": "https://frontendmasters.com/ai-agents-developers"
+  },
+  {
+    "id": "frontend-masters-77",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "LangChain.js Fundamentals",
+    "description": "LLM application framework.",
+    "topics": [
+      "LangChain"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": "https://frontendmasters.com/langchainjs-fundamentals"
+  },
+  {
+    "id": "frontend-masters-78",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Vector Databases with Pinecone",
+    "description": "Semantic search with vectors.",
+    "topics": [
+      "Vector DB"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": "https://frontendmasters.com/pinecone-vector-db"
+  },
+  {
+    "id": "frontend-masters-79",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "RAG Applications",
+    "description": "Retrieval Augmented Generation.",
+    "topics": [
+      "RAG",
+      "LLMs"
+    ],
+    "level": "Advanced",
+    "hours": 0,
+    "url": "https://frontendmasters.com/rag-applications"
+  },
+  {
+    "id": "frontend-masters-80",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Three.js Journey",
+    "description": "Complete Three.js course.",
+    "topics": [
+      "Three.js",
+      "WebGL"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": "https://frontendmasters.com/threejs-journey"
+  },
+  {
+    "id": "frontend-masters-81",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Advanced WebGL",
+    "description": "Custom shaders and rendering.",
+    "topics": [
+      "WebGL"
+    ],
+    "level": "Advanced",
+    "hours": 0,
+    "url": "https://frontendmasters.com/advanced-webgl"
+  },
+  {
+    "id": "frontend-masters-82",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Canvas API Deep Dive",
+    "description": "2D graphics programming.",
+    "topics": [
+      "Canvas"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": "https://frontendmasters.com/canvas-deep-dive"
+  },
+  {
+    "id": "frontend-masters-83",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "SVG Animations",
+    "description": "Animate vector graphics.",
+    "topics": [
+      "SVG"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": "https://frontendmasters.com/svg-animations"
+  },
+  {
+    "id": "frontend-masters-84",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Motion One",
+    "description": "Modern animation library.",
+    "topics": [
+      "Animation"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": "https://frontendmasters.com/motion-one"
+  },
+  {
+    "id": "frontend-masters-85",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Framer Motion React",
+    "description": "Animation library for React.",
+    "topics": [
+      "Framer Motion"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": "https://frontendmasters.com/framer-motion-react"
+  },
+  {
+    "id": "frontend-masters-86",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "React Spring",
+    "description": "Physics-based animations.",
+    "topics": [
+      "React Spring"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": "https://frontendmasters.com/react-spring"
+  },
+  {
+    "id": "frontend-masters-87",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "CSS-in-JS Deep Dive",
+    "description": "Styled-components, Emotion, etc.",
+    "topics": [
+      "CSS-in-JS"
+    ],
+    "level": "Advanced",
+    "hours": 0,
+    "url": "https://frontendmasters.com/css-in-js-deep-dive"
+  },
+  {
+    "id": "frontend-masters-88",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "UnoCSS Fundamentals",
+    "description": "The instant on-demand atomic CSS engine.",
+    "topics": [
+      "UnoCSS"
+    ],
+    "level": "Beginner",
+    "hours": 0,
+    "url": "https://frontendmasters.com/unocss-fundamentals"
+  },
+  {
+    "id": "frontend-masters-89",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Shadcn/UI Complete",
+    "description": "Accessible UI components.",
+    "topics": [
+      "UI Components"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": "https://frontendmasters.com/shadcn-ui-complete"
+  },
+  {
+    "id": "frontend-masters-90",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Radix UI Primitives",
+    "description": "Unstyled accessible components.",
+    "topics": [
+      "Radix UI"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": "https://frontendmasters.com/radix-ui-primitives"
+  },
+  {
+    "id": "frontend-masters-91",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Headless UI",
+    "description": "Completely unstyled components.",
+    "topics": [
+      "Headless UI"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": "https://frontendmasters.com/headless-ui"
+  },
+  {
+    "id": "frontend-masters-92",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "React Aria",
+    "description": "Accessible UI primitives.",
+    "topics": [
+      "React Aria"
+    ],
+    "level": "Advanced",
+    "hours": 0,
+    "url": "https://frontendmasters.com/react-aria"
+  },
+  {
+    "id": "frontend-masters-93",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Zod Validation",
+    "description": "TypeScript-first schema validation.",
+    "topics": [
+      "Validation"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": "https://frontendmasters.com/zod-validation"
+  },
+  {
+    "id": "frontend-masters-94",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "React Hook Form",
+    "description": "Performant form library.",
+    "topics": [
+      "Forms"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": "https://frontendmasters.com/react-hook-form"
+  },
+  {
+    "id": "frontend-masters-95",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "React Table v8",
+    "description": "Headless table library.",
+    "topics": [
+      "Tables"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": "https://frontendmasters.com/react-table-v8"
+  },
+  {
+    "id": "frontend-masters-96",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "TanStack Query Advanced",
+    "description": "Advanced server state management.",
+    "topics": [
+      "Data Fetching"
+    ],
+    "level": "Advanced",
+    "hours": 0,
+    "url": "https://frontendmasters.com/tanstack-query-advanced"
+  },
+  {
+    "id": "frontend-masters-97",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Zustand Advanced",
+    "description": "Advanced Zustand patterns.",
+    "topics": [
+      "State"
+    ],
+    "level": "Advanced",
+    "hours": 0,
+    "url": "https://frontendmasters.com/zustand-advanced"
+  },
+  {
+    "id": "frontend-masters-98",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Recoil State Management",
+    "description": "Facebook's state management library.",
+    "topics": [
+      "Recoil"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": "https://frontendmasters.com/recoil-state"
+  },
+  {
+    "id": "frontend-masters-99",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Jotai Atoms",
+    "description": "Primitive atom-based state.",
+    "topics": [
+      "Jotai"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": "https://frontendmasters.com/jotai-atoms"
+  },
+  {
+    "id": "frontend-masters-100",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "XState v5",
+    "description": "Finite state machines and actors.",
+    "topics": [
+      "State Machines"
+    ],
+    "level": "Advanced",
+    "hours": 0,
+    "url": "https://frontendmasters.com/xstate-v5"
+  },
+  {
+    "id": "frontend-masters-101",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "React Compiler",
+    "description": "Automatic memoization with React Compiler.",
+    "topics": [
+      "React Compiler"
+    ],
+    "level": "Advanced",
+    "hours": 0,
+    "url": "https://frontendmasters.com/react-compiler"
+  },
+  {
+    "id": "frontend-masters-102",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Server Components",
+    "description": "React Server Components deep dive.",
+    "topics": [
+      "Server Components"
+    ],
+    "level": "Advanced",
+    "hours": 0,
+    "url": "https://frontendmasters.com/server-components"
+  },
+  {
+    "id": "frontend-masters-103",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Next.js App Router",
+    "description": "Master the App Router.",
+    "topics": [
+      "Next.js"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": "https://frontendmasters.com/nextjs-app-router"
+  },
+  {
+    "id": "frontend-masters-104",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Next.js 15",
+    "description": "Latest Next.js features.",
+    "topics": [
+      "Next.js"
+    ],
+    "level": "Advanced",
+    "hours": 0,
+    "url": "https://frontendmasters.com/nextjs-15"
+  },
+  {
+    "id": "frontend-masters-105",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Vercel Deployment",
+    "description": "Deploy to Vercel edge network.",
+    "topics": [
+      "Deployment"
+    ],
+    "level": "Beginner",
+    "hours": 0,
+    "url": "https://frontendmasters.com/vercel-deployment"
+  },
+  {
+    "id": "frontend-masters-106",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Cloudflare Workers",
+    "description": "Serverless at the edge.",
+    "topics": [
+      "Edge Computing"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": "https://frontendmasters.com/cloudflare-workers"
+  },
+  {
+    "id": "frontend-masters-107",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Deno Fundamentals",
+    "description": "Secure JavaScript runtime.",
+    "topics": [
+      "Deno"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": "https://frontendmasters.com/deno-fundamentals"
+  },
+  {
+    "id": "frontend-masters-108",
+    "platform": "Frontend Masters",
+    "type": "video_course",
+    "title": "Bun Runtime",
+    "description": "Fastest JavaScript runtime.",
+    "topics": [
+      "Bun"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": "https://frontendmasters.com/bun-runtime"
+  }
+]

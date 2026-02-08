@@ -1,0 +1,2023 @@
+[
+  {
+    "id": "educative-0",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Grokking the System Design Interview",
+    "description": "Master system design fundamentals for tech interviews.",
+    "topics": [
+      "System Design",
+      "Scalability",
+      "Distributed Systems"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-1",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Grokking the Coding Interview",
+    "description": "Patterns for coding interviews at FAANG companies.",
+    "topics": [
+      "Algorithms",
+      "Data Structures",
+      "Coding Patterns"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-2",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Grokking Modern System Design for Engineers",
+    "description": "Advanced system design concepts.",
+    "topics": [
+      "Microservices",
+      "Databases",
+      "Caching"
+    ],
+    "level": "Advanced",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-3",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Python for Programmers",
+    "description": "Python fundamentals for developers.",
+    "topics": [
+      "Python",
+      "OOP",
+      "Data Structures"
+    ],
+    "level": "Beginner",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-4",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Advanced Python Mastery",
+    "description": "Deep dive into advanced Python.",
+    "topics": [
+      "Python",
+      "Concurrency",
+      "Metaprogramming"
+    ],
+    "level": "Advanced",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-5",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Python Data Structures & Algorithms",
+    "description": "DSA in Python.",
+    "topics": [
+      "Python",
+      "Algorithms",
+      "DSA"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-6",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Java Fundamentals",
+    "description": "Core Java concepts.",
+    "topics": [
+      "Java",
+      "OOP",
+      "Collections"
+    ],
+    "level": "Beginner",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-7",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Java Multithreading and Concurrency",
+    "description": "Master Java concurrency.",
+    "topics": [
+      "Java",
+      "Threads",
+      "Concurrency"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-8",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Spring Boot Fundamentals",
+    "description": "Build Spring Boot applications.",
+    "topics": [
+      "Java",
+      "Spring",
+      "Microservices"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-9",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Go Programming for Beginners",
+    "description": "Introduction to Go programming.",
+    "topics": [
+      "Go",
+      "Goroutines",
+      "Channels"
+    ],
+    "level": "Beginner",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-10",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Advanced Go: Concurrency Patterns",
+    "description": "Go concurrency mastery.",
+    "topics": [
+      "Go",
+      "Concurrency",
+      "Microservices"
+    ],
+    "level": "Advanced",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-11",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Rust Fundamentals",
+    "description": "Learn Rust safely.",
+    "topics": [
+      "Rust",
+      "Ownership",
+      "Borrowing"
+    ],
+    "level": "Beginner",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-12",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Rust for Systems Programming",
+    "description": "Systems programming with Rust.",
+    "topics": [
+      "Rust",
+      "Systems",
+      "Performance"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-13",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "JavaScript Modern ES6+",
+    "description": "Modern JavaScript essentials.",
+    "topics": [
+      "JavaScript",
+      "ES6",
+      "Async"
+    ],
+    "level": "Beginner",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-14",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "React - The Complete Guide",
+    "description": "Build React applications.",
+    "topics": [
+      "React",
+      "JavaScript",
+      "Hooks"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-15",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Node.js and Express.js",
+    "description": "Backend development with Node.",
+    "topics": [
+      "Node.js",
+      "Express",
+      "API"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-16",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Machine Learning Fundamentals",
+    "description": "Intro to machine learning.",
+    "topics": [
+      "ML",
+      "Python",
+      "Scikit-learn"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-17",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Deep Learning with TensorFlow",
+    "description": "Build deep learning models.",
+    "topics": [
+      "Deep Learning",
+      "TensorFlow",
+      "Neural Networks"
+    ],
+    "level": "Advanced",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-18",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "AWS Certified Solutions Architect",
+    "description": "AWS cloud certification prep.",
+    "topics": [
+      "AWS",
+      "Cloud",
+      "Architecture"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-19",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Kubernetes Fundamentals",
+    "description": "Master Kubernetes basics.",
+    "topics": [
+      "Kubernetes",
+      "Containers",
+      "Orchestration"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-20",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Docker and Containerization",
+    "description": "Containerize applications with Docker.",
+    "topics": [
+      "Docker",
+      "Containers",
+      "CI/CD"
+    ],
+    "level": "Beginner",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-21",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Microservices with Spring Boot",
+    "description": "Design microservices architecture.",
+    "topics": [
+      "Microservices",
+      "Spring",
+      "Java"
+    ],
+    "level": "Advanced",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-22",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "System Design Interview Path",
+    "description": "Complete system design interview preparation.",
+    "topics": [
+      "System Design",
+      "Distributed Systems",
+      "Scalability"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-23",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Coding Interview Path",
+    "description": "Master coding interviews.",
+    "topics": [
+      "Algorithms",
+      "Data Structures",
+      "Patterns"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-24",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Python Developer Path",
+    "description": "Become a Python developer.",
+    "topics": [
+      "Python",
+      "Web",
+      "Data Science"
+    ],
+    "level": "Beginner",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-25",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Java Spring Developer Path",
+    "description": "Full-stack Java development.",
+    "topics": [
+      "Java",
+      "Spring",
+      "Microservices"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-26",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Full Stack Web Development Path",
+    "description": "Complete web development path.",
+    "topics": [
+      "JavaScript",
+      "React",
+      "Node.js"
+    ],
+    "level": "Beginner",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-27",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "DevOps Engineer Path",
+    "description": "DevOps fundamentals and advanced.",
+    "topics": [
+      "Docker",
+      "Kubernetes",
+      "CI/CD"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-28",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Machine Learning Engineer Path",
+    "description": "ML engineering career path.",
+    "topics": [
+      "ML",
+      "Deep Learning",
+      "Deployment"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-29",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Cloud Native Path",
+    "description": "Cloud native development.",
+    "topics": [
+      "Kubernetes",
+      "Microservices",
+      "Cloud"
+    ],
+    "level": "Advanced",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-30",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Grokking Dynamic Programming",
+    "description": "Master dynamic programming patterns.",
+    "topics": [
+      "DP",
+      "Algorithms"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-31",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Grokking the SQL Interview",
+    "description": "SQL interview preparation.",
+    "topics": [
+      "SQL",
+      "Databases"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-32",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Grokking the Object Oriented Design Interview",
+    "description": "Object-oriented design mastery.",
+    "topics": [
+      "OOD",
+      "Design Patterns"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-33",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Python SQLAlchemy ORM",
+    "description": "Database handling with Python.",
+    "topics": [
+      "Python",
+      "SQL",
+      "ORM"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-34",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "FastAPI - The Complete Guide",
+    "description": "Modern Python web APIs.",
+    "topics": [
+      "Python",
+      "FastAPI",
+      "API"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-35",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Django for Beginners",
+    "description": "Build web apps with Django.",
+    "topics": [
+      "Django",
+      "Python",
+      "Web"
+    ],
+    "level": "Beginner",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-36",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Java 17 New Features",
+    "description": "Latest Java features.",
+    "topics": [
+      "Java",
+      "Records",
+      "Pattern Matching"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-37",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Java Performance Tuning",
+    "description": "Optimize Java applications.",
+    "topics": [
+      "Java",
+      "JVM",
+      "Performance"
+    ],
+    "level": "Advanced",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-38",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Go Microservices",
+    "description": "Microservices in Go.",
+    "topics": [
+      "Go",
+      "Microservices",
+      "gRPC"
+    ],
+    "level": "Advanced",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-39",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Rust Web Development",
+    "description": "Web apps with Rust.",
+    "topics": [
+      "Rust",
+      "Actix",
+      "Web"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-40",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "TypeScript Advanced",
+    "description": "Master TypeScript.",
+    "topics": [
+      "TypeScript",
+      "Advanced Types"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-41",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Next.js Fundamentals",
+    "description": "Server-side React with Next.js.",
+    "topics": [
+      "Next.js",
+      "React",
+      "SSR"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-42",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Vue.js Complete Guide",
+    "description": "Build Vue applications.",
+    "topics": [
+      "Vue.js",
+      "Vuex",
+      "Composition API"
+    ],
+    "level": "Beginner",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-43",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "ML Operations (MLOps)",
+    "description": "Productionize ML models.",
+    "topics": [
+      "MLOps",
+      "MLflow",
+      "Deployment"
+    ],
+    "level": "Advanced",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-44",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "PyTorch Deep Learning",
+    "description": "Deep learning with PyTorch.",
+    "topics": [
+      "PyTorch",
+      "Deep Learning"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-45",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Azure Fundamentals",
+    "description": "Microsoft Azure basics.",
+    "topics": [
+      "Azure",
+      "Cloud"
+    ],
+    "level": "Beginner",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-46",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Google Cloud Professional",
+    "description": "GCP certification prep.",
+    "topics": [
+      "GCP",
+      "Cloud"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-47",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Kubernetes Certified Administrator (CKA)",
+    "description": "Kubernetes certification.",
+    "topics": [
+      "Kubernetes",
+      "CKA"
+    ],
+    "level": "Advanced",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-48",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Docker Advanced",
+    "description": "Advanced Docker techniques.",
+    "topics": [
+      "Docker",
+      "Compose",
+      "Swarm"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-49",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Microservices Testing",
+    "description": "Test microservices effectively.",
+    "topics": [
+      "Microservices",
+      "Testing",
+      "Contract Testing"
+    ],
+    "level": "Advanced",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-50",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "GraphQL with Apollo",
+    "description": "API development with GraphQL.",
+    "topics": [
+      "GraphQL",
+      "Apollo",
+      "Schema"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-51",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Redis Deep Dive",
+    "description": "Master Redis in-memory store.",
+    "topics": [
+      "Redis",
+      "Caching",
+      "Pub/Sub"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-52",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "PostgreSQL Administration",
+    "description": "Manage PostgreSQL databases.",
+    "topics": [
+      "PostgreSQL",
+      "Database"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-53",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "MongoDB for Developers",
+    "description": "NoSQL with MongoDB.",
+    "topics": [
+      "MongoDB",
+      "NoSQL"
+    ],
+    "level": "Beginner",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-54",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Apache Kafka Fundamentals",
+    "description": "Event streaming with Kafka.",
+    "topics": [
+      "Kafka",
+      "Streaming"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-55",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Terraform Infrastructure as Code",
+    "description": "Infrastructure automation.",
+    "topics": [
+      "Terraform",
+      "IaC"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-56",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Jenkins CI/CD Pipeline",
+    "description": "Build CI/CD pipelines.",
+    "topics": [
+      "Jenkins",
+      "CI/CD"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-57",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Prometheus and Grafana",
+    "description": "Observability stack.",
+    "topics": [
+      "Monitoring",
+      "Prometheus",
+      "Grafana"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-58",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Git Advanced",
+    "description": "Master Git workflows.",
+    "topics": [
+      "Git",
+      "Version Control"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-59",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Agile and Scrum Master",
+    "description": "Agile methodologies.",
+    "topics": [
+      "Agile",
+      "Scrum"
+    ],
+    "level": "Beginner",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-60",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Leadership for Engineers",
+    "description": "Technical leadership skills.",
+    "topics": [
+      "Leadership",
+      "Engineering"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-61",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Behavioral Interview Prep",
+    "description": "Ace behavioral interviews.",
+    "topics": [
+      "Interviews",
+      "Behavioral"
+    ],
+    "level": "Beginner",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-62",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Data Structures in JavaScript",
+    "description": "DSA implementation in JS.",
+    "topics": [
+      "DSA",
+      "JavaScript"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-63",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Algorithms in Python",
+    "description": "Algorithmic problem solving.",
+    "topics": [
+      "Algorithms",
+      "Python"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-64",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Big O Notation Mastery",
+    "description": "Understand time/space complexity.",
+    "topics": [
+      "Big O",
+      "Complexity"
+    ],
+    "level": "Beginner",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-65",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Binary Search Patterns",
+    "description": "Binary search techniques.",
+    "topics": [
+      "Binary Search",
+      "Patterns"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-66",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Sliding Window Technique",
+    "description": "Efficient array processing.",
+    "topics": [
+      "Sliding Window",
+      "Arrays"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-67",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Two Pointers Technique",
+    "description": "Two pointers algorithm.",
+    "topics": [
+      "Two Pointers",
+      "Arrays"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-68",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Merge Intervals",
+    "description": "Interval problem patterns.",
+    "topics": [
+      "Intervals",
+      "Algorithms"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-69",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Cyclic Sort Pattern",
+    "description": "Cyclic sort technique.",
+    "topics": [
+      "Cyclic Sort",
+      "Arrays"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-70",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "In-place Reversal of Linked List",
+    "description": "Linked list manipulations.",
+    "topics": [
+      "Linked Lists",
+      "Reversal"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-71",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Tree BFS and DFS",
+    "description": "Tree traversals.",
+    "topics": [
+      "Trees",
+      "BFS",
+      "DFS"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-72",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Graph Algorithms",
+    "description": "Graph traversal and shortest paths.",
+    "topics": [
+      "Graphs",
+      "BFS",
+      "DFS"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-73",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Top K Elements",
+    "description": "Heap-based solutions.",
+    "topics": [
+      "Heaps",
+      "Priority Queue"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-74",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "K-way Merge",
+    "description": "Multi-way merging.",
+    "topics": [
+      "Heaps",
+      "Merge"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-75",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Topological Sort",
+    "description": "Graph ordering.",
+    "topics": [
+      "Graphs",
+      "Topological Sort"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-76",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Monotonic Stack",
+    "description": "Monotonic stack pattern.",
+    "topics": [
+      "Stack",
+      "Monotonic"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-77",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Subsets Pattern",
+    "description": "Backtracking for subsets.",
+    "topics": [
+      "Backtracking",
+      "Subsets"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-78",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Modified Binary Search",
+    "description": "Advanced binary search.",
+    "topics": [
+      "Binary Search",
+      "Modified"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-79",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Bitwise XOR",
+    "description": "Bit manipulation tricks.",
+    "topics": [
+      "Bitwise",
+      "XOR"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-80",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "JavaScript Algorithms and Data Structures",
+    "description": "DSA mastery in JavaScript.",
+    "topics": [
+      "JavaScript",
+      "DSA"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-81",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Go for Backend Developers",
+    "description": "Backend development with Go.",
+    "topics": [
+      "Go",
+      "Backend"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-82",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Rust Systems Programming Path",
+    "description": "Systems programming career path.",
+    "topics": [
+      "Rust",
+      "Systems"
+    ],
+    "level": "Advanced",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-83",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Frontend Mastery Path",
+    "description": "Complete frontend development.",
+    "topics": [
+      "React",
+      "TypeScript",
+      "Next.js"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-84",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Backend Engineering Path",
+    "description": "Backend engineering skills.",
+    "topics": [
+      "Node.js",
+      "Databases",
+      "APIs"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-85",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Data Engineering Path",
+    "description": "Data pipeline engineering.",
+    "topics": [
+      "Python",
+      "Spark",
+      "Kafka"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-86",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Security Engineering Path",
+    "description": "Application security.",
+    "topics": [
+      "Security",
+      "OAuth",
+      "Encryption"
+    ],
+    "level": "Advanced",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-87",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Blockchain Fundamentals",
+    "description": "Intro to blockchain development.",
+    "topics": [
+      "Blockchain",
+      "Solidity"
+    ],
+    "level": "Beginner",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-88",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Ethereum Smart Contracts",
+    "description": "Write smart contracts.",
+    "topics": [
+      "Solidity",
+      "Ethereum"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-89",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Web3 Development",
+    "description": "Decentralized applications.",
+    "topics": [
+      "Web3",
+      "DApps"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-90",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Apache Spark Big Data",
+    "description": "Process big data with Spark.",
+    "topics": [
+      "Spark",
+      "Big Data"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-91",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Airflow Data Pipelines",
+    "description": "Workflow orchestration.",
+    "topics": [
+      "Airflow",
+      "Orchestration"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-92",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Elasticsearch and Kibana",
+    "description": "Search and analytics engine.",
+    "topics": [
+      "Elasticsearch",
+      "Search"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-93",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "gRPC Microservices",
+    "description": "High-performance RPC.",
+    "topics": [
+      "gRPC",
+      "Protocol Buffers"
+    ],
+    "level": "Advanced",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-94",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Istio Service Mesh",
+    "description": "Microservices networking.",
+    "topics": [
+      "Istio",
+      "Service Mesh"
+    ],
+    "level": "Advanced",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-95",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Helm Kubernetes Package Manager",
+    "description": "Package and deploy apps.",
+    "topics": [
+      "Helm",
+      "Kubernetes"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-96",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "AWS Lambda Serverless",
+    "description": "Serverless computing.",
+    "topics": [
+      "Lambda",
+      "Serverless"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-97",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Multi-Cloud Architecture",
+    "description": "Architect across clouds.",
+    "topics": [
+      "Multi-Cloud",
+      "AWS",
+      "Azure"
+    ],
+    "level": "Advanced",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-98",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Chaos Engineering",
+    "description": "Build resilient systems.",
+    "topics": [
+      "Chaos Engineering",
+      "Resilience"
+    ],
+    "level": "Advanced",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-99",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Distributed Tracing with Jaeger",
+    "description": "Microservices observability.",
+    "topics": [
+      "Tracing",
+      "Observability"
+    ],
+    "level": "Advanced",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-100",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Database Internals",
+    "description": "How databases work inside.",
+    "topics": [
+      "Databases",
+      "Storage Engines"
+    ],
+    "level": "Advanced",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-101",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Distributed Databases",
+    "description": "Scaling databases horizontally.",
+    "topics": [
+      "Distributed DB",
+      "CAP Theorem"
+    ],
+    "level": "Advanced",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-102",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Event-Driven Architecture",
+    "description": "Reactive systems design.",
+    "topics": [
+      "Event-Driven",
+      "CQRS",
+      "Event Sourcing"
+    ],
+    "level": "Advanced",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-103",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Domain-Driven Design",
+    "description": "Strategic software design.",
+    "topics": [
+      "DDD",
+      "Microservices"
+    ],
+    "level": "Advanced",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-104",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Clean Architecture",
+    "description": "Sustainable software design.",
+    "topics": [
+      "Clean Code",
+      "Architecture"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-105",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Software Architecture Patterns",
+    "description": "Common architecture patterns.",
+    "topics": [
+      "Architecture",
+      "Patterns"
+    ],
+    "level": "Advanced",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-106",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Performance Engineering",
+    "description": "Optimize system performance.",
+    "topics": [
+      "Performance",
+      "Profiling"
+    ],
+    "level": "Advanced",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-107",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Real-time Web Applications",
+    "description": "Build real-time apps.",
+    "topics": [
+      "WebSockets",
+      "Socket.io"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-108",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Progressive Web Apps (PWA)",
+    "description": "App-like web experiences.",
+    "topics": [
+      "PWA",
+      "Service Workers"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-109",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Mobile-First CSS",
+    "description": "Modern responsive design.",
+    "topics": [
+      "CSS",
+      "Responsive"
+    ],
+    "level": "Beginner",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-110",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Tailwind CSS Complete",
+    "description": "Rapid UI development.",
+    "topics": [
+      "Tailwind",
+      "Utility CSS"
+    ],
+    "level": "Beginner",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-111",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Storybook Component Library",
+    "description": "Component documentation.",
+    "topics": [
+      "Storybook",
+      "Components"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-112",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Testing React Applications",
+    "description": "Comprehensive React testing.",
+    "topics": [
+      "Testing",
+      "React",
+      "Jest"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-113",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Python Unit Testing",
+    "description": "Test-driven Python development.",
+    "topics": [
+      "Python",
+      "Testing",
+      "Pytest"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-114",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Contract Testing Microservices",
+    "description": "API contract testing.",
+    "topics": [
+      "Contract Testing",
+      "Pact"
+    ],
+    "level": "Advanced",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-115",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Load Testing with Artillery",
+    "description": "Stress test your APIs.",
+    "topics": [
+      "Load Testing",
+      "Performance"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-116",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Cybersecurity Fundamentals",
+    "description": "Secure coding practices.",
+    "topics": [
+      "Security",
+      "OWASP"
+    ],
+    "level": "Beginner",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-117",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "OAuth 2.0 and OpenID Connect",
+    "description": "Identity and access management.",
+    "topics": [
+      "OAuth",
+      "Authentication"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-118",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Data Privacy and GDPR",
+    "description": "Compliance fundamentals.",
+    "topics": [
+      "GDPR",
+      "Privacy"
+    ],
+    "level": "Beginner",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-119",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "FinTech Engineering",
+    "description": "Financial technology development.",
+    "topics": [
+      "FinTech",
+      "Payments"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-120",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Game Development with Unity",
+    "description": "Create 2D/3D games.",
+    "topics": [
+      "Unity",
+      "C#",
+      "Games"
+    ],
+    "level": "Beginner",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-121",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Augmented Reality Development",
+    "description": "AR app development.",
+    "topics": [
+      "AR",
+      "ARKit",
+      "ARCore"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-122",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "IoT Fundamentals",
+    "description": "Internet of Things basics.",
+    "topics": [
+      "IoT",
+      "MQTT",
+      "Edge Computing"
+    ],
+    "level": "Beginner",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-123",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Computer Vision with OpenCV",
+    "description": "Image processing and CV.",
+    "topics": [
+      "Computer Vision",
+      "OpenCV"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-124",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Natural Language Processing",
+    "description": "Text processing with ML.",
+    "topics": [
+      "NLP",
+      "Transformers"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-125",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Reinforcement Learning",
+    "description": "Agent-based learning.",
+    "topics": [
+      "RL",
+      "Q-Learning"
+    ],
+    "level": "Advanced",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-126",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Time Series Analysis",
+    "description": "Predictive analytics.",
+    "topics": [
+      "Time Series",
+      "Forecasting"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-127",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Generative AI with Stable Diffusion",
+    "description": "Create AI-generated art.",
+    "topics": [
+      "Generative AI",
+      "Diffusion Models"
+    ],
+    "level": "Advanced",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-128",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Quantum Computing Intro",
+    "description": "Basics of quantum programming.",
+    "topics": [
+      "Quantum Computing",
+      "Qiskit"
+    ],
+    "level": "Beginner",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-129",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Edge AI and TinyML",
+    "description": "AI on microcontrollers.",
+    "topics": [
+      "Edge AI",
+      "TensorFlow Lite"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-130",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Sustainable Software Engineering",
+    "description": "Environmentally friendly coding.",
+    "topics": [
+      "Green Software",
+      "Carbon Footprint"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-131",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Technical Writing for Developers",
+    "description": "Communicate technical ideas.",
+    "topics": [
+      "Technical Writing",
+      "Documentation"
+    ],
+    "level": "Beginner",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-132",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Open Source Contribution Guide",
+    "description": "Contribute to open source.",
+    "topics": [
+      "Open Source",
+      "GitHub"
+    ],
+    "level": "Beginner",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-133",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Personal Branding for Engineers",
+    "description": "Build your tech brand.",
+    "topics": [
+      "Branding",
+      "LinkedIn"
+    ],
+    "level": "Beginner",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-134",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Negotiation for Tech Professionals",
+    "description": "Salary negotiation skills.",
+    "topics": [
+      "Negotiation",
+      "Salary"
+    ],
+    "level": "Beginner",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-135",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Engineering Manager Path",
+    "description": "Transition to engineering management.",
+    "topics": [
+      "Management",
+      "Leadership"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-136",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Staff Engineer Path",
+    "description": "Senior technical leadership.",
+    "topics": [
+      "Staff Engineering",
+      "Architecture"
+    ],
+    "level": "Advanced",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-137",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Full-Stack AI Engineer Path",
+    "description": "AI from model to production.",
+    "topics": [
+      "AI",
+      "ML",
+      "Deployment"
+    ],
+    "level": "Intermediate",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-138",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Cloud Architect Path",
+    "description": "Cloud solutions architecture.",
+    "topics": [
+      "Cloud",
+      "Architecture",
+      "Multi-Cloud"
+    ],
+    "level": "Advanced",
+    "hours": 0,
+    "url": ""
+  },
+  {
+    "id": "educative-139",
+    "platform": "Educative",
+    "type": "text_course",
+    "title": "Site Reliability Engineering Path",
+    "description": "SRE practices and tools.",
+    "topics": [
+      "SRE",
+      "Reliability",
+      "Observability"
+    ],
+    "level": "Advanced",
+    "hours": 0,
+    "url": ""
+  }
+]

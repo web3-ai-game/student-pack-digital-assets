@@ -1,0 +1,378 @@
+[
+  {
+    "url": "https://frontendmasters.com/courses/javascript-hard-parts-v3/",
+    "title": "Closure, Async, and OOP: The Hard Parts of JavaScript",
+    "instructor": "",
+    "duration": "7 Hours",
+    "lessons": [
+      "Chapters",
+      "Why Take This Course?",
+      "What You'll Learn",
+      "Founder &amp; Chief AI Officer",
+      "Visiting Fellow at the University of Oxford",
+      "Hard Parts Series",
+      "Best in Class Course Player"
+    ],
+    "textSnippet": "Closure, Async, and OOP: The Hard Parts of JavaScript | Frontend Masters Skip to main content FrontendMasters Join Login Close Video Player is loading. Play Skip backward 10 seconds Skip forward 10 seconds Mute Current Time 0:00 / Duration 12:55 Loaded : 0.39% 00:00 Stream Type LIVE Seek to live, currently behind live LIVE Remaining Time - 12:55 1x Playback Rate 3x 2.5x 2x 1.8x 1.6x 1.4x 1.2x 1.1x 1x , selected 0.9x 0.8x Chapters Chapters Descriptions descriptions off , selected auto auto (720) "
+  },
+  {
+    "url": "https://frontendmasters.com/courses/ai-agents-v2/",
+    "title": "AI Agents | LLMs, Tool Calling, and Human-in-the-Loop",
+    "instructor": "",
+    "duration": "7 hours",
+    "lessons": [],
+    "textSnippet": "AI Agents | LLMs, Tool Calling, and Human-in-the-Loop | Frontend Masters Skip to main content FrontendMasters Paths Courses Tutorials Blog Features Overview For Teams For Enterprise Pricing Search Join Now Login Contact: support@frontendmasters.com Close AI Agents Fundamentals, v2 Scott Moss Netflix 7 hours, 10 minutes CC Course Description Create a CLI agent from scratch! Learn the foundations of agent development like tool calling, agent loops, and and evals. Add human-in-the-loop approvals fo"
+  },
+  {
+    "url": "https://frontendmasters.com/courses/winning-websites/",
+    "title": "Build Immersive Experiences",
+    "instructor": "",
+    "duration": "3 Hours",
+    "lessons": [
+      "Chapters",
+      "Why Take This Course?",
+      "What You'll Learn",
+      "Design Engineer at Vercel",
+      "basement studios",
+      "Experiements",
+      "Best in Class Course Player"
+    ],
+    "textSnippet": "Build Immersive Experiences | Frontend Masters Skip to main content FrontendMasters Join Login Close Video Player is loading. Play Skip backward 10 seconds Skip forward 10 seconds Mute Current Time 0:00 / Duration 14:42 Loaded : 0.34% 00:00 Stream Type LIVE Seek to live, currently behind live LIVE Remaining Time - 14:42 1x Playback Rate 3x 2.5x 2x 1.8x 1.6x 1.4x 1.2x 1.1x 1x , selected 0.9x 0.8x Chapters Chapters Descriptions descriptions off , selected auto auto (720) 2160 1440 1080 720 360 Aud"
+  },
+  {
+    "url": "https://frontendmasters.com/courses/backend-system-design/",
+    "title": "Design Complex Backend Distributed Systems",
+    "instructor": "",
+    "duration": "7 hours",
+    "lessons": [],
+    "textSnippet": "Design Complex Backend Distributed Systems | Frontend Masters Skip to main content FrontendMasters Paths Courses Tutorials Blog Features Overview For Teams For Enterprise Pricing Search Join Now Login Contact: support@frontendmasters.com Close Backend System Design Jem Young Netflix 7 hours, 17 minutes CC Course Description Everything is a System! Grab your favorite diagramming tool and develop the system-thinking skills to solve complex backend design challenges related to scaling, data storage"
+  },
+  {
+    "url": "https://frontendmasters.com/courses/fullstack-app-next-v4/",
+    "title": "Enterprise Next.js with Postgres, Stack Auth, &amp; Vercel",
+    "instructor": "Brian Holt",
+    "duration": "7 hours",
+    "lessons": [],
+    "textSnippet": "Enterprise Next.js with Postgres, Stack Auth, Vercel | Frontend Masters Skip to main content FrontendMasters Paths Courses Tutorials Blog Features Overview For Teams For Enterprise Pricing Search Join Now Login Contact: support@frontendmasters.com Close Build a Fullstack Next.js App, v4 Brian Holt Databricks 7 hours, 45 minutes CC Course Description Ship enterprise-ready Next.js apps! Scaffold a Next.js Wiki application from the ground up with a Drizzle-based data layer, protected routes, and a "
+  },
+  {
+    "url": "https://frontendmasters.com/courses/react-typescript-v3/",
+    "title": "Write more maintainable, error-free code with React &amp; TypeScript.",
+    "instructor": "React Type",
+    "duration": "4 hours",
+    "lessons": [],
+    "textSnippet": "Write more maintainable, error-free code with React TypeScript. | Frontend Masters Skip to main content FrontendMasters Paths Courses Tutorials Blog Features Overview For Teams For Enterprise Pricing Search Join Now Login Contact: support@frontendmasters.com Close React and TypeScript, v3 Steve Kinney Temporal 4 hours, 22 minutes CC Course Description Write higher-quality code with React and TypeScript. Add critical type safety to hooks and component design systems. Learn patterns for complex st"
+  },
+  {
+    "url": "https://frontendmasters.com/courses/react-performance-v2/",
+    "title": "Build High-Performance React Apps",
+    "instructor": "",
+    "duration": "4 hours",
+    "lessons": [],
+    "textSnippet": "Build High-Performance React Apps | Frontend Masters Skip to main content FrontendMasters Paths Courses Tutorials Blog Features Overview For Teams For Enterprise Pricing Search Join Now Login Contact: support@frontendmasters.com Close React Performance, v2 Steve Kinney Temporal 4 hours, 10 minutes CC Course Description Ship high-performance React applications! Leverage React 19's performance strategies for hydration, suspense, resource loading, and server actions. Reinforce time-tested best prac"
+  },
+  {
+    "url": "https://frontendmasters.com/courses/getting-started-javascript-v3/",
+    "title": "Learn to Code with JavaScript",
+    "instructor": "",
+    "duration": "5 hours",
+    "lessons": [],
+    "textSnippet": "Learn to Code with JavaScript | Frontend Masters Skip to main content FrontendMasters Paths Courses Tutorials Blog Features Overview For Teams For Enterprise Pricing Search Join Now Login Contact: support@frontendmasters.com Close Getting Started with JavaScript, v3 Web Dev Simplified YouTube 5 hours, 38 minutes CC Course Description Learn the language that powers the web! Gain a fundamental understanding of JavaScript as you code variables, objects, arrays, and functions. Control the flow of yo"
+  },
+  {
+    "url": "https://frontendmasters.com/courses/prompt-engineering/",
+    "title": "Write Better Prompts for Cursor, Claude &amp; Copilot",
+    "instructor": "Structure Output",
+    "duration": "3 hours",
+    "lessons": [],
+    "textSnippet": "Write Better Prompts for Cursor, Claude Copilot | Frontend Masters Skip to main content FrontendMasters Paths Courses Tutorials Blog Features Overview For Teams For Enterprise Pricing Search Join Now Login Contact: support@frontendmasters.com Close Practical Prompt Engineering Sabrina Goldfarb GitHub 3 hours, 43 minutes CC Course Description Generate higher quality code from AI tools! Learn prompting techniques that work consistently across Claude, ChatGPT, Copilot, and Cursor. Transform vague p"
+  },
+  {
+    "url": "https://frontendmasters.com/courses/typescript-first-steps/",
+    "title": "Migrate from JavaScript to TypeScript",
+    "instructor": "",
+    "duration": "7 hours",
+    "lessons": [],
+    "textSnippet": "Migrate from JavaScript to TypeScript | Frontend Masters Skip to main content FrontendMasters Paths Courses Tutorials Blog Features Overview For Teams For Enterprise Pricing Search Join Now Login Contact: support@frontendmasters.com Close TypeScript: From First Steps to Professional Anjana Vakil Software Engineer Educator 7 hours, 58 minutes CC Course Description Learn how to move from JavaScript to TypeScript while building real projects that highlight the power of static typing. Add type annot"
+  },
+  {
+    "url": "https://frontendmasters.com/courses/complete-react-v9/",
+    "title": "The Complete React Course: Build an e-Commerce App with Hooks, Effects, and More! | Frontend Masters",
+    "instructor": "Modern React",
+    "duration": "5 Hours",
+    "lessons": [
+      "Chapters",
+      "Why Learn React?",
+      "What You'll Learn",
+      "Staff Product Manager",
+      "Product Manager",
+      "Senior UI Engineer",
+      "Best in Class Course Player"
+    ],
+    "textSnippet": "The Complete React Course: Build an e-Commerce App with Hooks, Effects, and More! | Frontend Masters | Frontend Masters Skip to main content FrontendMasters Join Login Close Video Player is loading. Play Skip backward 10 seconds Skip forward 10 seconds Mute Current Time 0:00 / Duration 12:17 Loaded : 0.41% 00:00 Stream Type LIVE Seek to live, currently behind live LIVE Remaining Time - 12:17 1x Playback Rate 3x 2.5x 2x 1.8x 1.6x 1.4x 1.2x 1.1x 1x , selected 0.9x 0.8x Chapters Chapters Descriptio"
+  },
+  {
+    "url": "https://frontendmasters.com/courses/algorithms/",
+    "title": "Algorithms &amp; Data Structures | Learn Algorithms with TypeScript for Interviews",
+    "instructor": "The Last",
+    "duration": "3 Hours",
+    "lessons": [
+      "Chapters",
+      "Why Take This Course?",
+      "What You'll Learn",
+      "ThePrimeagen on Twitch",
+      "ThePrimeTime",
+      "Senior Software Engineer",
+      "Best in Class Course Player"
+    ],
+    "textSnippet": "Algorithms Data Structures | Learn Algorithms with TypeScript for Interviews | Frontend Masters Skip to main content FrontendMasters Start Watching for Free Login Close Video Player is loading. Play Skip backward 10 seconds Skip forward 10 seconds Mute Current Time 0:00 / Duration 16:44 Loaded : 0.30% 00:00 Stream Type LIVE Seek to live, currently behind live LIVE Remaining Time - 16:44 1x Playback Rate 3x 2.5x 2x 1.8x 1.6x 1.4x 1.2x 1.1x 1x , selected 0.9x 0.8x Chapters Chapters Descriptions de"
+  },
+  {
+    "url": "https://frontendmasters.com/courses/javascript-hard-parts-v2/",
+    "title": "Learning the Hard Parts of JS",
+    "instructor": "Will Sentance",
+    "duration": "6 hours",
+    "lessons": [],
+    "textSnippet": "Learning the Hard Parts of JS | Frontend Masters Skip to main content FrontendMasters Paths Courses Tutorials Blog Features Overview For Teams For Enterprise Pricing Search Join Now Login Contact: support@frontendmasters.com Close JavaScript: The Hard Parts, v2 Will Sentance Codesmith 6 hours, 41 minutes CC Course Description Go under the hood of some of the most important aspects of JavaScript! You'll learn what you need to know to become a sought-after, versatile, problem-solving developer. Co"
+  },
+  {
+    "url": "https://frontendmasters.com/courses/web-development-v3/",
+    "title": "Web Development Course - Complete Intro to HTML, CSS, &amp; JavaScript with Brian Holt from Stripe",
+    "instructor": "Brian Holt",
+    "duration": "12 hours",
+    "lessons": [],
+    "textSnippet": "Web Development Course - Complete Intro to HTML, CSS, JavaScript with Brian Holt from Stripe | Frontend Masters Skip to main content FrontendMasters Paths Courses Tutorials Blog Features Overview For Teams For Enterprise Pricing Search Join Now Login Contact: support@frontendmasters.com Close Complete Intro to Web Development, v3 Brian Holt Databricks 12 hours, 25 minutes CC Course Description More than an introduction, you'll build your first website and get a solid foundation for becoming a pr"
+  },
+  {
+    "url": "https://frontendmasters.com/courses/javascript-first-steps/",
+    "title": "Intro to Pro JavaScript Course | Learn Professional, Modern JavaScript from Scratch",
+    "instructor": "Strings Exercise",
+    "duration": "14 hours",
+    "lessons": [],
+    "textSnippet": "Intro to Pro JavaScript Course | Learn Professional, Modern JavaScript from Scratch | Frontend Masters Skip to main content FrontendMasters Paths Courses Tutorials Blog Features Overview For Teams For Enterprise Pricing Search Join Now Login Contact: support@frontendmasters.com Close JavaScript: From First Steps to Professional Anjana Vakil Software Engineer Educator 14 hours, 19 minutes CC Course Description Take your first steps into the wide world of JavaScript and walk away with the core ski"
+  },
+  {
+    "url": "https://frontendmasters.com/courses/api-design-nodejs-v5/",
+    "title": "RESTful APIs, Postgres, and JWTs with Express and Node.js",
+    "instructor": "Express Section",
+    "duration": "9 hours",
+    "lessons": [],
+    "textSnippet": "RESTful APIs, Postgres, and JWTs with Express and Node.js | Frontend Masters Skip to main content FrontendMasters Paths Courses Tutorials Blog Features Overview For Teams For Enterprise Pricing Search Join Now Login Contact: support@frontendmasters.com Close API Design in Node.js, v5 Scott Moss Netflix 9 hours, 58 minutes CC Course Description Build scalable APIs for any application with Node.js and Express. Learn RESTful API design best practices as you design routes, run Postgres migrations, a"
+  },
+  {
+    "url": "https://frontendmasters.com/courses/mcp/",
+    "title": "Model Context Protocol (MCP) | Complete Intro to MCP",
+    "instructor": "Services Through",
+    "duration": "9 Hours",
+    "lessons": [
+      "Chapters",
+      "Why Learn Model Context Protocol?",
+      "What You'll Learn",
+      "Staff Product Manager",
+      "Product Manager",
+      "Senior UI Engineer",
+      "Best in Class Course Player"
+    ],
+    "textSnippet": "Model Context Protocol (MCP) | Complete Intro to MCP | Frontend Masters Skip to main content FrontendMasters Join Login Close Video Player is loading. Play Skip backward 10 seconds Skip forward 10 seconds Mute Current Time 0:00 / Duration 13:36 Loaded : 0.37% 00:00 Stream Type LIVE Seek to live, currently behind live LIVE Remaining Time - 13:36 1x Playback Rate 3x 2.5x 2x 1.8x 1.6x 1.4x 1.2x 1.1x 1x , selected 0.9x 0.8x Chapters Chapters Descriptions descriptions off , selected auto auto (720) 2"
+  },
+  {
+    "url": "https://frontendmasters.com/courses/type-compiler/",
+    "title": "Type Checking &amp; Type Inference | Build a Compiler from Scratch on Frontend Masters",
+    "instructor": "",
+    "duration": "4 hours",
+    "lessons": [],
+    "textSnippet": "Type Checking Type Inference | Build a Compiler from Scratch on Frontend Masters | Frontend Masters Skip to main content FrontendMasters Paths Courses Tutorials Blog Features Overview For Teams For Enterprise Pricing Search Join Now Login Contact: support@frontendmasters.com Close Write a Compiler That Understands Types Richard Feldman zed.dev 4 hours, 50 minutes CC Course Description Ever wonder how TypeScript figures out types? Type inference might seem like magic, but you'll implement it step"
+  },
+  {
+    "url": "https://frontendmasters.com/courses/vanilla-js-go/",
+    "title": "Fullstack Without Frameworks | Vanilla JS + Go on Frontend Masters",
+    "instructor": "Go Section",
+    "duration": "10 hours",
+    "lessons": [],
+    "textSnippet": "Fullstack Without Frameworks | Vanilla JS + Go on Frontend Masters | Frontend Masters Skip to main content FrontendMasters Paths Courses Tutorials Blog Features Overview For Teams For Enterprise Pricing Search Join Now Login Contact: support@frontendmasters.com Close Go Vanilla JS: Fullstack Without Frameworks Maximiliano Firtman Software Engineer Educator 10 hours, 11 minutes CC Course Description Code a high-performance fullstack app from scratch! Skip the framework and create a modern Vanilla"
+  },
+  {
+    "url": "https://frontendmasters.com/courses/accessibility-v3/",
+    "title": "Build for Everyone | Audit &amp; Fix Your Website's Accessibility Issues",
+    "instructor": "Jon Kuperman",
+    "duration": "2 hours",
+    "lessons": [],
+    "textSnippet": "Build for Everyone | Audit Fix Your Website's Accessibility Issues | Frontend Masters Skip to main content FrontendMasters Paths Courses Tutorials Blog Features Overview For Teams For Enterprise Pricing Search Join Now Login Contact: support@frontendmasters.com Close Website Accessibility, v3 Jon Kuperman Bloomberg 2 hours, 19 minutes CC Course Description Build content for everyone and become your company's accessibility expert! Learn the importance of semantic HTML and alt text for ensuring sc"
+  },
+  {
+    "url": "https://frontendmasters.com/courses/dev-tools-v4/",
+    "title": "Fix complicated UI and performance bugs | Professional Chrome DevTools Skills",
+    "instructor": "",
+    "duration": "3 hours",
+    "lessons": [],
+    "textSnippet": "Fix complicated UI and performance bugs | Professional Chrome DevTools Skills | Frontend Masters Skip to main content FrontendMasters Paths Courses Tutorials Blog Features Overview For Teams For Enterprise Pricing Search Join Now Login Contact: support@frontendmasters.com Close Mastering Chrome Developer Tools, v4 Jon Kuperman Bloomberg 3 hours, 44 minutes CC Course Description Inspect, debug, and audit web apps faster with professional Chrome DevTools skills! Prototype UIs live in-browser with "
+  },
+  {
+    "url": "https://frontendmasters.com/courses/functional-first-steps-v2/",
+    "title": "What is Functional Programming? | Learn Functional Programming Course",
+    "instructor": "Pure Functions",
+    "duration": "3 hours",
+    "lessons": [],
+    "textSnippet": "What is Functional Programming? | Learn Functional Programming Course | Frontend Masters Skip to main content FrontendMasters Paths Courses Tutorials Blog Features Overview For Teams For Enterprise Pricing Search Join Now Login Contact: support@frontendmasters.com Close Functional JavaScript First Steps, v2 Anjana Vakil Software Engineer Educator 3 hours, 27 minutes CC Course Description A friendly, practical introduction to functional programming fundamentals in JavaScript. Learn the power of t"
+  },
+  {
+    "url": "https://frontendmasters.com/courses/react-nextjs-state/",
+    "title": "Simplify State in React and Next.js | Learn State Management on Frontend Masters",
+    "instructor": "External Stores",
+    "duration": "4 hours",
+    "lessons": [],
+    "textSnippet": "Simplify State in React and Next.js | Learn State Management on Frontend Masters | Frontend Masters Skip to main content FrontendMasters Paths Courses Tutorials Blog Features Overview For Teams For Enterprise Pricing Search Join Now Login Contact: support@frontendmasters.com Close State Management at Scale in React Next.js David Khourshid Microsoft 4 hours, 50 minutes CC Course Description Solve challenging state management problems and build applications that reliably scale with your team. Reco"
+  },
+  {
+    "url": "https://frontendmasters.com/courses/intermediate-react-v6/",
+    "title": "React Server Components and Performance | Intermediate React, v6 from Frontend Masters",
+    "instructor": "New React",
+    "duration": "4 Hours",
+    "lessons": [
+      "Chapters",
+      "Why Intermediate React",
+      "What You'll Learn",
+      "Staff Product Manager",
+      "Product Manager",
+      "Senior UI Engineer",
+      "Best in Class Course Player"
+    ],
+    "textSnippet": "React Server Components and Performance | Intermediate React, v6 from Frontend Masters | Frontend Masters Skip to main content FrontendMasters Join Login Close Video Player is loading. Play Skip backward 10 seconds Skip forward 10 seconds Mute Current Time 0:00 / Duration 16:20 Loaded : 0.31% 00:00 Stream Type LIVE Seek to live, currently behind live LIVE Remaining Time - 16:20 1x Playback Rate 3x 2.5x 2x 1.8x 1.6x 1.4x 1.2x 1.1x 1x , selected 0.9x 0.8x Chapters Chapters Descriptions description"
+  },
+  {
+    "url": "https://frontendmasters.com/courses/next-js-v4/",
+    "title": "High-Powered Full-Stack React Apps | Learn Next.js on Frontend Masters",
+    "instructor": "Server Actions",
+    "duration": "6 hours",
+    "lessons": [],
+    "textSnippet": "High-Powered Full-Stack React Apps | Learn Next.js on Frontend Masters | Frontend Masters Skip to main content FrontendMasters Paths Courses Tutorials Blog Features Overview For Teams For Enterprise Pricing Search Join Now Login Contact: support@frontendmasters.com Close Next.js Fundamentals, v4 Scott Moss Netflix 6 hours, 41 minutes CC Course Description Learn everything you need to build high-powered Next.js apps! Build a deep understanding of React Server Components and Server Actions. Create"
+  },
+  {
+    "url": "https://frontendmasters.com/courses/intermediate-react-native-v2/",
+    "title": "Intermediate React Native: Build &amp; Ship iOS/Android Apps with Kadi Kraman",
+    "instructor": "Kadi Kraman",
+    "duration": "4 hours",
+    "lessons": [],
+    "textSnippet": "Intermediate React Native: Build Ship iOS/Android Apps with Kadi Kraman | Frontend Masters Skip to main content FrontendMasters Paths Courses Tutorials Blog Features Overview For Teams For Enterprise Pricing Search Join Now Login Contact: support@frontendmasters.com Close Intermediate React Native, v2 Kadi Kraman Expo 4 hours, 44 minutes CC Course Description Ship production-ready iOS and Android apps with React Native and Expo. Grok creating user onboarding, state management with Zustand, and a"
+  },
+  {
+    "url": "https://frontendmasters.com/courses/react-native-v3/",
+    "title": "Complete React Native: Build iOS &amp; Android Apps with Kadi Kraman",
+    "instructor": "Kadi Kraman",
+    "duration": "4 hours",
+    "lessons": [],
+    "textSnippet": "Complete React Native: Build iOS Android Apps with Kadi Kraman | Frontend Masters Skip to main content FrontendMasters Paths Courses Tutorials Blog Features Overview For Teams For Enterprise Pricing Search Join Now Login Contact: support@frontendmasters.com Close React Native, v3 Kadi Kraman Expo 4 hours, 35 minutes CC Course Description Use your React skills to build feature-rich, native mobile apps for iOS and Android using React Native and Expo. Learn to create UI components like custom butto"
+  },
+  {
+    "url": "https://frontendmasters.com/courses/intermediate-vue/",
+    "title": "Composition API, State Management, and More! | Learn Vue on Frontend Masters",
+    "instructor": "Vue Router",
+    "duration": "3 hours",
+    "lessons": [],
+    "textSnippet": "Composition API, State Management, and More! | Learn Vue on Frontend Masters | Frontend Masters Skip to main content FrontendMasters Paths Courses Tutorials Blog Features Overview For Teams For Enterprise Pricing Search Join Now Login Contact: support@frontendmasters.com Close Intermediate Vue: Composition API, Slots, State Management Ben Hong Vue Angular Team 3 hours, 49 minutes CC Course Description Master Vue and build scalable, reusable components like a pro! Get hands-on with the Compositio"
+  },
+  {
+    "url": "https://frontendmasters.com/courses/design-systems-v2/",
+    "title": "Create Consistent UIs with Storybook: Reusable Components, Testing, and Documentation",
+    "instructor": "Steve Kinney",
+    "duration": "4 hours",
+    "lessons": [],
+    "textSnippet": "Create Consistent UIs with Storybook: Reusable Components, Testing, and Documentation | Frontend Masters Skip to main content FrontendMasters Paths Courses Tutorials Blog Features Overview For Teams For Enterprise Pricing Search Join Now Login Contact: support@frontendmasters.com Close Design Systems with Storybook, v2 Steve Kinney Temporal 4 hours, 9 minutes CC Course Description Build scalable component libraries and design systems with Storybook. Create reusable UI components with composable "
+  },
+  {
+    "url": "https://frontendmasters.com/courses/cloud-infrastructure/",
+    "title": "Scalable Cloud Infrastructure with AWS, Terraform, Docker &amp; GitHub Actions",
+    "instructor": "Terraform Add",
+    "duration": "8 Hours",
+    "lessons": [
+      "Chapters",
+      "Why Learn DevOps &amp; Cloud Infrastructure?",
+      "What You'll Learn",
+      "Twitch Streamer",
+      "AltF4 Engineering Blog",
+      "Discord for DevOps Engineers",
+      "Best in Class Course Player"
+    ],
+    "textSnippet": "Scalable Cloud Infrastructure with AWS, Terraform, Docker GitHub Actions | Frontend Masters Skip to main content FrontendMasters Join Login Close Video Player is loading. Play Skip backward 10 seconds Skip forward 10 seconds Mute Current Time 0:00 / Duration 13:34 Loaded : 0.37% 00:00 Stream Type LIVE Seek to live, currently behind live LIVE Remaining Time - 13:34 1x Playback Rate 3x 2.5x 2x 1.8x 1.6x 1.4x 1.2x 1.1x 1x , selected 0.9x 0.8x Chapters Chapters Descriptions descriptions off , select"
+  },
+  {
+    "url": "https://frontendmasters.com/courses/fullstack-typescript-v2/",
+    "title": "TypeScript, Zod, tRPC, and Prisma | Learn End-to-End Type-Safety on Frontend Masters",
+    "instructor": "",
+    "duration": "4 hours",
+    "lessons": [],
+    "textSnippet": "TypeScript, Zod, tRPC, and Prisma | Learn End-to-End Type-Safety on Frontend Masters | Frontend Masters Skip to main content FrontendMasters Paths Courses Tutorials Blog Features Overview For Teams For Enterprise Pricing Search Join Now Login Contact: support@frontendmasters.com Close Fullstack TypeScript, v2 (feat. Zod) Steve Kinney Temporal 4 hours, 8 minutes CC Course Description Find the end-to-end type-safety strategy that works with your stack! Share TypeScript types between client and ser"
+  },
+  {
+    "url": "https://frontendmasters.com/courses/dotnet-apis/",
+    "title": "APIs with C# and ASP.NET Core Course: Leverage LINQ and Entity Framework Core",
+    "instructor": "Entity Framework",
+    "duration": "5 hours",
+    "lessons": [],
+    "textSnippet": "APIs with C# and ASP.NET Core Course: Leverage LINQ and Entity Framework Core | Frontend Masters Skip to main content FrontendMasters Paths Courses Tutorials Blog Features Overview For Teams For Enterprise Pricing Search Join Now Login Contact: support@frontendmasters.com Close Building APIs with C# and ASP.NET Core Spencer Schneidenbach Aviron, Microsoft MVP 5 hours, 10 minutes CC Course Description Build a robust API while leveraging the power of ASP.Net Core! Architect reliable JSON-based API"
+  },
+  {
+    "url": "https://frontendmasters.com/courses/csharp-dotnet/",
+    "title": "C# and .NET Basics Course: Object-oriented programming with C#",
+    "instructor": "",
+    "duration": "5 hours",
+    "lessons": [],
+    "textSnippet": "C# and .NET Basics Course: Object-oriented programming with C# | Frontend Masters Skip to main content FrontendMasters Paths Courses Tutorials Blog Features Overview For Teams For Enterprise Pricing Search Join Now Login Contact: support@frontendmasters.com Close C# and .NET Basics Spencer Schneidenbach Aviron, Microsoft MVP 5 hours, 48 minutes CC Course Description Learn C# — one of the top 5 programming languages on GitHub! Explore the C# language while working with common .NET tools. Learn to"
+  },
+  {
+    "url": "https://frontendmasters.com/courses/sqlite/",
+    "title": "SQLite | Lightning fast database with zero configuration setup",
+    "instructor": "",
+    "duration": "5 hours",
+    "lessons": [],
+    "textSnippet": "SQLite | Lightning fast database with zero configuration setup | Frontend Masters Skip to main content FrontendMasters Paths Courses Tutorials Blog Features Overview For Teams For Enterprise Pricing Search Join Now Login Contact: support@frontendmasters.com Close Complete Intro to SQLite Brian Holt Databricks 5 hours CC Course Description SQLite is the world's most widely-deployed database due to it's lightning fast performance and zero configuration setup. Learn SQL queries, table management, j"
+  },
+  {
+    "url": "https://frontendmasters.com/courses/domain-modeling/",
+    "title": "Domain Modeling for Humans and AI | Learn Practical Domain-Driven Design",
+    "instructor": "Domain Experts",
+    "duration": "4 hours",
+    "lessons": [],
+    "textSnippet": "Domain Modeling for Humans and AI | Learn Practical Domain-Driven Design | Frontend Masters Skip to main content FrontendMasters Paths Courses Tutorials Blog Features Overview For Teams For Enterprise Pricing Search Join Now Login Contact: support@frontendmasters.com Close Domain Modeling for Humans and AI Mike North Stripe 4 hours, 35 minutes CC Course Description Turn messy business rules into clean, reliable code with domain-driven design. Learn how to model entities, value objects, and aggre"
+  },
+  {
+    "url": "https://frontendmasters.com/courses/monorepos-v2/",
+    "title": "TypeScript Monorepos | Architect Projects with Nx and Lerna",
+    "instructor": "",
+    "duration": "4 hours",
+    "lessons": [],
+    "textSnippet": "TypeScript Monorepos | Architect Projects with Nx and Lerna | Frontend Masters Skip to main content FrontendMasters Paths Courses Tutorials Blog Features Overview For Teams For Enterprise Pricing Search Join Now Login Contact: support@frontendmasters.com Close TypeScript Monorepos: Architect Maintainable Codebases Mike North Stripe 4 hours, 19 minutes CC Course Description Make even the largest monorepos feel fast and light. Refactor a monolith into a structured monorepo with Nx and Lerna, centr"
+  },
+  {
+    "url": "https://frontendmasters.com/courses/js-design-patterns/",
+    "title": "JavaScript Design Patterns for Web Apps | Vanilla JS, SPA &amp; MPA Techniques",
+    "instructor": "Memento Pattern",
+    "duration": "4 hours",
+    "lessons": [],
+    "textSnippet": "JavaScript Design Patterns for Web Apps | Vanilla JS, SPA MPA Techniques | Frontend Masters Skip to main content FrontendMasters Paths Courses Tutorials Blog Features Overview For Teams For Enterprise Pricing Search Join Now Login Contact: support@frontendmasters.com Close JavaScript Design Patterns for Web Apps Maximiliano Firtman Software Engineer Educator 4 hours, 24 minutes CC Course Description Architect scalable web apps by applying design patterns in JavaScript! Implement classic patterns"
+  },
+  {
+    "url": "https://frontendmasters.com/courses/frontend-system-design/",
+    "title": "Front-End System Design: Advanced UI, Performance &amp; Architecture Techniques to Ace Interviews",
+    "instructor": "",
+    "duration": "4 hours",
+    "lessons": [],
+    "textSnippet": "Front-End System Design: Advanced UI, Performance Architecture Techniques to Ace Interviews | Frontend Masters Skip to main content FrontendMasters Paths Courses Tutorials Blog Features Overview For Teams For Enterprise Pricing Search Join Now Login Contact: support@frontendmasters.com Close Front-End System Design Evgenii Ray Staff UI Engineer 4 hours, 37 minutes CC Course Description Dive into front-end system design to create scalable, efficient user interfaces! Master core UI fundamentals: b"
+  },
+  {
+    "url": "https://frontendmasters.com/courses/intermediate-next-js/",
+    "title": "Advanced Next.js: Server Actions, Routing &amp; Data Fetching | React 18+",
+    "instructor": "",
+    "duration": "3 hours",
+    "lessons": [],
+    "textSnippet": "Advanced Next.js: Server Actions, Routing Data Fetching | React 18+ | Frontend Masters Skip to main content FrontendMasters Paths Courses Tutorials Blog Features Overview For Teams For Enterprise Pricing Search Join Now Login Contact: support@frontendmasters.com Close Intermediate Next.js: Server Actions, Route Slots, State Management Scott Moss Netflix 3 hours, 31 minutes CC Course Description Level up your Next.js skills to build production-ready applications. Dive into advanced concepts like "
+  },
+  {
+    "url": "https://frontendmasters.com/courses/vanilla-js-apps/",
+    "title": "Comprehensive Guide to Vanilla JavaScript | Build Efficient Web Apps",
+    "instructor": "Max Firtman",
+    "duration": "5 hours",
+    "lessons": [],
+    "textSnippet": "Comprehensive Guide to Vanilla JavaScript | Build Efficient Web Apps | Frontend Masters Skip to main content FrontendMasters Paths Courses Tutorials Blog Features Overview For Teams For Enterprise Pricing Search Join Now Login Contact: support@frontendmasters.com Close Vanilla JS: You Might Not Need a Framework Maximiliano Firtman Software Engineer Educator 5 hours, 52 minutes CC Course Description Gain speed and simplicity in writing web apps by taking a \"vanilla\" approach! See how you can buil"
+  }
+]

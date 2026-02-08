@@ -1,0 +1,1789 @@
+[
+  {
+    "id": "1",
+    "platform": "Iconscout",
+    "category": "icon packs",
+    "name": "Material Design Icons",
+    "type": "icon",
+    "format": "SVG, PNG",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://iconscout.com/icons/material-design",
+    "description": "Comprehensive collection of 5000+ Material Design icons in SVG and PNG formats",
+    "tags": [
+      "material",
+      "ui",
+      "ux",
+      "google"
+    ]
+  },
+  {
+    "id": "2",
+    "platform": "Iconscout",
+    "category": "icon packs",
+    "name": "Flat Icon Set",
+    "type": "icon",
+    "format": "SVG",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://iconscout.com/icons/flat-set",
+    "description": "2000+ flat style icons perfect for modern web and mobile apps",
+    "tags": [
+      "flat",
+      "minimal",
+      "modern"
+    ]
+  },
+  {
+    "id": "3",
+    "platform": "Iconscout",
+    "category": "icon packs",
+    "name": "Line Icons Collection",
+    "type": "icon",
+    "format": "SVG, EPS",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://iconscout.com/icons/line-collection",
+    "description": "1500+ elegant line icons for professional designs",
+    "tags": [
+      "line",
+      "outline",
+      "stroke"
+    ]
+  },
+  {
+    "id": "4",
+    "platform": "Iconscout",
+    "category": "icon packs",
+    "name": "Outline Icons",
+    "type": "icon",
+    "format": "SVG",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://iconscout.com/icons/outline",
+    "description": "1000+ clean outline icons for various applications",
+    "tags": [
+      "outline",
+      "thin",
+      "minimal"
+    ]
+  },
+  {
+    "id": "5",
+    "platform": "Iconscout",
+    "category": "icon packs",
+    "name": "Filled Icons Pack",
+    "type": "icon",
+    "format": "PNG",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://iconscout.com/icons/filled-pack",
+    "description": "800+ solid filled icons in PNG format",
+    "tags": [
+      "filled",
+      "solid",
+      "bold"
+    ]
+  },
+  {
+    "id": "6",
+    "platform": "Iconscout",
+    "category": "icon packs",
+    "name": "Social Media Icons",
+    "type": "icon",
+    "format": "SVG, ICO",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://iconscout.com/icons/social-media",
+    "description": "300+ social media platform icons including SVG and ICO formats",
+    "tags": [
+      "social",
+      "media",
+      "platforms"
+    ]
+  },
+  {
+    "id": "7",
+    "platform": "Iconscout",
+    "category": "icon packs",
+    "name": "Business Icons",
+    "type": "icon",
+    "format": "SVG",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://iconscout.com/icons/business",
+    "description": "400+ business and finance related icons",
+    "tags": [
+      "business",
+      "finance",
+      "office"
+    ]
+  },
+  {
+    "id": "8",
+    "platform": "Iconscout",
+    "category": "icon packs",
+    "name": "Technology Icons",
+    "type": "icon",
+    "format": "SVG, PNG",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://iconscout.com/icons/technology",
+    "description": "600+ tech and gadget icons for digital projects",
+    "tags": [
+      "technology",
+      "gadgets",
+      "digital"
+    ]
+  },
+  {
+    "id": "9",
+    "platform": "Iconscout",
+    "category": "icon packs",
+    "name": "Health Icons",
+    "type": "icon",
+    "format": "SVG",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://iconscout.com/icons/health",
+    "description": "250+ medical and healthcare icons",
+    "tags": [
+      "health",
+      "medical",
+      "fitness"
+    ]
+  },
+  {
+    "id": "10",
+    "platform": "Iconscout",
+    "category": "icon packs",
+    "name": "Education Icons",
+    "type": "icon",
+    "format": "SVG, EPS",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://iconscout.com/icons/education",
+    "description": "350+ education and learning icons",
+    "tags": [
+      "education",
+      "learning",
+      "school"
+    ]
+  },
+  {
+    "id": "11",
+    "platform": "Iconscout",
+    "category": "illustration sets",
+    "name": "Abstract Illustrations",
+    "type": "illustration",
+    "format": "AI, EPS",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://iconscout.com/illustrations/abstract",
+    "description": "100+ abstract geometric illustrations for creative projects",
+    "tags": [
+      "abstract",
+      "geometric",
+      "art"
+    ]
+  },
+  {
+    "id": "12",
+    "platform": "Iconscout",
+    "category": "illustration sets",
+    "name": "Business Illustrations",
+    "type": "illustration",
+    "format": "SVG",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://iconscout.com/illustrations/business",
+    "description": "150+ professional business scene illustrations",
+    "tags": [
+      "business",
+      "corporate",
+      "professional"
+    ]
+  },
+  {
+    "id": "13",
+    "platform": "Iconscout",
+    "category": "illustration sets",
+    "name": "Technology Illustrations",
+    "type": "illustration",
+    "format": "AI",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://iconscout.com/illustrations/technology",
+    "description": "120+ tech and innovation illustrations",
+    "tags": [
+      "technology",
+      "innovation",
+      "digital"
+    ]
+  },
+  {
+    "id": "14",
+    "platform": "Iconscout",
+    "category": "illustration sets",
+    "name": "Nature Illustrations",
+    "type": "illustration",
+    "format": "EPS",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://iconscout.com/illustrations/nature",
+    "description": "80+ nature and environment illustrations",
+    "tags": [
+      "nature",
+      "environment",
+      "organic"
+    ]
+  },
+  {
+    "id": "15",
+    "platform": "Iconscout",
+    "category": "illustration sets",
+    "name": "People Illustrations",
+    "type": "illustration",
+    "format": "SVG, PNG",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://iconscout.com/illustrations/people",
+    "description": "90+ diverse people and character illustrations",
+    "tags": [
+      "people",
+      "characters",
+      "diversity"
+    ]
+  },
+  {
+    "id": "16",
+    "platform": "Iconscout",
+    "category": "illustration sets",
+    "name": "Food Illustrations",
+    "type": "illustration",
+    "format": "AI",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://iconscout.com/illustrations/food",
+    "description": "70+ delicious food and cuisine illustrations",
+    "tags": [
+      "food",
+      "cuisine",
+      "restaurant"
+    ]
+  },
+  {
+    "id": "17",
+    "platform": "Iconscout",
+    "category": "illustration sets",
+    "name": "Travel Illustrations",
+    "type": "illustration",
+    "format": "EPS",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://iconscout.com/illustrations/travel",
+    "description": "110+ travel and adventure illustrations",
+    "tags": [
+      "travel",
+      "adventure",
+      "vacation"
+    ]
+  },
+  {
+    "id": "18",
+    "platform": "Iconscout",
+    "category": "illustration sets",
+    "name": "Sports Illustrations",
+    "type": "illustration",
+    "format": "SVG",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://iconscout.com/illustrations/sports",
+    "description": "60+ sports and fitness illustrations",
+    "tags": [
+      "sports",
+      "fitness",
+      "athletics"
+    ]
+  },
+  {
+    "id": "19",
+    "platform": "Iconscout",
+    "category": "illustration sets",
+    "name": "Education Illustrations",
+    "type": "illustration",
+    "format": "AI, PNG",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://iconscout.com/illustrations/education",
+    "description": "95+ classroom and learning illustrations",
+    "tags": [
+      "education",
+      "classroom",
+      "learning"
+    ]
+  },
+  {
+    "id": "20",
+    "platform": "Iconscout",
+    "category": "illustration sets",
+    "name": "Animal Illustrations",
+    "type": "illustration",
+    "format": "SVG",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://iconscout.com/illustrations/animals",
+    "description": "85+ cute animal character illustrations",
+    "tags": [
+      "animals",
+      "wildlife",
+      "pets"
+    ]
+  },
+  {
+    "id": "21",
+    "platform": "Canva",
+    "category": "Templates",
+    "name": "Social Media Posts",
+    "type": "template",
+    "format": "HTML5",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://www.canva.com/templates/social-media-posts/",
+    "description": "Pre-designed templates for Instagram, Facebook, and Twitter posts.",
+    "tags": [
+      "social",
+      "media",
+      "instagram",
+      "facebook"
+    ]
+  },
+  {
+    "id": "22",
+    "platform": "Canva",
+    "category": "Templates",
+    "name": "Presentations",
+    "type": "template",
+    "format": "PPTX",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://www.canva.com/templates/presentations/",
+    "description": "Professional slide decks for business and educational presentations.",
+    "tags": [
+      "presentation",
+      "slides",
+      "business"
+    ]
+  },
+  {
+    "id": "23",
+    "platform": "Canva",
+    "category": "Templates",
+    "name": "Posters",
+    "type": "template",
+    "format": "PDF",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://www.canva.com/templates/posters/",
+    "description": "Eye-catching poster designs for events and promotions.",
+    "tags": [
+      "poster",
+      "event",
+      "promotion"
+    ]
+  },
+  {
+    "id": "24",
+    "platform": "Canva",
+    "category": "Templates",
+    "name": "Flyers",
+    "type": "template",
+    "format": "PDF",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://www.canva.com/templates/flyers/",
+    "description": "Customizable flyers for marketing and announcements.",
+    "tags": [
+      "flyer",
+      "marketing",
+      "announcement"
+    ]
+  },
+  {
+    "id": "25",
+    "platform": "Canva",
+    "category": "Templates",
+    "name": "Infographics",
+    "type": "template",
+    "format": "PNG, PDF",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://www.canva.com/templates/infographics/",
+    "description": "Data visualization templates to simplify complex information.",
+    "tags": [
+      "infographic",
+      "data",
+      "visualization"
+    ]
+  },
+  {
+    "id": "26",
+    "platform": "Canva",
+    "category": "Templates",
+    "name": "Brochures",
+    "type": "template",
+    "format": "PDF",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://www.canva.com/templates/brochures/",
+    "description": "Foldable brochure designs for product showcases.",
+    "tags": [
+      "brochure",
+      "product",
+      "marketing"
+    ]
+  },
+  {
+    "id": "27",
+    "platform": "Canva",
+    "category": "Templates",
+    "name": "Resumes",
+    "type": "template",
+    "format": "PDF",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://www.canva.com/templates/resumes/",
+    "description": "Modern resume templates to highlight professional skills.",
+    "tags": [
+      "resume",
+      "cv",
+      "professional"
+    ]
+  },
+  {
+    "id": "28",
+    "platform": "Canva",
+    "category": "Templates",
+    "name": "Invitations",
+    "type": "template",
+    "format": "PDF",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://www.canva.com/templates/invitations/",
+    "description": "Elegant invitation templates for events and weddings.",
+    "tags": [
+      "invitation",
+      "event",
+      "wedding"
+    ]
+  },
+  {
+    "id": "29",
+    "platform": "Canva",
+    "category": "Templates",
+    "name": "Business Cards",
+    "type": "template",
+    "format": "PDF",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://www.canva.com/templates/business-cards/",
+    "description": "Sleek business card designs for networking.",
+    "tags": [
+      "business",
+      "card",
+      "networking"
+    ]
+  },
+  {
+    "id": "30",
+    "platform": "Canva",
+    "category": "Templates",
+    "name": "Logos",
+    "type": "template",
+    "format": "SVG, PNG",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://www.canva.com/templates/logos/",
+    "description": "Branded logo templates for startups and personal use.",
+    "tags": [
+      "logo",
+      "branding",
+      "startup"
+    ]
+  },
+  {
+    "id": "31",
+    "platform": "Canva",
+    "category": "Courses",
+    "name": "Introduction to Graphic Design",
+    "type": "video",
+    "format": "HTML5",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://www.canva.com/learn/graphic-design-basics/",
+    "description": "Basics of graphic design principles and tools.",
+    "tags": [
+      "graphic",
+      "design",
+      "beginner"
+    ]
+  },
+  {
+    "id": "32",
+    "platform": "Canva",
+    "category": "Courses",
+    "name": "Color Theory",
+    "type": "video",
+    "format": "HTML5",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://www.canva.com/learn/color-theory/",
+    "description": "Understanding color palettes and their psychological effects.",
+    "tags": [
+      "color",
+      "theory",
+      "psychology"
+    ]
+  },
+  {
+    "id": "33",
+    "platform": "Canva",
+    "category": "Courses",
+    "name": "Typography Essentials",
+    "type": "video",
+    "format": "HTML5",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://www.canva.com/learn/typography/",
+    "description": "Tips on selecting and using fonts effectively.",
+    "tags": [
+      "typography",
+      "font",
+      "text"
+    ]
+  },
+  {
+    "id": "34",
+    "platform": "Canva",
+    "category": "Courses",
+    "name": "Logo Design Fundamentals",
+    "type": "video",
+    "format": "HTML5",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://www.canva.com/learn/logo-design/",
+    "description": "Step-by-step guide to creating memorable logos.",
+    "tags": [
+      "logo",
+      "design",
+      "branding"
+    ]
+  },
+  {
+    "id": "35",
+    "platform": "Canva",
+    "category": "Courses",
+    "name": "Social Media Design",
+    "type": "video",
+    "format": "HTML5",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://www.canva.com/learn/social-media-design/",
+    "description": "Strategies for engaging social media visuals.",
+    "tags": [
+      "social",
+      "media",
+      "design"
+    ]
+  },
+  {
+    "id": "36",
+    "platform": "Iconscout",
+    "category": "icon packs",
+    "name": "UI Icons Pack",
+    "type": "icon",
+    "format": "SVG",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://iconscout.com/icons/ui",
+    "description": "Complete UI/UX icon collection for interfaces",
+    "tags": [
+      "ui",
+      "ux",
+      "interface"
+    ]
+  },
+  {
+    "id": "37",
+    "platform": "Iconscout",
+    "category": "icon packs",
+    "name": "E-commerce Icons",
+    "type": "icon",
+    "format": "SVG, PNG",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://iconscout.com/icons/ecommerce",
+    "description": "Shopping and commerce icons for online stores",
+    "tags": [
+      "ecommerce",
+      "shopping",
+      "cart"
+    ]
+  },
+  {
+    "id": "38",
+    "platform": "Iconscout",
+    "category": "icon packs",
+    "name": "Food & Drink Icons",
+    "type": "icon",
+    "format": "SVG",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://iconscout.com/icons/food-drink",
+    "description": "Restaurant and food service icons",
+    "tags": [
+      "food",
+      "drink",
+      "restaurant"
+    ]
+  },
+  {
+    "id": "39",
+    "platform": "Iconscout",
+    "category": "icon packs",
+    "name": "Travel Icons",
+    "type": "icon",
+    "format": "SVG",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://iconscout.com/icons/travel",
+    "description": "Transportation and travel icons",
+    "tags": [
+      "travel",
+      "transport",
+      "vacation"
+    ]
+  },
+  {
+    "id": "40",
+    "platform": "Iconscout",
+    "category": "icon packs",
+    "name": "Security Icons",
+    "type": "icon",
+    "format": "SVG",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://iconscout.com/icons/security",
+    "description": "Cybersecurity and protection icons",
+    "tags": [
+      "security",
+      "lock",
+      "shield"
+    ]
+  },
+  {
+    "id": "41",
+    "platform": "Iconscout",
+    "category": "illustration sets",
+    "name": "Marketing Illustrations",
+    "type": "illustration",
+    "format": "SVG",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://iconscout.com/illustrations/marketing",
+    "description": "Digital marketing and advertising illustrations",
+    "tags": [
+      "marketing",
+      "ads",
+      "digital"
+    ]
+  },
+  {
+    "id": "42",
+    "platform": "Iconscout",
+    "category": "illustration sets",
+    "name": "Web Development Illustrations",
+    "type": "illustration",
+    "format": "AI",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://iconscout.com/illustrations/web-development",
+    "description": "Coding and web development scenes",
+    "tags": [
+      "web",
+      "development",
+      "coding"
+    ]
+  },
+  {
+    "id": "43",
+    "platform": "Iconscout",
+    "category": "illustration sets",
+    "name": "Mobile App Illustrations",
+    "type": "illustration",
+    "format": "SVG",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://iconscout.com/illustrations/mobile-app",
+    "description": "Mobile app and smartphone illustrations",
+    "tags": [
+      "mobile",
+      "app",
+      "smartphone"
+    ]
+  },
+  {
+    "id": "44",
+    "platform": "Iconscout",
+    "category": "illustration sets",
+    "name": "Data Science Illustrations",
+    "type": "illustration",
+    "format": "EPS",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://iconscout.com/illustrations/data-science",
+    "description": "Data analysis and AI illustrations",
+    "tags": [
+      "data",
+      "science",
+      "ai"
+    ]
+  },
+  {
+    "id": "45",
+    "platform": "Iconscout",
+    "category": "illustration sets",
+    "name": "Startup Illustrations",
+    "type": "illustration",
+    "format": "SVG",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://iconscout.com/illustrations/startup",
+    "description": "Entrepreneurship and startup illustrations",
+    "tags": [
+      "startup",
+      "entrepreneur",
+      "business"
+    ]
+  },
+  {
+    "id": "46",
+    "platform": "Canva",
+    "category": "Templates",
+    "name": "Instagram Stories",
+    "type": "template",
+    "format": "MP4",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://www.canva.com/templates/instagram-stories/",
+    "description": "Animated Instagram story templates",
+    "tags": [
+      "instagram",
+      "stories",
+      "animation"
+    ]
+  },
+  {
+    "id": "47",
+    "platform": "Canva",
+    "category": "Templates",
+    "name": "YouTube Thumbnails",
+    "type": "template",
+    "format": "PNG",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://www.canva.com/templates/youtube-thumbnails/",
+    "description": "Clickbait-proof YouTube thumbnail designs",
+    "tags": [
+      "youtube",
+      "thumbnail",
+      "video"
+    ]
+  },
+  {
+    "id": "48",
+    "platform": "Canva",
+    "category": "Templates",
+    "name": "Email Headers",
+    "type": "template",
+    "format": "PNG",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://www.canva.com/templates/email-headers/",
+    "description": "Professional email newsletter headers",
+    "tags": [
+      "email",
+      "newsletter",
+      "header"
+    ]
+  },
+  {
+    "id": "49",
+    "platform": "Canva",
+    "category": "Templates",
+    "name": "Certificates",
+    "type": "template",
+    "format": "PDF",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://www.canva.com/templates/certificates/",
+    "description": "Award and achievement certificate templates",
+    "tags": [
+      "certificate",
+      "award",
+      "achievement"
+    ]
+  },
+  {
+    "id": "50",
+    "platform": "Canva",
+    "category": "Templates",
+    "name": "Menus",
+    "type": "template",
+    "format": "PDF",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://www.canva.com/templates/menus/",
+    "description": "Restaurant and cafe menu designs",
+    "tags": [
+      "menu",
+      "restaurant",
+      "food"
+    ]
+  },
+  {
+    "id": "51",
+    "platform": "Canva",
+    "category": "Courses",
+    "name": "Brand Kit Tutorial",
+    "type": "video",
+    "format": "HTML5",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://www.canva.com/learn/brand-kit/",
+    "description": "How to create and manage brand kits",
+    "tags": [
+      "brand",
+      "kit",
+      "identity"
+    ]
+  },
+  {
+    "id": "52",
+    "platform": "Canva",
+    "category": "Courses",
+    "name": "Animation Basics",
+    "type": "video",
+    "format": "HTML5",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://www.canva.com/learn/animation/",
+    "description": "Creating simple animations in Canva",
+    "tags": [
+      "animation",
+      "motion",
+      "graphics"
+    ]
+  },
+  {
+    "id": "53",
+    "platform": "Canva",
+    "category": "Courses",
+    "name": "Photo Editing Pro",
+    "type": "video",
+    "format": "HTML5",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://www.canva.com/learn/photo-editing-pro/",
+    "description": "Advanced photo editing techniques",
+    "tags": [
+      "photo",
+      "editing",
+      "advanced"
+    ]
+  },
+  {
+    "id": "54",
+    "platform": "Canva",
+    "category": "Courses",
+    "name": "Print Design",
+    "type": "video",
+    "format": "HTML5",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://www.canva.com/learn/print-design/",
+    "description": "Designing for print with proper specifications",
+    "tags": [
+      "print",
+      "design",
+      "physical"
+    ]
+  },
+  {
+    "id": "55",
+    "platform": "Canva",
+    "category": "Courses",
+    "name": "Team Collaboration",
+    "type": "video",
+    "format": "HTML5",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://www.canva.com/learn/team-collaboration/",
+    "description": "Working with teams in Canva",
+    "tags": [
+      "team",
+      "collaboration",
+      "workflow"
+    ]
+  },
+  {
+    "id": "56",
+    "platform": "Iconscout",
+    "category": "icon packs",
+    "name": "Programming Icons",
+    "type": "icon",
+    "format": "SVG",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://iconscout.com/icons/programming",
+    "description": "Code and development language icons",
+    "tags": [
+      "programming",
+      "code",
+      "developer"
+    ]
+  },
+  {
+    "id": "57",
+    "platform": "Iconscout",
+    "category": "icon packs",
+    "name": "Music Icons",
+    "type": "icon",
+    "format": "SVG, PNG",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://iconscout.com/icons/music",
+    "description": "Musical instruments and audio icons",
+    "tags": [
+      "music",
+      "audio",
+      "sound"
+    ]
+  },
+  {
+    "id": "58",
+    "platform": "Iconscout",
+    "category": "icon packs",
+    "name": "Gaming Icons",
+    "type": "icon",
+    "format": "SVG",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://iconscout.com/icons/gaming",
+    "description": "Video games and esports icons",
+    "tags": [
+      "gaming",
+      "esports",
+      "controller"
+    ]
+  },
+  {
+    "id": "59",
+    "platform": "Iconscout",
+    "category": "icon packs",
+    "name": "Real Estate Icons",
+    "type": "icon",
+    "format": "SVG",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://iconscout.com/icons/real-estate",
+    "description": "Property and housing icons",
+    "tags": [
+      "real",
+      "estate",
+      "property"
+    ]
+  },
+  {
+    "id": "60",
+    "platform": "Iconscout",
+    "category": "icon packs",
+    "name": "Fashion Icons",
+    "type": "icon",
+    "format": "SVG",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://iconscout.com/icons/fashion",
+    "description": "Clothing and style icons",
+    "tags": [
+      "fashion",
+      "clothing",
+      "style"
+    ]
+  },
+  {
+    "id": "61",
+    "platform": "Iconscout",
+    "category": "illustration sets",
+    "name": "Freelance Illustrations",
+    "type": "illustration",
+    "format": "SVG",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://iconscout.com/illustrations/freelance",
+    "description": "Remote work and freelance illustrations",
+    "tags": [
+      "freelance",
+      "remote",
+      "work"
+    ]
+  },
+  {
+    "id": "62",
+    "platform": "Iconscout",
+    "category": "illustration sets",
+    "name": "E-learning Illustrations",
+    "type": "illustration",
+    "format": "AI",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://iconscout.com/illustrations/elearning",
+    "description": "Online learning platform illustrations",
+    "tags": [
+      "elearning",
+      "online",
+      "course"
+    ]
+  },
+  {
+    "id": "63",
+    "platform": "Iconscout",
+    "category": "illustration sets",
+    "name": "Fitness Illustrations",
+    "type": "illustration",
+    "format": "SVG",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://iconscout.com/illustrations/fitness",
+    "description": "Gym and workout illustrations",
+    "tags": [
+      "fitness",
+      "gym",
+      "workout"
+    ]
+  },
+  {
+    "id": "64",
+    "platform": "Iconscout",
+    "category": "illustration sets",
+    "name": "Cryptocurrency Illustrations",
+    "type": "illustration",
+    "format": "EPS",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://iconscout.com/illustrations/cryptocurrency",
+    "description": "Blockchain and crypto illustrations",
+    "tags": [
+      "crypto",
+      "blockchain",
+      "bitcoin"
+    ]
+  },
+  {
+    "id": "65",
+    "platform": "Iconscout",
+    "category": "illustration sets",
+    "name": "SaaS Illustrations",
+    "type": "illustration",
+    "format": "SVG",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://iconscout.com/illustrations/saas",
+    "description": "Software as a service illustrations",
+    "tags": [
+      "saas",
+      "software",
+      "cloud"
+    ]
+  },
+  {
+    "id": "66",
+    "platform": "Canva",
+    "category": "Templates",
+    "name": "LinkedIn Posts",
+    "type": "template",
+    "format": "PNG",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://www.canva.com/templates/linkedin-posts/",
+    "description": "Professional LinkedIn content templates",
+    "tags": [
+      "linkedin",
+      "professional",
+      "networking"
+    ]
+  },
+  {
+    "id": "67",
+    "platform": "Canva",
+    "category": "Templates",
+    "name": "TikTok Videos",
+    "type": "template",
+    "format": "MP4",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://www.canva.com/templates/tiktok-videos/",
+    "description": "Trending TikTok video templates",
+    "tags": [
+      "tiktok",
+      "video",
+      "trending"
+    ]
+  },
+  {
+    "id": "68",
+    "platform": "Canva",
+    "category": "Templates",
+    "name": "Podcast Covers",
+    "type": "template",
+    "format": "PNG",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://www.canva.com/templates/podcast-covers/",
+    "description": "Eye-catching podcast artwork",
+    "tags": [
+      "podcast",
+      "audio",
+      "cover"
+    ]
+  },
+  {
+    "id": "69",
+    "platform": "Canva",
+    "category": "Templates",
+    "name": "Ebook Covers",
+    "type": "template",
+    "format": "PNG",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://www.canva.com/templates/ebook-covers/",
+    "description": "Professional ebook cover designs",
+    "tags": [
+      "ebook",
+      "cover",
+      "digital"
+    ]
+  },
+  {
+    "id": "70",
+    "platform": "Canva",
+    "category": "Templates",
+    "name": "Website Mockups",
+    "type": "template",
+    "format": "PNG",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://www.canva.com/templates/website-mockups/",
+    "description": "Website presentation mockups",
+    "tags": [
+      "website",
+      "mockup",
+      "presentation"
+    ]
+  },
+  {
+    "id": "71",
+    "platform": "Canva",
+    "category": "Courses",
+    "name": "Motion Graphics",
+    "type": "video",
+    "format": "HTML5",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://www.canva.com/learn/motion-graphics/",
+    "description": "Creating motion graphics with Canva",
+    "tags": [
+      "motion",
+      "graphics",
+      "animation"
+    ]
+  },
+  {
+    "id": "72",
+    "platform": "Canva",
+    "category": "Courses",
+    "name": "Data Visualization",
+    "type": "video",
+    "format": "HTML5",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://www.canva.com/learn/data-visualization/",
+    "description": "Charts and graphs design principles",
+    "tags": [
+      "data",
+      "visualization",
+      "charts"
+    ]
+  },
+  {
+    "id": "73",
+    "platform": "Canva",
+    "category": "Courses",
+    "name": "UI/UX Design",
+    "type": "video",
+    "format": "HTML5",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://www.canva.com/learn/ui-ux-design/",
+    "description": "Interface design fundamentals",
+    "tags": [
+      "ui",
+      "ux",
+      "interface"
+    ]
+  },
+  {
+    "id": "74",
+    "platform": "Canva",
+    "category": "Courses",
+    "name": "Social Media Strategy",
+    "type": "video",
+    "format": "HTML5",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://www.canva.com/learn/social-media-strategy/",
+    "description": "Content planning and design strategy",
+    "tags": [
+      "social",
+      "strategy",
+      "planning"
+    ]
+  },
+  {
+    "id": "75",
+    "platform": "Canva",
+    "category": "Courses",
+    "name": "Portfolio Design",
+    "type": "video",
+    "format": "HTML5",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://www.canva.com/learn/portfolio-design/",
+    "description": "Creating stunning design portfolios",
+    "tags": [
+      "portfolio",
+      "design",
+      "showcase"
+    ]
+  },
+  {
+    "id": "76",
+    "platform": "Iconscout",
+    "category": "icon packs",
+    "name": "Arrow Icons",
+    "type": "icon",
+    "format": "SVG",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://iconscout.com/icons/arrows",
+    "description": "Directional and navigation arrows",
+    "tags": [
+      "arrow",
+      "direction",
+      "navigation"
+    ]
+  },
+  {
+    "id": "77",
+    "platform": "Iconscout",
+    "category": "icon packs",
+    "name": "Weather Icons",
+    "type": "icon",
+    "format": "SVG, PNG",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://iconscout.com/icons/weather",
+    "description": "Complete weather condition icons",
+    "tags": [
+      "weather",
+      "climate",
+      "forecast"
+    ]
+  },
+  {
+    "id": "78",
+    "platform": "Iconscout",
+    "category": "icon packs",
+    "name": "Calendar Icons",
+    "type": "icon",
+    "format": "SVG",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://iconscout.com/icons/calendar",
+    "description": "Date and schedule management icons",
+    "tags": [
+      "calendar",
+      "date",
+      "schedule"
+    ]
+  },
+  {
+    "id": "79",
+    "platform": "Iconscout",
+    "category": "icon packs",
+    "name": "File Type Icons",
+    "type": "icon",
+    "format": "SVG",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://iconscout.com/icons/file-types",
+    "description": "Document format recognition icons",
+    "tags": [
+      "file",
+      "document",
+      "format"
+    ]
+  },
+  {
+    "id": "80",
+    "platform": "Iconscout",
+    "category": "icon packs",
+    "name": "Accessibility Icons",
+    "type": "icon",
+    "format": "SVG",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://iconscout.com/icons/accessibility",
+    "description": "Inclusive design accessibility icons",
+    "tags": [
+      "accessibility",
+      "inclusive",
+      "a11y"
+    ]
+  },
+  {
+    "id": "81",
+    "platform": "Iconscout",
+    "category": "illustration sets",
+    "name": "Cybersecurity Illustrations",
+    "type": "illustration",
+    "format": "SVG",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://iconscout.com/illustrations/cybersecurity",
+    "description": "Digital security and protection illustrations",
+    "tags": [
+      "cybersecurity",
+      "protection",
+      "digital"
+    ]
+  },
+  {
+    "id": "82",
+    "platform": "Iconscout",
+    "category": "illustration sets",
+    "name": "Remote Work Illustrations",
+    "type": "illustration",
+    "format": "AI",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://iconscout.com/illustrations/remote-work",
+    "description": "Work from home lifestyle illustrations",
+    "tags": [
+      "remote",
+      "work",
+      "home"
+    ]
+  },
+  {
+    "id": "83",
+    "platform": "Iconscout",
+    "category": "illustration sets",
+    "name": "Podcast Illustrations",
+    "type": "illustration",
+    "format": "SVG",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://iconscout.com/illustrations/podcast",
+    "description": "Audio content and podcasting illustrations",
+    "tags": [
+      "podcast",
+      "audio",
+      "microphone"
+    ]
+  },
+  {
+    "id": "84",
+    "platform": "Iconscout",
+    "category": "illustration sets",
+    "name": "NFT Illustrations",
+    "type": "illustration",
+    "format": "EPS",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://iconscout.com/illustrations/nft",
+    "description": "Digital collectibles and NFT illustrations",
+    "tags": [
+      "nft",
+      "digital",
+      "collectible"
+    ]
+  },
+  {
+    "id": "85",
+    "platform": "Iconscout",
+    "category": "illustration sets",
+    "name": "Metaverse Illustrations",
+    "type": "illustration",
+    "format": "SVG",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://iconscout.com/illustrations/metaverse",
+    "description": "Virtual reality and metaverse illustrations",
+    "tags": [
+      "metaverse",
+      "vr",
+      "virtual"
+    ]
+  },
+  {
+    "id": "86",
+    "platform": "Canva",
+    "category": "Templates",
+    "name": "Twitter Headers",
+    "type": "template",
+    "format": "PNG",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://www.canva.com/templates/twitter-headers/",
+    "description": "Custom Twitter profile headers",
+    "tags": [
+      "twitter",
+      "header",
+      "profile"
+    ]
+  },
+  {
+    "id": "87",
+    "platform": "Canva",
+    "category": "Templates",
+    "name": "Facebook Covers",
+    "type": "template",
+    "format": "PNG",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://www.canva.com/templates/facebook-covers/",
+    "description": "Facebook timeline cover photos",
+    "tags": [
+      "facebook",
+      "cover",
+      "timeline"
+    ]
+  },
+  {
+    "id": "88",
+    "platform": "Canva",
+    "category": "Templates",
+    "name": "Snapchat Geofilters",
+    "type": "template",
+    "format": "PNG",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://www.canva.com/templates/snapchat-geofilters/",
+    "description": "Custom Snapchat geofilter designs",
+    "tags": [
+      "snapchat",
+      "geofilter",
+      "location"
+    ]
+  },
+  {
+    "id": "89",
+    "platform": "Canva",
+    "category": "Templates",
+    "name": "Event Tickets",
+    "type": "template",
+    "format": "PDF",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://www.canva.com/templates/event-tickets/",
+    "description": "Professional event ticket designs",
+    "tags": [
+      "ticket",
+      "event",
+      "admission"
+    ]
+  },
+  {
+    "id": "90",
+    "platform": "Canva",
+    "category": "Templates",
+    "name": "Price Lists",
+    "type": "template",
+    "format": "PDF",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://www.canva.com/templates/price-lists/",
+    "description": "Service and product price list templates",
+    "tags": [
+      "price",
+      "list",
+      "services"
+    ]
+  },
+  {
+    "id": "91",
+    "platform": "Canva",
+    "category": "Courses",
+    "name": "Whiteboard Animation",
+    "type": "video",
+    "format": "HTML5",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://www.canva.com/learn/whiteboard-animation/",
+    "description": "Create explainer whiteboard videos",
+    "tags": [
+      "whiteboard",
+      "animation",
+      "explainer"
+    ]
+  },
+  {
+    "id": "92",
+    "platform": "Canva",
+    "category": "Courses",
+    "name": "Icon Design",
+    "type": "video",
+    "format": "HTML5",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://www.canva.com/learn/icon-design/",
+    "description": "Designing custom icons and illustrations",
+    "tags": [
+      "icon",
+      "design",
+      "custom"
+    ]
+  },
+  {
+    "id": "93",
+    "platform": "Canva",
+    "category": "Courses",
+    "name": "Mockup Creation",
+    "type": "video",
+    "format": "HTML5",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://www.canva.com/learn/mockup-creation/",
+    "description": "Professional product mockup techniques",
+    "tags": [
+      "mockup",
+      "product",
+      "presentation"
+    ]
+  },
+  {
+    "id": "94",
+    "platform": "Canva",
+    "category": "Courses",
+    "name": "Design Systems",
+    "type": "video",
+    "format": "HTML5",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://www.canva.com/learn/design-systems/",
+    "description": "Building scalable design systems",
+    "tags": [
+      "design",
+      "system",
+      "scale"
+    ]
+  },
+  {
+    "id": "95",
+    "platform": "Canva",
+    "category": "Courses",
+    "name": "Accessibility Design",
+    "type": "video",
+    "format": "HTML5",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://www.canva.com/learn/accessibility-design/",
+    "description": "Inclusive design practices",
+    "tags": [
+      "accessibility",
+      "inclusive",
+      "design"
+    ]
+  },
+  {
+    "id": "96",
+    "platform": "Iconscout",
+    "category": "icon packs",
+    "name": "Hand Drawn Icons",
+    "type": "icon",
+    "format": "SVG",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://iconscout.com/icons/hand-drawn",
+    "description": "Sketchy hand-drawn style icons",
+    "tags": [
+      "hand",
+      "drawn",
+      "sketch"
+    ]
+  },
+  {
+    "id": "97",
+    "platform": "Iconscout",
+    "category": "icon packs",
+    "name": "Duotone Icons",
+    "type": "icon",
+    "format": "SVG",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://iconscout.com/icons/duotone",
+    "description": "Modern duotone gradient icons",
+    "tags": [
+      "duotone",
+      "gradient",
+      "modern"
+    ]
+  },
+  {
+    "id": "98",
+    "platform": "Iconscout",
+    "category": "icon packs",
+    "name": "3D Icons",
+    "type": "icon",
+    "format": "SVG, PNG",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://iconscout.com/icons/3d",
+    "description": "Isometric 3D style icons",
+    "tags": [
+      "3d",
+      "isometric",
+      "立体"
+    ]
+  },
+  {
+    "id": "99",
+    "platform": "Iconscout",
+    "category": "icon packs",
+    "name": "Emoji Icons",
+    "type": "icon",
+    "format": "SVG",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://iconscout.com/icons/emoji",
+    "description": "Fun emoji-style icons",
+    "tags": [
+      "emoji",
+      "fun",
+      "expression"
+    ]
+  },
+  {
+    "id": "100",
+    "platform": "Iconscout",
+    "category": "icon packs",
+    "name": "Gradient Icons",
+    "type": "icon",
+    "format": "SVG",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://iconscout.com/icons/gradient",
+    "description": "Beautiful gradient filled icons",
+    "tags": [
+      "gradient",
+      "colorful",
+      "modern"
+    ]
+  },
+  {
+    "id": "101",
+    "platform": "Iconscout",
+    "category": "illustration sets",
+    "name": "Landing Page Illustrations",
+    "type": "illustration",
+    "format": "SVG",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://iconscout.com/illustrations/landing-page",
+    "description": "Hero section and landing page illustrations",
+    "tags": [
+      "landing",
+      "page",
+      "hero"
+    ]
+  },
+  {
+    "id": "102",
+    "platform": "Iconscout",
+    "category": "illustration sets",
+    "name": "Feature Illustrations",
+    "type": "illustration",
+    "format": "AI",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://iconscout.com/illustrations/features",
+    "description": "Product feature showcase illustrations",
+    "tags": [
+      "features",
+      "product",
+      "showcase"
+    ]
+  },
+  {
+    "id": "103",
+    "platform": "Iconscout",
+    "category": "illustration sets",
+    "name": "Testimonial Illustrations",
+    "type": "illustration",
+    "format": "SVG",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://iconscout.com/illustrations/testimonials",
+    "description": "Customer review section illustrations",
+    "tags": [
+      "testimonial",
+      "review",
+      "customer"
+    ]
+  },
+  {
+    "id": "104",
+    "platform": "Iconscout",
+    "category": "illustration sets",
+    "name": "Pricing Illustrations",
+    "type": "illustration",
+    "format": "EPS",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://iconscout.com/illustrations/pricing",
+    "description": "Pricing table and plan illustrations",
+    "tags": [
+      "pricing",
+      "plan",
+      "subscription"
+    ]
+  },
+  {
+    "id": "105",
+    "platform": "Iconscout",
+    "category": "illustration sets",
+    "name": "Contact Illustrations",
+    "type": "illustration",
+    "format": "SVG",
+    "free_tier": true,
+    "student_pack": true,
+    "url": "https://iconscout.com/illustrations/contact",
+    "description": "Contact form and support illustrations",
+    "tags": [
+      "contact",
+      "support",
+      "help"
+    ]
+  }
+]

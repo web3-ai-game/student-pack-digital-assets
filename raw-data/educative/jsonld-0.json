@@ -1,0 +1,193 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Educative",
+    "url": "https://www.educative.io/",
+    "logo": "https://www.educative.io/static/imgs/logos/logoMarkv3.png",
+    "description": "Educative is a platform for online learning of coding skills through interactive, hands-on courses and so much more.",
+    "foundingDate": "2015",
+    "founders": [
+      {
+        "@type": "Person",
+        "name": "Fahim-ul-Haq"
+      },
+      {
+        "@type": "Person",
+        "name": "Naeem-ul-Haq"
+      }
+    ],
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "contactType": "customer service",
+      "url": "https://www.educative.io/contactUs"
+    },
+    "sameAs": [
+      "https://www.facebook.com/educativeinc",
+      "https://www.linkedin.com/company/educative-inc",
+      "https://twitter.com/educativeinc",
+      "https://www.instagram.com/educativeinc/"
+    ],
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "12280 NE District Way",
+      "addressLocality": "Bellevue",
+      "addressRegion": "WA",
+      "postalCode": "98005",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "US"
+      }
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "name": "Most Popular Courses",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "item": {
+          "@type": "Course",
+          "name": "Grokking Modern System Design Interview",
+          "description": "Everything you need for Grokking the System Design Interview, developed by FAANG engineers. Master distributed system fundamentals and practice real-world interview questions.",
+          "url": "https://www.educative.io/courses/grokking-the-system-design-interview",
+          "provider": {
+            "@type": "Organization",
+            "name": "Educative",
+            "sameAs": "https://www.educative.io"
+          },
+          "educationalLevel": "intermediate",
+          "timeRequired": "PT26H"
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "item": {
+          "@type": "Course",
+          "name": "Grokking the Coding Interview Patterns",
+          "description": "Grokking the Coding Interview is the best course that saves countless hours wasted in grinding LeetCode. Master 28 coding patterns; unlock all LeetCode problems. Developed by and for MAANG engineers.",
+          "url": "https://www.educative.io/courses/grokking-coding-interview",
+          "provider": {
+            "@type": "Organization",
+            "name": "Educative",
+            "sameAs": "https://www.educative.io"
+          },
+          "educationalLevel": "intermediate",
+          "timeRequired": "PT85H"
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "item": {
+          "@type": "Course",
+          "name": "Grokking the Mobile System Design Interview",
+          "description": "Grokking the Mobile System Design Interview is a course created by industry engineers that teaches you how to design scalable, resilient, user-centric mobile systems.",
+          "url": "https://www.educative.io/courses/mobile-system-design",
+          "provider": {
+            "@type": "Organization",
+            "name": "Educative",
+            "sameAs": "https://www.educative.io"
+          },
+          "educationalLevel": "intermediate",
+          "timeRequired": "PT14H"
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
+        "item": {
+          "@type": "Course",
+          "name": "Agentic System Design",
+          "description": "Learn to design the next generation of AI systems. Explore the architectures and strategies behind autonomous agents that solve complex, real-world problems.",
+          "url": "https://www.educative.io/courses/agentic-ai-systems",
+          "provider": {
+            "@type": "Organization",
+            "name": "Educative",
+            "sameAs": "https://www.educative.io"
+          },
+          "educationalLevel": "advanced",
+          "timeRequired": "PT6H"
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 5,
+        "item": {
+          "@type": "Course",
+          "name": "Learn Data Analysis",
+          "description": "This course equips you with the skills to access, clean, analyze, and visualize data using SQL and Python, preparing you to launch your career in data analysis.",
+          "url": "https://www.educative.io/courses/learn-data-analysis",
+          "provider": {
+            "@type": "Organization",
+            "name": "Educative",
+            "sameAs": "https://www.educative.io"
+          },
+          "educationalLevel": "beginner",
+          "timeRequired": "PT7H"
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 6,
+        "item": {
+          "@type": "Course",
+          "name": "Learn Data Engineering",
+          "description": "This course covers the essentials of data engineering, from handling structured and unstructured data to designing scalable systems with Hadoop, Spark, and Kafka.",
+          "url": "https://www.educative.io/courses/learn-data-engineering",
+          "provider": {
+            "@type": "Organization",
+            "name": "Educative",
+            "sameAs": "https://www.educative.io"
+          },
+          "educationalLevel": "beginner",
+          "timeRequired": "PT4H"
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 7,
+        "item": {
+          "@type": "Course",
+          "name": "Llama Stack: From Fundamentals to Deployment",
+          "description": "This course guides you through Llama Stack and its key components, including agentic workflows, RAG systems, safety mechanisms, monitoring, and deployment.",
+          "url": "https://www.educative.io/courses/llamastack",
+          "provider": {
+            "@type": "Organization",
+            "name": "Educative",
+            "sameAs": "https://www.educative.io"
+          },
+          "educationalLevel": "intermediate",
+          "timeRequired": "PT5H"
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 8,
+        "item": {
+          "@type": "Course",
+          "name": "Master AWS Certified Developer – Associate (DVA-C02) Exam",
+          "description": "Become an AWS pro with the AWS Developer – Associate (DVA-C02) course. Get hands-on experience that requires no setup, clean up, or hassle.",
+          "url": "https://www.educative.io/courses/aws-certified-developer-associate",
+          "provider": {
+            "@type": "Organization",
+            "name": "Educative",
+            "sameAs": "https://www.educative.io"
+          },
+          "educationalLevel": "intermediate",
+          "timeRequired": "PT25H"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "WebPage",
+    "description": "Learn coding with AI-powered online courses. Educative.io offers a vast catalog designed to keep you engaged and advancing.",
+    "headline": "Online Coding Courses - AI-Powered Interactive Learning",
+    "inLanguage": "en"
+  }
+]

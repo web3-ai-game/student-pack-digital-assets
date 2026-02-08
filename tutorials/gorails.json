@@ -1,0 +1,2678 @@
+[
+  {
+    "id": "gorails-0",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Building a SaaS with Rails 7 and Hotwire",
+    "description": "Kick off a new SaaS app using Rails 7 with Hotwire for modern interactivity without JavaScript frameworks.",
+    "topics": [
+      "Rails 7",
+      "Hotwire",
+      "Turbo"
+    ],
+    "level": "",
+    "hours": 0.75,
+    "url": "https://gorails.com/rails7-hotwire-saas"
+  },
+  {
+    "id": "gorails-1",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Stimulus Basics in Rails 7",
+    "description": "Learn the fundamentals of Stimulus controllers and how to integrate them into your Rails 7 app.",
+    "topics": [
+      "Stimulus",
+      "Rails 7"
+    ],
+    "level": "",
+    "hours": 0.5,
+    "url": "https://gorails.com/stimulus-basics-rails7"
+  },
+  {
+    "id": "gorails-2",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Turbo Frames for Dynamic Pages",
+    "description": "Master Turbo Frames to update parts of your page without full reloads.",
+    "topics": [
+      "Turbo",
+      "Hotwire"
+    ],
+    "level": "",
+    "hours": 0.5833333333333334,
+    "url": "https://gorails.com/turbo-frames-dynamic-pages"
+  },
+  {
+    "id": "gorails-3",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Setting up Stripe Subscriptions",
+    "description": "Integrate Stripe for handling recurring subscriptions in your Rails app.",
+    "topics": [
+      "Stripe",
+      "Subscriptions"
+    ],
+    "level": "",
+    "hours": 0.8333333333333334,
+    "url": "https://gorails.com/stripe-subscriptions-setup"
+  },
+  {
+    "id": "gorails-4",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Devise Authentication with Hotwire",
+    "description": "Upgrade Devise login/signup to work seamlessly with Hotwire and Turbo.",
+    "topics": [
+      "Authentication",
+      "Devise",
+      "Hotwire"
+    ],
+    "level": "",
+    "hours": 0.6666666666666666,
+    "url": "https://gorails.com/devise-hotwire-auth"
+  },
+  {
+    "id": "gorails-5",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Deploying Rails 7 to Render",
+    "description": "Step-by-step deployment of a Rails 7 app to Render with zero-downtime deploys.",
+    "topics": [
+      "Deployment",
+      "Render",
+      "Rails 7"
+    ],
+    "level": "",
+    "hours": 0.4166666666666667,
+    "url": "https://gorails.com/deploy-rails7-render"
+  },
+  {
+    "id": "gorails-6",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "RSpec Testing Fundamentals",
+    "description": "Get started with RSpec for unit, integration, and system tests in Rails.",
+    "topics": [
+      "Testing",
+      "RSpec"
+    ],
+    "level": "",
+    "hours": 0.9166666666666666,
+    "url": "https://gorails.com/rspec-testing-fundamentals"
+  },
+  {
+    "id": "gorails-7",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "ActiveRecord Associations Deep Dive",
+    "description": "Explore has_many, belongs_to, polymorphic associations, and optimization tips.",
+    "topics": [
+      "ActiveRecord"
+    ],
+    "level": "",
+    "hours": 1,
+    "url": "https://gorails.com/activerecord-associations"
+  },
+  {
+    "id": "gorails-8",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "ActionCable Real-time Chat",
+    "description": "Build a real-time chat app using ActionCable channels and broadcasts.",
+    "topics": [
+      "ActionCable"
+    ],
+    "level": "",
+    "hours": 1.1666666666666667,
+    "url": "https://gorails.com/actioncable-chat"
+  },
+  {
+    "id": "gorails-9",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Rails 7 Import Maps",
+    "description": "Replace webpacker with esbuild and import maps for simpler JS setup.",
+    "topics": [
+      "Rails 7",
+      "Import Maps"
+    ],
+    "level": "",
+    "hours": 0.3333333333333333,
+    "url": "https://gorails.com/rails7-import-maps"
+  },
+  {
+    "id": "gorails-10",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Turbo Streams for Live Updates",
+    "description": "Use Turbo Streams to push updates from the server to the client in real-time.",
+    "topics": [
+      "Turbo",
+      "Hotwire"
+    ],
+    "level": "",
+    "hours": 0.6666666666666666,
+    "url": "https://gorails.com/turbo-streams-live-updates"
+  },
+  {
+    "id": "gorails-11",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Pundit for Authorization",
+    "description": "Implement role-based authorization with Pundit policies.",
+    "topics": [
+      "Authorization",
+      "Pundit"
+    ],
+    "level": "",
+    "hours": 0.5833333333333334,
+    "url": "https://gorails.com/pundit-authorization"
+  },
+  {
+    "id": "gorails-12",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Sidekiq Background Jobs",
+    "description": "Process heavy tasks asynchronously with Sidekiq and Redis.",
+    "topics": [
+      "Background Jobs",
+      "Sidekiq"
+    ],
+    "level": "",
+    "hours": 0.75,
+    "url": "https://gorails.com/sidekiq-background-jobs"
+  },
+  {
+    "id": "gorails-13",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Custom Rails Generators",
+    "description": "Create your own generators to speed up development workflows.",
+    "topics": [
+      "Rails Generators"
+    ],
+    "level": "",
+    "hours": 0.5,
+    "url": "https://gorails.com/custom-rails-generators"
+  },
+  {
+    "id": "gorails-14",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "PostgreSQL Advanced Queries",
+    "description": "Leverage Postgres features like JSONB, full-text search, and window functions.",
+    "topics": [
+      "ActiveRecord",
+      "PostgreSQL"
+    ],
+    "level": "",
+    "hours": 0.8333333333333334,
+    "url": "https://gorails.com/postgres-advanced-queries"
+  },
+  {
+    "id": "gorails-15",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Hotwire + Stripe Checkout",
+    "description": "Seamless Stripe payments with Turbo and Stimulus.",
+    "topics": [
+      "Hotwire",
+      "Stripe"
+    ],
+    "level": "",
+    "hours": 0.6666666666666666,
+    "url": "https://gorails.com/hotwire-stripe-checkout"
+  },
+  {
+    "id": "gorails-16",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "FactoryBot for Test Data",
+    "description": "Generate realistic test data efficiently with FactoryBot.",
+    "topics": [
+      "Testing",
+      "FactoryBot"
+    ],
+    "level": "",
+    "hours": 0.4166666666666667,
+    "url": "https://gorails.com/factorybot-test-data"
+  },
+  {
+    "id": "gorails-17",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Deploy to Heroku with Rails 8 Preview",
+    "description": "Prepare your app for Rails 8 and deploy to Heroku.",
+    "topics": [
+      "Deployment",
+      "Heroku",
+      "Rails 8"
+    ],
+    "level": "",
+    "hours": 0.5,
+    "url": "https://gorails.com/deploy-heroku-rails8"
+  },
+  {
+    "id": "gorails-18",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "StimulusReflex for Reactive UIs",
+    "description": "Add real-time reactivity to Stimulus controllers.",
+    "topics": [
+      "StimulusReflex"
+    ],
+    "level": "",
+    "hours": 1,
+    "url": "https://gorails.com/stimulusreflex-reactive-ui"
+  },
+  {
+    "id": "gorails-19",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "ActiveStorage with Cloudinary",
+    "description": "Upload and serve images/videos with ActiveStorage and Cloudinary.",
+    "topics": [
+      "ActiveStorage"
+    ],
+    "level": "",
+    "hours": 0.5833333333333334,
+    "url": "https://gorails.com/activestorage-cloudinary"
+  },
+  {
+    "id": "gorails-20",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Rails Credentials Management",
+    "description": "Securely manage environment variables and secrets in Rails 7/8.",
+    "topics": [
+      "Security",
+      "Credentials"
+    ],
+    "level": "",
+    "hours": 0.3333333333333333,
+    "url": "https://gorails.com/rails-credentials"
+  },
+  {
+    "id": "gorails-21",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Testing Turbo Streams",
+    "description": "Write reliable tests for your Hotwire Turbo features.",
+    "topics": [
+      "Testing",
+      "Turbo"
+    ],
+    "level": "",
+    "hours": 0.6666666666666666,
+    "url": "https://gorails.com/testing-turbo-streams"
+  },
+  {
+    "id": "gorails-22",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "ActionText Rich Editor",
+    "description": "Implement rich text editing with ActionText and Trix editor.",
+    "topics": [
+      "ActionText",
+      "Trix"
+    ],
+    "level": "",
+    "hours": 0.5,
+    "url": "https://gorails.com/actiontext-rich-editor"
+  },
+  {
+    "id": "gorails-23",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Deploying with Docker",
+    "description": "Containerize your Rails app for consistent deployments.",
+    "topics": [
+      "Deployment",
+      "Docker"
+    ],
+    "level": "",
+    "hours": 0.9166666666666666,
+    "url": "https://gorails.com/deploy-docker"
+  },
+  {
+    "id": "gorails-24",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "ActiveRecord Enums and Scopes",
+    "description": "Use enums and scopes to keep your models clean and queryable.",
+    "topics": [
+      "ActiveRecord"
+    ],
+    "level": "",
+    "hours": 0.4166666666666667,
+    "url": "https://gorails.com/activerecord-enums-scopes"
+  },
+  {
+    "id": "gorails-25",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Real-time Notifications with Turbo",
+    "description": "Build a notification system using Turbo Streams and ActionCable.",
+    "topics": [
+      "Turbo",
+      "Notifications"
+    ],
+    "level": "",
+    "hours": 0.75,
+    "url": "https://gorails.com/realtime-notifications-turbo"
+  },
+  {
+    "id": "gorails-26",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "ViewComponent for Reusable UI",
+    "description": "Create reusable, testable components with ViewComponent gem.",
+    "topics": [
+      "ViewComponent"
+    ],
+    "level": "",
+    "hours": 0.6666666666666666,
+    "url": "https://gorails.com/viewcomponent-reusable-ui"
+  },
+  {
+    "id": "gorails-27",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Stripe Webhooks Handling",
+    "description": "Securely handle Stripe webhook events for subscriptions and payments.",
+    "topics": [
+      "Stripe",
+      "Webhooks"
+    ],
+    "level": "",
+    "hours": 0.5833333333333334,
+    "url": "https://gorails.com/stripe-webhooks"
+  },
+  {
+    "id": "gorails-28",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Rails 8 Kamal Deployment",
+    "description": "Deploy Rails apps to your own servers with Kamal (formerly MRSK).",
+    "topics": [
+      "Deployment",
+      "Kamal",
+      "Rails 8"
+    ],
+    "level": "",
+    "hours": 0.8333333333333334,
+    "url": "https://gorails.com/kamal-deployment-rails8"
+  },
+  {
+    "id": "gorails-29",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Advanced Stimulus Controllers",
+    "description": "Connect controllers, use values, targets, and classes effectively.",
+    "topics": [
+      "Stimulus"
+    ],
+    "level": "",
+    "hours": 0.75,
+    "url": "https://gorails.com/advanced-stimulus-controllers"
+  },
+  {
+    "id": "gorails-30",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Database Migrations Best Practices",
+    "description": "Write safe, reversible migrations and handle data migrations.",
+    "topics": [
+      "Migrations",
+      "ActiveRecord"
+    ],
+    "level": "",
+    "hours": 0.5,
+    "url": "https://gorails.com/migration-best-practices"
+  },
+  {
+    "id": "gorails-31",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Hotwire File Uploads",
+    "description": "Drag & drop file uploads with Turbo and Stimulus.",
+    "topics": [
+      "Hotwire",
+      "File Upload"
+    ],
+    "level": "",
+    "hours": 0.6666666666666666,
+    "url": "https://gorails.com/hotwire-file-uploads"
+  },
+  {
+    "id": "gorails-32",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Shoulda Matchers for Testing",
+    "description": "Write concise, readable tests with Shoulda Matchers.",
+    "topics": [
+      "Testing",
+      "Shoulda"
+    ],
+    "level": "",
+    "hours": 0.4166666666666667,
+    "url": "https://gorails.com/shoulda-matchers-testing"
+  },
+  {
+    "id": "gorails-33",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "ActionCable Authentication",
+    "description": "Secure your WebSocket connections with Devise and ActionCable.",
+    "topics": [
+      "ActionCable",
+      "Authentication"
+    ],
+    "level": "",
+    "hours": 0.5833333333333334,
+    "url": "https://gorails.com/actioncable-auth"
+  },
+  {
+    "id": "gorails-34",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Performance Monitoring with Scout",
+    "description": "Monitor Rails app performance in production with Scout APM.",
+    "topics": [
+      "Performance"
+    ],
+    "level": "",
+    "hours": 0.5,
+    "url": "https://gorails.com/scout-performance-monitoring"
+  },
+  {
+    "id": "gorails-35",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Rails Engines for Modularity",
+    "description": "Build reusable gems and engines for your Rails applications.",
+    "topics": [
+      "Rails Engines"
+    ],
+    "level": "",
+    "hours": 1,
+    "url": "https://gorails.com/rails-engines-modularity"
+  },
+  {
+    "id": "gorails-36",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Turbo Native for Mobile",
+    "description": "Extend your web app to iOS and Android with Turbo Native.",
+    "topics": [
+      "Turbo Native"
+    ],
+    "level": "",
+    "hours": 0.8333333333333334,
+    "url": "https://gorails.com/turbo-native-mobile"
+  },
+  {
+    "id": "gorails-37",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "ActiveJob Retries and Backoff",
+    "description": "Handle job failures gracefully with exponential backoff.",
+    "topics": [
+      "ActiveJob"
+    ],
+    "level": "",
+    "hours": 0.6666666666666666,
+    "url": "https://gorails.com/activejob-retries"
+  },
+  {
+    "id": "gorails-38",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "CSS Bundling with Propshaft",
+    "description": "Modern asset pipeline with Propshaft in Rails 8.",
+    "topics": [
+      "Rails 8",
+      "Propshaft"
+    ],
+    "level": "",
+    "hours": 0.4166666666666667,
+    "url": "https://gorails.com/propshaft-css-bundling"
+  },
+  {
+    "id": "gorails-39",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Testing JavaScript with Capybara",
+    "description": "Test Stimulus and Turbo interactions with Capybara and Playwright.",
+    "topics": [
+      "Testing",
+      "JavaScript"
+    ],
+    "level": "",
+    "hours": 0.75,
+    "url": "https://gorails.com/js-testing-capybara"
+  },
+  {
+    "id": "gorails-40",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Multi-Tenancy with Apartments",
+    "description": "Implement subdomain-based multi-tenancy in Rails.",
+    "topics": [
+      "Multi-Tenancy"
+    ],
+    "level": "",
+    "hours": 0.9166666666666666,
+    "url": "https://gorails.com/multi-tenancy-apartments"
+  },
+  {
+    "id": "gorails-41",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Stripe Connect for Marketplaces",
+    "description": "Build marketplaces with Stripe Connect and Rails.",
+    "topics": [
+      "Stripe Connect"
+    ],
+    "level": "",
+    "hours": 1,
+    "url": "https://gorails.com/stripe-connect-marketplaces"
+  },
+  {
+    "id": "gorails-42",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Solid Cable for Cable Security",
+    "description": "Secure ActionCable connections with Solid Cable.",
+    "topics": [
+      "ActionCable",
+      "Security"
+    ],
+    "level": "",
+    "hours": 0.5,
+    "url": "https://gorails.com/solid-cable-security"
+  },
+  {
+    "id": "gorails-43",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Rails 7.1 Solid Queue",
+    "description": "Database-backed job processing without Redis.",
+    "topics": [
+      "Rails 7.1",
+      "Solid Queue"
+    ],
+    "level": "",
+    "hours": 0.6666666666666666,
+    "url": "https://gorails.com/solid-queue-jobs"
+  },
+  {
+    "id": "gorails-44",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Stimulus Use Directives",
+    "description": "Leverage Stimulus 3.0 use directives for reusable behavior.",
+    "topics": [
+      "Stimulus"
+    ],
+    "level": "",
+    "hours": 0.4166666666666667,
+    "url": "https://gorails.com/stimulus-use-directives"
+  },
+  {
+    "id": "gorails-45",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "ActiveRecord Transactions",
+    "description": "Ensure data integrity with database transactions.",
+    "topics": [
+      "ActiveRecord"
+    ],
+    "level": "",
+    "hours": 0.5833333333333334,
+    "url": "https://gorails.com/activerecord-transactions"
+  },
+  {
+    "id": "gorails-46",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Deploy to Fly.io",
+    "description": "Global deployment platform optimized for Rails apps.",
+    "topics": [
+      "Deployment",
+      "Fly.io"
+    ],
+    "level": "",
+    "hours": 0.5,
+    "url": "https://gorails.com/deploy-flyio"
+  },
+  {
+    "id": "gorails-47",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Hotwire Infinite Scroll",
+    "description": "Implement smooth infinite scrolling with Turbo Frames.",
+    "topics": [
+      "Hotwire",
+      "Infinite Scroll"
+    ],
+    "level": "",
+    "hours": 0.6666666666666666,
+    "url": "https://gorails.com/hotwire-infinite-scroll"
+  },
+  {
+    "id": "gorails-48",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "RSpec Shared Examples",
+    "description": "DRY up your tests with shared examples and contexts.",
+    "topics": [
+      "Testing",
+      "RSpec"
+    ],
+    "level": "",
+    "hours": 0.5,
+    "url": "https://gorails.com/rspec-shared-examples"
+  },
+  {
+    "id": "gorails-49",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Action Mailbox for Inbound Email",
+    "description": "Process incoming emails in your Rails app.",
+    "topics": [
+      "Action Mailbox"
+    ],
+    "level": "",
+    "hours": 0.75,
+    "url": "https://gorails.com/action-mailbox-inbound"
+  },
+  {
+    "id": "gorails-50",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Rails Live Updates Preview",
+    "description": "New real-time features coming in Rails 8.",
+    "topics": [
+      "Rails 8",
+      "Live Updates"
+    ],
+    "level": "",
+    "hours": 0.8333333333333334,
+    "url": "https://gorails.com/rails8-live-updates"
+  },
+  {
+    "id": "gorails-51",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Pagy for Pagination",
+    "description": "Fast, feature-rich pagination faster than will_paginate.",
+    "topics": [
+      "Pagination"
+    ],
+    "level": "",
+    "hours": 0.3333333333333333,
+    "url": "https://gorails.com/pagy-pagination"
+  },
+  {
+    "id": "gorails-52",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Stimulus Testing with Stimulus Testing Toolbox",
+    "description": "Unit test your Stimulus controllers effectively.",
+    "topics": [
+      "Testing",
+      "Stimulus"
+    ],
+    "level": "",
+    "hours": 0.5833333333333334,
+    "url": "https://gorails.com/stimulus-testing-toolbox"
+  },
+  {
+    "id": "gorails-53",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Database Cleaner Strategies",
+    "description": "Keep your test database clean across different test suites.",
+    "topics": [
+      "Testing"
+    ],
+    "level": "",
+    "hours": 0.4166666666666667,
+    "url": "https://gorails.com/database-cleaner-strategies"
+  },
+  {
+    "id": "gorails-54",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Turbo 8 Migration Guide",
+    "description": "Update your app to the latest Turbo features and APIs.",
+    "topics": [
+      "Turbo",
+      "Rails 8"
+    ],
+    "level": "",
+    "hours": 0.6666666666666666,
+    "url": "https://gorails.com/turbo8-migration"
+  },
+  {
+    "id": "gorails-55",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "ActiveStorage Direct Uploads",
+    "description": "Upload files directly to cloud storage bypassing your server.",
+    "topics": [
+      "ActiveStorage"
+    ],
+    "level": "",
+    "hours": 0.5,
+    "url": "https://gorails.com/activestorage-direct-uploads"
+  },
+  {
+    "id": "gorails-56",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Deploying with Capistrano",
+    "description": "Traditional server deployment with modern Rails apps.",
+    "topics": [
+      "Deployment",
+      "Capistrano"
+    ],
+    "level": "",
+    "hours": 0.75,
+    "url": "https://gorails.com/capistrano-deployment"
+  },
+  {
+    "id": "gorails-57",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Rails Settings Cache",
+    "description": "Cache expensive queries and fragments effectively.",
+    "topics": [
+      "Caching"
+    ],
+    "level": "",
+    "hours": 0.5833333333333334,
+    "url": "https://gorails.com/rails-settings-cache"
+  },
+  {
+    "id": "gorails-58",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Hotwire Forms with Stimulus",
+    "description": "Enhance Rails forms with Stimulus for better UX.",
+    "topics": [
+      "Hotwire",
+      "Forms"
+    ],
+    "level": "",
+    "hours": 0.6666666666666666,
+    "url": "https://gorails.com/hotwire-forms-stimulus"
+  },
+  {
+    "id": "gorails-59",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Bullet Gem for N+1 Detection",
+    "description": "Automatically detect and fix N+1 queries in development.",
+    "topics": [
+      "Performance",
+      "N+1"
+    ],
+    "level": "",
+    "hours": 0.4166666666666667,
+    "url": "https://gorails.com/bullet-nplus1"
+  },
+  {
+    "id": "gorails-60",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "ActionCable with Redis Streams",
+    "description": "Scale ActionCable broadcasting with Redis Streams.",
+    "topics": [
+      "ActionCable",
+      "Redis"
+    ],
+    "level": "",
+    "hours": 0.8333333333333334,
+    "url": "https://gorails.com/actioncable-redis-streams"
+  },
+  {
+    "id": "gorails-61",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Rails 7.2 Preview Features",
+    "description": "What's new and exciting in the Rails 7.2 release candidate.",
+    "topics": [
+      "Rails 7.2"
+    ],
+    "level": "",
+    "hours": 0.6666666666666666,
+    "url": "https://gorails.com/rails72-preview"
+  },
+  {
+    "id": "gorails-62",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Strong Parameters Nested Attributes",
+    "description": "Handle complex nested form parameters securely.",
+    "topics": [
+      "Strong Parameters"
+    ],
+    "level": "",
+    "hours": 0.5,
+    "url": "https://gorails.com/strong-params-nested"
+  },
+  {
+    "id": "gorails-63",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Deploy to DigitalOcean App Platform",
+    "description": "PaaS deployment with excellent Rails support.",
+    "topics": [
+      "Deployment",
+      "DigitalOcean"
+    ],
+    "level": "",
+    "hours": 0.5833333333333334,
+    "url": "https://gorails.com/digitalocean-app-platform"
+  },
+  {
+    "id": "gorails-64",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Stimulus Autocomplete",
+    "description": "Build accessible autocomplete components with Stimulus.",
+    "topics": [
+      "Stimulus",
+      "Autocomplete"
+    ],
+    "level": "",
+    "hours": 0.5,
+    "url": "https://gorails.com/stimulus-autocomplete"
+  },
+  {
+    "id": "gorails-65",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "ActiveRecord Validations Custom",
+    "description": "Create custom validation methods and validators.",
+    "topics": [
+      "ActiveRecord"
+    ],
+    "level": "",
+    "hours": 0.4166666666666667,
+    "url": "https://gorails.com/custom-validations"
+  },
+  {
+    "id": "gorails-66",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Turbo Drive for SPA Feel",
+    "description": "Leverage Turbo Drive for fast page navigation.",
+    "topics": [
+      "Turbo"
+    ],
+    "level": "",
+    "hours": 0.3333333333333333,
+    "url": "https://gorails.com/turbo-drive-spa"
+  },
+  {
+    "id": "gorails-67",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Testing Authentication Flows",
+    "description": "Test login, signup, and authorization comprehensively.",
+    "topics": [
+      "Testing",
+      "Authentication"
+    ],
+    "level": "",
+    "hours": 0.6666666666666666,
+    "url": "https://gorails.com/testing-auth-flows"
+  },
+  {
+    "id": "gorails-68",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Stripe Billing Customer Portal",
+    "description": "Embed Stripe's customer portal for subscription management.",
+    "topics": [
+      "Stripe"
+    ],
+    "level": "",
+    "hours": 0.5833333333333334,
+    "url": "https://gorails.com/stripe-customer-portal"
+  },
+  {
+    "id": "gorails-69",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Rails API Only Mode",
+    "description": "Build performant JSON APIs with Rails.",
+    "topics": [
+      "API",
+      "Rails"
+    ],
+    "level": "",
+    "hours": 0.75,
+    "url": "https://gorails.com/rails-api-only"
+  },
+  {
+    "id": "gorails-70",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Hotwire Dashboard Tutorial",
+    "description": "Build a complete admin dashboard with Hotwire.",
+    "topics": [
+      "Hotwire",
+      "Dashboard"
+    ],
+    "level": "",
+    "hours": 1,
+    "url": "https://gorails.com/hotwire-dashboard"
+  },
+  {
+    "id": "gorails-71",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "RSpec Request Specs",
+    "description": "Test your API endpoints with request specs.",
+    "topics": [
+      "Testing",
+      "RSpec"
+    ],
+    "level": "",
+    "hours": 0.5833333333333334,
+    "url": "https://gorails.com/rspec-request-specs"
+  },
+  {
+    "id": "gorails-72",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "ActionText Customization",
+    "description": "Extend and customize the Trix editor.",
+    "topics": [
+      "ActionText"
+    ],
+    "level": "",
+    "hours": 0.6666666666666666,
+    "url": "https://gorails.com/actiontext-customization"
+  },
+  {
+    "id": "gorails-73",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Deploying GraphQL APIs",
+    "description": "Deploy Rails apps with GraphQL endpoints.",
+    "topics": [
+      "GraphQL",
+      "Deployment"
+    ],
+    "level": "",
+    "hours": 0.8333333333333334,
+    "url": "https://gorails.com/deploy-graphql"
+  },
+  {
+    "id": "gorails-74",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "ActiveRecord Callbacks",
+    "description": "Master lifecycle callbacks and avoid common pitfalls.",
+    "topics": [
+      "ActiveRecord"
+    ],
+    "level": "",
+    "hours": 0.5,
+    "url": "https://gorails.com/activerecord-callbacks"
+  },
+  {
+    "id": "gorails-75",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Turbo Confirmations",
+    "description": "Custom confirmation dialogs with Turbo.",
+    "topics": [
+      "Turbo"
+    ],
+    "level": "",
+    "hours": 0.3333333333333333,
+    "url": "https://gorails.com/turbo-confirmations"
+  },
+  {
+    "id": "gorails-76",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Sidekiq Monitoring Dashboard",
+    "description": "Build a monitoring dashboard for your background jobs.",
+    "topics": [
+      "Sidekiq"
+    ],
+    "level": "",
+    "hours": 0.75,
+    "url": "https://gorails.com/sidekiq-dashboard"
+  },
+  {
+    "id": "gorails-77",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Rails Security Best Practices",
+    "description": "Protect your app from common vulnerabilities.",
+    "topics": [
+      "Security"
+    ],
+    "level": "",
+    "hours": 0.8333333333333334,
+    "url": "https://gorails.com/rails-security-best-practices"
+  },
+  {
+    "id": "gorails-78",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Stimulus Nested Controllers",
+    "description": "Manage controller hierarchies and data flow.",
+    "topics": [
+      "Stimulus"
+    ],
+    "level": "",
+    "hours": 0.5833333333333334,
+    "url": "https://gorails.com/stimulus-nested-controllers"
+  },
+  {
+    "id": "gorails-79",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Database Indexing Strategies",
+    "description": "Optimize your database with proper indexes.",
+    "topics": [
+      "Database",
+      "Performance"
+    ],
+    "level": "",
+    "hours": 0.6666666666666666,
+    "url": "https://gorails.com/database-indexing"
+  },
+  {
+    "id": "gorails-80",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Hotwire E-commerce Cart",
+    "description": "Build a real-time shopping cart with Hotwire.",
+    "topics": [
+      "Hotwire",
+      "E-commerce"
+    ],
+    "level": "",
+    "hours": 0.9166666666666666,
+    "url": "https://gorails.com/hotwire-ecommerce-cart"
+  },
+  {
+    "id": "gorails-81",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "FactoryBot Sequences",
+    "description": "Generate sequential data for testing associations.",
+    "topics": [
+      "Testing",
+      "FactoryBot"
+    ],
+    "level": "",
+    "hours": 0.4166666666666667,
+    "url": "https://gorails.com/factorybot-sequences"
+  },
+  {
+    "id": "gorails-82",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "ActionCable Presence Channel",
+    "description": "Track online users with presence channels.",
+    "topics": [
+      "ActionCable"
+    ],
+    "level": "",
+    "hours": 0.6666666666666666,
+    "url": "https://gorails.com/actioncable-presence"
+  },
+  {
+    "id": "gorails-83",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Rails 8 Authentication from Scratch",
+    "description": "Build authentication without gems using Rails 8 features.",
+    "topics": [
+      "Authentication",
+      "Rails 8"
+    ],
+    "level": "",
+    "hours": 1,
+    "url": "https://gorails.com/rails8-auth-scratch"
+  },
+  {
+    "id": "gorails-84",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Turbo Lazy Loading",
+    "description": "Improve performance with lazy-loaded frames.",
+    "topics": [
+      "Turbo"
+    ],
+    "level": "",
+    "hours": 0.5,
+    "url": "https://gorails.com/turbo-lazy-loading"
+  },
+  {
+    "id": "gorails-85",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "RSpec Custom Matchers",
+    "description": "Extend RSpec with domain-specific matchers.",
+    "topics": [
+      "Testing",
+      "RSpec"
+    ],
+    "level": "",
+    "hours": 0.5833333333333334,
+    "url": "https://gorails.com/rspec-custom-matchers"
+  },
+  {
+    "id": "gorails-86",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Stripe Usage-Based Billing",
+    "description": "Metered billing based on actual usage.",
+    "topics": [
+      "Stripe"
+    ],
+    "level": "",
+    "hours": 0.75,
+    "url": "https://gorails.com/stripe-usage-billing"
+  },
+  {
+    "id": "gorails-87",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Deploy with Dokku",
+    "description": "Heroku-like PaaS on your own server.",
+    "topics": [
+      "Deployment",
+      "Dokku"
+    ],
+    "level": "",
+    "hours": 0.6666666666666666,
+    "url": "https://gorails.com/dokku-deployment"
+  },
+  {
+    "id": "gorails-88",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "ActiveRecord Scopes Composition",
+    "description": "Chain and compose scopes for flexible queries.",
+    "topics": [
+      "ActiveRecord"
+    ],
+    "level": "",
+    "hours": 0.4166666666666667,
+    "url": "https://gorails.com/scopes-composition"
+  },
+  {
+    "id": "gorails-89",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Hotwire Search with Algolia",
+    "description": "Real-time search integration with Algolia.",
+    "topics": [
+      "Hotwire",
+      "Search"
+    ],
+    "level": "",
+    "hours": 0.8333333333333334,
+    "url": "https://gorails.com/hotwire-algolia-search"
+  },
+  {
+    "id": "gorails-90",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Testing Performance",
+    "description": "Add performance tests to your test suite.",
+    "topics": [
+      "Testing",
+      "Performance"
+    ],
+    "level": "",
+    "hours": 0.6666666666666666,
+    "url": "https://gorails.com/performance-testing"
+  },
+  {
+    "id": "gorails-91",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Action Mailbox with Postmark",
+    "description": "Inbound email processing with Postmark webhooks.",
+    "topics": [
+      "Action Mailbox"
+    ],
+    "level": "",
+    "hours": 0.5,
+    "url": "https://gorails.com/action-mailbox-postmark"
+  },
+  {
+    "id": "gorails-92",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Rails Multi-Database",
+    "description": "Scale with multiple databases in Rails 7/8.",
+    "topics": [
+      "Multi-Database"
+    ],
+    "level": "",
+    "hours": 0.9166666666666666,
+    "url": "https://gorails.com/rails-multi-database"
+  },
+  {
+    "id": "gorails-93",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Stimulus Motion Components",
+    "description": "Add smooth animations with Stimulus Motion.",
+    "topics": [
+      "Stimulus"
+    ],
+    "level": "",
+    "hours": 0.5833333333333334,
+    "url": "https://gorails.com/stimulus-motion"
+  },
+  {
+    "id": "gorails-94",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Query Performance Analysis",
+    "description": "Profile and optimize slow database queries.",
+    "topics": [
+      "Performance"
+    ],
+    "level": "",
+    "hours": 0.75,
+    "url": "https://gorails.com/query-performance"
+  },
+  {
+    "id": "gorails-95",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Turbo Broadcasts with Channels",
+    "description": "Combine Turbo Streams with ActionCable broadcasts.",
+    "topics": [
+      "Turbo",
+      "ActionCable"
+    ],
+    "level": "",
+    "hours": 0.6666666666666666,
+    "url": "https://gorails.com/turbo-broadcasts"
+  },
+  {
+    "id": "gorails-96",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "RSpec Model Specs",
+    "description": "Test your models thoroughly with RSpec.",
+    "topics": [
+      "Testing",
+      "RSpec"
+    ],
+    "level": "",
+    "hours": 0.5,
+    "url": "https://gorails.com/rspec-model-specs"
+  },
+  {
+    "id": "gorails-97",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Stripe Checkout Sessions",
+    "description": "One-time payments with Stripe Checkout.",
+    "topics": [
+      "Stripe"
+    ],
+    "level": "",
+    "hours": 0.5833333333333334,
+    "url": "https://gorails.com/stripe-checkout-sessions"
+  },
+  {
+    "id": "gorails-98",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Rails Health Checks",
+    "description": "Implement comprehensive health checks for monitoring.",
+    "topics": [
+      "Monitoring"
+    ],
+    "level": "",
+    "hours": 0.4166666666666667,
+    "url": "https://gorails.com/rails-health-checks"
+  },
+  {
+    "id": "gorails-99",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Hotwire Todos App",
+    "description": "Complete todo app demonstrating all Hotwire features.",
+    "topics": [
+      "Hotwire"
+    ],
+    "level": "",
+    "hours": 0.8333333333333334,
+    "url": "https://gorails.com/hotwire-todos"
+  },
+  {
+    "id": "gorails-100",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Advanced ActiveRecord Queries",
+    "description": "Complex joins, subqueries, and CTEs in Rails.",
+    "topics": [
+      "ActiveRecord"
+    ],
+    "level": "",
+    "hours": 1,
+    "url": "https://gorails.com/advanced-activerecord"
+  },
+  {
+    "id": "gorails-101",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Deploy to Railway",
+    "description": "Git-based deployments with excellent Rails support.",
+    "topics": [
+      "Deployment",
+      "Railway"
+    ],
+    "level": "",
+    "hours": 0.5,
+    "url": "https://gorails.com/deploy-railway"
+  },
+  {
+    "id": "gorails-102",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Stimulus Flatpickr Integration",
+    "description": "Date picker integration with Stimulus controller.",
+    "topics": [
+      "Stimulus"
+    ],
+    "level": "",
+    "hours": 0.4166666666666667,
+    "url": "https://gorails.com/stimulus-flatpickr"
+  },
+  {
+    "id": "gorails-103",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Testing Background Jobs",
+    "description": "Test your Sidekiq jobs reliably.",
+    "topics": [
+      "Testing",
+      "Sidekiq"
+    ],
+    "level": "",
+    "hours": 0.6666666666666666,
+    "url": "https://gorails.com/testing-background-jobs"
+  },
+  {
+    "id": "gorails-104",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "ActionCable Scaling Strategies",
+    "description": "Scale real-time features to thousands of users.",
+    "topics": [
+      "ActionCable"
+    ],
+    "level": "",
+    "hours": 0.8333333333333334,
+    "url": "https://gorails.com/actioncable-scaling"
+  },
+  {
+    "id": "gorails-105",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Rails 8 Preview: SQLite",
+    "description": "Production-ready SQLite features in Rails 8.",
+    "topics": [
+      "Rails 8",
+      "SQLite"
+    ],
+    "level": "",
+    "hours": 0.5833333333333334,
+    "url": "https://gorails.com/rails8-sqlite"
+  },
+  {
+    "id": "gorails-106",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Turbo Frame Variants",
+    "description": "Different content for desktop vs mobile frames.",
+    "topics": [
+      "Turbo"
+    ],
+    "level": "",
+    "hours": 0.5,
+    "url": "https://gorails.com/turbo-frame-variants"
+  },
+  {
+    "id": "gorails-107",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Pundit Scopes",
+    "description": "Scoped queries based on user permissions.",
+    "topics": [
+      "Pundit"
+    ],
+    "level": "",
+    "hours": 0.4166666666666667,
+    "url": "https://gorails.com/pundit-scopes"
+  },
+  {
+    "id": "gorails-108",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "ActiveStorage Variants",
+    "description": "Image processing and variants on-the-fly.",
+    "topics": [
+      "ActiveStorage"
+    ],
+    "level": "",
+    "hours": 0.6666666666666666,
+    "url": "https://gorails.com/activestorage-variants"
+  },
+  {
+    "id": "gorails-109",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Hotwire Nested Forms",
+    "description": "Complex nested forms with real-time updates.",
+    "topics": [
+      "Hotwire",
+      "Forms"
+    ],
+    "level": "",
+    "hours": 0.75,
+    "url": "https://gorails.com/hotwire-nested-forms"
+  },
+  {
+    "id": "gorails-110",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "RSpec System Specs with Playwright",
+    "description": "Modern browser testing with Playwright driver.",
+    "topics": [
+      "Testing"
+    ],
+    "level": "",
+    "hours": 0.9166666666666666,
+    "url": "https://gorails.com/playwright-system-specs"
+  },
+  {
+    "id": "gorails-111",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Stripe Invoicing",
+    "description": "Generate and manage invoices programmatically.",
+    "topics": [
+      "Stripe"
+    ],
+    "level": "",
+    "hours": 0.6666666666666666,
+    "url": "https://gorails.com/stripe-invoicing"
+  },
+  {
+    "id": "gorails-112",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Deploy with Hatchbox",
+    "description": "Server management panel for Rails apps.",
+    "topics": [
+      "Deployment"
+    ],
+    "level": "",
+    "hours": 0.5833333333333334,
+    "url": "https://gorails.com/hatchbox-deployment"
+  },
+  {
+    "id": "gorails-113",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Stimulus Sortable Lists",
+    "description": "Drag & drop sortable lists with Stimulus.",
+    "topics": [
+      "Stimulus"
+    ],
+    "level": "",
+    "hours": 0.5,
+    "url": "https://gorails.com/stimulus-sortable"
+  },
+  {
+    "id": "gorails-114",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "ActiveRecord Serialization",
+    "description": "Store complex data types in JSON columns.",
+    "topics": [
+      "ActiveRecord"
+    ],
+    "level": "",
+    "hours": 0.4166666666666667,
+    "url": "https://gorails.com/activerecord-serialization"
+  },
+  {
+    "id": "gorails-115",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Turbo Snapshot Persistence",
+    "description": "Maintain scroll position and form state across navigations.",
+    "topics": [
+      "Turbo"
+    ],
+    "level": "",
+    "hours": 0.3333333333333333,
+    "url": "https://gorails.com/turbo-snapshots"
+  },
+  {
+    "id": "gorails-116",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Email Preview with Letter Opener",
+    "description": "Preview emails in development without sending.",
+    "topics": [
+      "Email"
+    ],
+    "level": "",
+    "hours": 0.3333333333333333,
+    "url": "https://gorails.com/letter-opener-preview"
+  },
+  {
+    "id": "gorails-117",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Rails Lograge for Structured Logs",
+    "description": "Clean, structured JSON logs for production.",
+    "topics": [
+      "Logging"
+    ],
+    "level": "",
+    "hours": 0.4166666666666667,
+    "url": "https://gorails.com/lograge-structured-logs"
+  },
+  {
+    "id": "gorails-118",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Hotwire Chat Application",
+    "description": "Full-featured chat app with presence and typing indicators.",
+    "topics": [
+      "Hotwire",
+      "Chat"
+    ],
+    "level": "",
+    "hours": 1,
+    "url": "https://gorails.com/hotwire-chat-app"
+  },
+  {
+    "id": "gorails-119",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Testing File Uploads",
+    "description": "Test ActiveStorage uploads in your test suite.",
+    "topics": [
+      "Testing"
+    ],
+    "level": "",
+    "hours": 0.5833333333333334,
+    "url": "https://gorails.com/testing-file-uploads"
+  },
+  {
+    "id": "gorails-120",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "ActionText with Image Uploads",
+    "description": "Direct image uploads in rich text editor.",
+    "topics": [
+      "ActionText"
+    ],
+    "level": "",
+    "hours": 0.6666666666666666,
+    "url": "https://gorails.com/actiontext-image-uploads"
+  },
+  {
+    "id": "gorails-121",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Rails API Pagination",
+    "description": "Standardized API pagination with meta data.",
+    "topics": [
+      "API",
+      "Pagination"
+    ],
+    "level": "",
+    "hours": 0.5,
+    "url": "https://gorails.com/api-pagination"
+  },
+  {
+    "id": "gorails-122",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Stimulus Infinite Scroll",
+    "description": "Intersection Observer for infinite scroll.",
+    "topics": [
+      "Stimulus"
+    ],
+    "level": "",
+    "hours": 0.5833333333333334,
+    "url": "https://gorails.com/stimulus-infinite-scroll"
+  },
+  {
+    "id": "gorails-123",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Database Seeding Strategies",
+    "description": "Production-ready seed data management.",
+    "topics": [
+      "Database"
+    ],
+    "level": "",
+    "hours": 0.4166666666666667,
+    "url": "https://gorails.com/database-seeding"
+  },
+  {
+    "id": "gorails-124",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Turbo Stream Actions Reference",
+    "description": "Complete guide to all Turbo Stream actions.",
+    "topics": [
+      "Turbo"
+    ],
+    "level": "",
+    "hours": 0.6666666666666666,
+    "url": "https://gorails.com/turbo-stream-actions"
+  },
+  {
+    "id": "gorails-125",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "RSpec Helper Methods",
+    "description": "Custom helper methods for cleaner specs.",
+    "topics": [
+      "Testing",
+      "RSpec"
+    ],
+    "level": "",
+    "hours": 0.5,
+    "url": "https://gorails.com/rspec-helpers"
+  },
+  {
+    "id": "gorails-126",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Stripe Price Rules",
+    "description": "Dynamic pricing with Stripe Price Rules.",
+    "topics": [
+      "Stripe"
+    ],
+    "level": "",
+    "hours": 0.5833333333333334,
+    "url": "https://gorails.com/stripe-price-rules"
+  },
+  {
+    "id": "gorails-127",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Deploy to Platform.sh",
+    "description": "Multi-cloud PaaS with excellent Git workflow.",
+    "topics": [
+      "Deployment"
+    ],
+    "level": "",
+    "hours": 0.6666666666666666,
+    "url": "https://gorails.com/platformsh-deployment"
+  },
+  {
+    "id": "gorails-128",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "ActiveRecord Counter Cache",
+    "description": "Optimize counter queries with counter_cache.",
+    "topics": [
+      "ActiveRecord"
+    ],
+    "level": "",
+    "hours": 0.3333333333333333,
+    "url": "https://gorails.com/counter-cache"
+  },
+  {
+    "id": "gorails-129",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Hotwire Tags Input",
+    "description": "Token input for tagging with Stimulus.",
+    "topics": [
+      "Hotwire"
+    ],
+    "level": "",
+    "hours": 0.5,
+    "url": "https://gorails.com/hotwire-tags-input"
+  },
+  {
+    "id": "gorails-130",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Parallel Testing Setup",
+    "description": "Speed up test suite with parallel execution.",
+    "topics": [
+      "Testing"
+    ],
+    "level": "",
+    "hours": 0.75,
+    "url": "https://gorails.com/parallel-testing"
+  },
+  {
+    "id": "gorails-131",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "ActionCable Private Channels",
+    "description": "Secure private messaging channels.",
+    "topics": [
+      "ActionCable"
+    ],
+    "level": "",
+    "hours": 0.5833333333333334,
+    "url": "https://gorails.com/private-channels"
+  },
+  {
+    "id": "gorails-132",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Rails 8 Authentication Patterns",
+    "description": "Modern authentication patterns for Rails 8.",
+    "topics": [
+      "Authentication",
+      "Rails 8"
+    ],
+    "level": "",
+    "hours": 0.8333333333333334,
+    "url": "https://gorails.com/rails8-auth-patterns"
+  },
+  {
+    "id": "gorails-133",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Turbo Frame Caching",
+    "description": "Cache Turbo Frame responses for performance.",
+    "topics": [
+      "Turbo",
+      "Caching"
+    ],
+    "level": "",
+    "hours": 0.4166666666666667,
+    "url": "https://gorails.com/turbo-frame-caching"
+  },
+  {
+    "id": "gorails-134",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Advanced Pundit Policies",
+    "description": "Complex authorization logic with policy inheritance.",
+    "topics": [
+      "Pundit"
+    ],
+    "level": "",
+    "hours": 0.6666666666666666,
+    "url": "https://gorails.com/advanced-pundit"
+  },
+  {
+    "id": "gorails-135",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "ActiveStorage Custom Service",
+    "description": "Custom cloud storage integration.",
+    "topics": [
+      "ActiveStorage"
+    ],
+    "level": "",
+    "hours": 0.75,
+    "url": "https://gorails.com/activestorage-custom-service"
+  },
+  {
+    "id": "gorails-136",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Hotwire Multi-Step Forms",
+    "description": "Wizard-style multi-step forms with progress saving.",
+    "topics": [
+      "Hotwire",
+      "Forms"
+    ],
+    "level": "",
+    "hours": 0.8333333333333334,
+    "url": "https://gorails.com/hotwire-multistep-forms"
+  },
+  {
+    "id": "gorails-137",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "RSpec Tags and Filtering",
+    "description": "Run specific tests with tags and metadata.",
+    "topics": [
+      "Testing",
+      "RSpec"
+    ],
+    "level": "",
+    "hours": 0.4166666666666667,
+    "url": "https://gorails.com/rspec-tags-filtering"
+  },
+  {
+    "id": "gorails-138",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Stripe Tax Calculation",
+    "description": "Automatic sales tax calculation worldwide.",
+    "topics": [
+      "Stripe"
+    ],
+    "level": "",
+    "hours": 0.5833333333333334,
+    "url": "https://gorails.com/stripe-tax-calculation"
+  },
+  {
+    "id": "gorails-139",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Deploy with Northflank",
+    "description": "Modern cloud platform for Rails deployments.",
+    "topics": [
+      "Deployment"
+    ],
+    "level": "",
+    "hours": 0.5,
+    "url": "https://gorails.com/northflank-deployment"
+  },
+  {
+    "id": "gorails-140",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Stimulus Charts Integration",
+    "description": "Interactive charts with Chart.js and Stimulus.",
+    "topics": [
+      "Stimulus"
+    ],
+    "level": "",
+    "hours": 0.6666666666666666,
+    "url": "https://gorails.com/stimulus-charts"
+  },
+  {
+    "id": "gorails-141",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "ActiveRecord Touches",
+    "description": "Automatic parent record updates on child changes.",
+    "topics": [
+      "ActiveRecord"
+    ],
+    "level": "",
+    "hours": 0.3333333333333333,
+    "url": "https://gorails.com/activerecord-touches"
+  },
+  {
+    "id": "gorails-142",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Turbo Session Storage",
+    "description": "Persist Turbo state across browser sessions.",
+    "topics": [
+      "Turbo"
+    ],
+    "level": "",
+    "hours": 0.4166666666666667,
+    "url": "https://gorails.com/turbo-session-storage"
+  },
+  {
+    "id": "gorails-143",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Email Templates with MJML",
+    "description": "Responsive email templates with MJML.",
+    "topics": [
+      "Email"
+    ],
+    "level": "",
+    "hours": 0.5833333333333334,
+    "url": "https://gorails.com/mjml-email-templates"
+  },
+  {
+    "id": "gorails-144",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Rails Request Profiling",
+    "description": "Profile slow requests in development.",
+    "topics": [
+      "Performance"
+    ],
+    "level": "",
+    "hours": 0.6666666666666666,
+    "url": "https://gorails.com/request-profiling"
+  },
+  {
+    "id": "gorails-145",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Hotwire Kanban Board",
+    "description": "Real-time collaborative kanban board.",
+    "topics": [
+      "Hotwire"
+    ],
+    "level": "",
+    "hours": 1,
+    "url": "https://gorails.com/hotwire-kanban"
+  },
+  {
+    "id": "gorails-146",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Testing Turbo Drive",
+    "description": "Test page navigation behaviors.",
+    "topics": [
+      "Testing",
+      "Turbo"
+    ],
+    "level": "",
+    "hours": 0.5,
+    "url": "https://gorails.com/testing-turbo-drive"
+  },
+  {
+    "id": "gorails-147",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "ActionText Content Security",
+    "description": "Secure rich text content rendering.",
+    "topics": [
+      "ActionText",
+      "Security"
+    ],
+    "level": "",
+    "hours": 0.4166666666666667,
+    "url": "https://gorails.com/actiontext-security"
+  },
+  {
+    "id": "gorails-148",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Rails API Versioning",
+    "description": "Version your APIs gracefully.",
+    "topics": [
+      "API"
+    ],
+    "level": "",
+    "hours": 0.75,
+    "url": "https://gorails.com/api-versioning"
+  },
+  {
+    "id": "gorails-149",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Stimulus Dropdown Menus",
+    "description": "Accessible dropdown components.",
+    "topics": [
+      "Stimulus"
+    ],
+    "level": "",
+    "hours": 0.4166666666666667,
+    "url": "https://gorails.com/stimulus-dropdowns"
+  },
+  {
+    "id": "gorails-150",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Database Constraints",
+    "description": "Leverage database-level constraints.",
+    "topics": [
+      "Database"
+    ],
+    "level": "",
+    "hours": 0.5833333333333334,
+    "url": "https://gorails.com/database-constraints"
+  },
+  {
+    "id": "gorails-151",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Turbo Stream Previews",
+    "description": "Preview Turbo Stream effects in development.",
+    "topics": [
+      "Turbo"
+    ],
+    "level": "",
+    "hours": 0.5,
+    "url": "https://gorails.com/turbo-stream-previews"
+  },
+  {
+    "id": "gorails-152",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "RSpec Performance Specs",
+    "description": "Ensure your app stays fast with performance specs.",
+    "topics": [
+      "Testing"
+    ],
+    "level": "",
+    "hours": 0.6666666666666666,
+    "url": "https://gorails.com/performance-specs"
+  },
+  {
+    "id": "gorails-153",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Stripe Payment Links",
+    "description": "No-code payment pages with Rails integration.",
+    "topics": [
+      "Stripe"
+    ],
+    "level": "",
+    "hours": 0.4166666666666667,
+    "url": "https://gorails.com/stripe-payment-links"
+  },
+  {
+    "id": "gorails-154",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Deploy to Clever Cloud",
+    "description": "European PaaS with great Rails support.",
+    "topics": [
+      "Deployment"
+    ],
+    "level": "",
+    "hours": 0.5,
+    "url": "https://gorails.com/clever-cloud-deploy"
+  },
+  {
+    "id": "gorails-155",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "ActiveRecord Single Table Inheritance",
+    "description": "Model hierarchies with STI.",
+    "topics": [
+      "ActiveRecord"
+    ],
+    "level": "",
+    "hours": 0.6666666666666666,
+    "url": "https://gorails.com/sti-inheritance"
+  },
+  {
+    "id": "gorails-156",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Hotwire File Preview",
+    "description": "Preview uploaded files before submission.",
+    "topics": [
+      "Hotwire"
+    ],
+    "level": "",
+    "hours": 0.5833333333333334,
+    "url": "https://gorails.com/hotwire-file-preview"
+  },
+  {
+    "id": "gorails-157",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Continuous Integration with GitHub Actions",
+    "description": "Automate testing and deployment workflows.",
+    "topics": [
+      "CI/CD"
+    ],
+    "level": "",
+    "hours": 0.8333333333333334,
+    "url": "https://gorails.com/github-actions-ci"
+  },
+  {
+    "id": "gorails-158",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "ActionCable Redis Adapter Tuning",
+    "description": "Optimize Redis for high-throughput broadcasting.",
+    "topics": [
+      "ActionCable"
+    ],
+    "level": "",
+    "hours": 0.5833333333333334,
+    "url": "https://gorails.com/redis-actioncable-tuning"
+  },
+  {
+    "id": "gorails-159",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Rails 8 Hotwire Enhancements",
+    "description": "New Hotwire features in Rails 8.",
+    "topics": [
+      "Rails 8",
+      "Hotwire"
+    ],
+    "level": "",
+    "hours": 0.75,
+    "url": "https://gorails.com/rails8-hotwire"
+  },
+  {
+    "id": "gorails-160",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Turbo Frame Nesting",
+    "description": "Nested frame hierarchies for complex UIs.",
+    "topics": [
+      "Turbo"
+    ],
+    "level": "",
+    "hours": 0.5,
+    "url": "https://gorails.com/turbo-frame-nesting"
+  },
+  {
+    "id": "gorails-161",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Advanced FactoryBot",
+    "description": "Traits, transients, and associations mastery.",
+    "topics": [
+      "Testing"
+    ],
+    "level": "",
+    "hours": 0.6666666666666666,
+    "url": "https://gorails.com/advanced-factorybot"
+  },
+  {
+    "id": "gorails-162",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Stripe Connect Onboarding",
+    "description": "Account onboarding flows for marketplaces.",
+    "topics": [
+      "Stripe Connect"
+    ],
+    "level": "",
+    "hours": 0.8333333333333334,
+    "url": "https://gorails.com/stripe-connect-onboarding"
+  },
+  {
+    "id": "gorails-163",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Server-Sent Events with Rails",
+    "description": "Real-time updates with Server-Sent Events.",
+    "topics": [
+      "SSE"
+    ],
+    "level": "",
+    "hours": 0.5833333333333334,
+    "url": "https://gorails.com/rails-sse"
+  },
+  {
+    "id": "gorails-164",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Stimulus Value Mutations",
+    "description": "Reactive value updates across controllers.",
+    "topics": [
+      "Stimulus"
+    ],
+    "level": "",
+    "hours": 0.4166666666666667,
+    "url": "https://gorails.com/stimulus-value-mutations"
+  },
+  {
+    "id": "gorails-165",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "ActiveRecord Query Interface",
+    "description": "Master the Arel query interface.",
+    "topics": [
+      "ActiveRecord"
+    ],
+    "level": "",
+    "hours": 0.75,
+    "url": "https://gorails.com/arel-query-interface"
+  },
+  {
+    "id": "gorails-166",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Hotwire Progress Indicators",
+    "description": "Loading states and progress bars.",
+    "topics": [
+      "Hotwire"
+    ],
+    "level": "",
+    "hours": 0.5,
+    "url": "https://gorails.com/hotwire-progress"
+  },
+  {
+    "id": "gorails-167",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "RSpec VCR for API Testing",
+    "description": "Record and replay external API calls.",
+    "topics": [
+      "Testing"
+    ],
+    "level": "",
+    "hours": 0.5833333333333334,
+    "url": "https://gorails.com/rspec-vcr"
+  },
+  {
+    "id": "gorails-168",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Deploy with Cloud 66",
+    "description": "Infrastructure automation for Rails.",
+    "topics": [
+      "Deployment"
+    ],
+    "level": "",
+    "hours": 0.6666666666666666,
+    "url": "https://gorails.com/cloud66-deploy"
+  },
+  {
+    "id": "gorails-169",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Turbo Drive Interceptions",
+    "description": "Intercept and modify navigation behavior.",
+    "topics": [
+      "Turbo"
+    ],
+    "level": "",
+    "hours": 0.4166666666666667,
+    "url": "https://gorails.com/turbo-drive-interceptions"
+  },
+  {
+    "id": "gorails-170",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Email Deliverability Best Practices",
+    "description": "Ensure emails reach the inbox.",
+    "topics": [
+      "Email"
+    ],
+    "level": "",
+    "hours": 0.6666666666666666,
+    "url": "https://gorails.com/email-deliverability"
+  },
+  {
+    "id": "gorails-171",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Rails Rate Limiting",
+    "description": "Protect endpoints from abuse.",
+    "topics": [
+      "Security"
+    ],
+    "level": "",
+    "hours": 0.5833333333333334,
+    "url": "https://gorails.com/rails-rate-limiting"
+  },
+  {
+    "id": "gorails-172",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Hotwire Collaborative Editing",
+    "description": "Real-time collaborative document editing.",
+    "topics": [
+      "Hotwire"
+    ],
+    "level": "",
+    "hours": 0.9166666666666666,
+    "url": "https://gorails.com/hotwire-collaborative"
+  },
+  {
+    "id": "gorails-173",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Testing Service Objects",
+    "description": "Test business logic in service objects.",
+    "topics": [
+      "Testing"
+    ],
+    "level": "",
+    "hours": 0.5,
+    "url": "https://gorails.com/testing-service-objects"
+  },
+  {
+    "id": "gorails-174",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "ActionText Mentions",
+    "description": "@mentions in rich text editor.",
+    "topics": [
+      "ActionText"
+    ],
+    "level": "",
+    "hours": 0.6666666666666666,
+    "url": "https://gorails.com/actiontext-mentions"
+  },
+  {
+    "id": "gorails-175",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Rails API Documentation",
+    "description": "Auto-generate API docs with Rswag.",
+    "topics": [
+      "API"
+    ],
+    "level": "",
+    "hours": 0.75,
+    "url": "https://gorails.com/api-documentation"
+  },
+  {
+    "id": "gorails-176",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Stimulus Modal Dialogs",
+    "description": "Accessible modal components.",
+    "topics": [
+      "Stimulus"
+    ],
+    "level": "",
+    "hours": 0.5,
+    "url": "https://gorails.com/stimulus-modals"
+  },
+  {
+    "id": "gorails-177",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Database Connection Pooling",
+    "description": "Optimize database connections.",
+    "topics": [
+      "Database"
+    ],
+    "level": "",
+    "hours": 0.5833333333333334,
+    "url": "https://gorails.com/connection-pooling"
+  },
+  {
+    "id": "gorails-178",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Turbo Stream Conditional Rendering",
+    "description": "Conditional updates based on data.",
+    "topics": [
+      "Turbo"
+    ],
+    "level": "",
+    "hours": 0.4166666666666667,
+    "url": "https://gorails.com/turbo-conditional"
+  },
+  {
+    "id": "gorails-179",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "RSpec Time Travel",
+    "description": "Test time-dependent logic easily.",
+    "topics": [
+      "Testing"
+    ],
+    "level": "",
+    "hours": 0.4166666666666667,
+    "url": "https://gorails.com/rspec-time-travel"
+  },
+  {
+    "id": "gorails-180",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Stripe Adaptive Pricing",
+    "description": "Dynamic pricing tiers and upgrades.",
+    "topics": [
+      "Stripe"
+    ],
+    "level": "",
+    "hours": 0.6666666666666666,
+    "url": "https://gorails.com/stripe-adaptive-pricing"
+  },
+  {
+    "id": "gorails-181",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Deploy to Kinsta",
+    "description": "Managed Rails hosting with great DX.",
+    "topics": [
+      "Deployment"
+    ],
+    "level": "",
+    "hours": 0.5,
+    "url": "https://gorails.com/kinsta-deploy"
+  },
+  {
+    "id": "gorails-182",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "ActiveRecord Polymorphic Associations",
+    "description": "Flexible relationships with polymorphism.",
+    "topics": [
+      "ActiveRecord"
+    ],
+    "level": "",
+    "hours": 0.5833333333333334,
+    "url": "https://gorails.com/polymorphic-associations"
+  },
+  {
+    "id": "gorails-183",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Hotwire Image Gallery",
+    "description": "Interactive image gallery with lightbox.",
+    "topics": [
+      "Hotwire"
+    ],
+    "level": "",
+    "hours": 0.75,
+    "url": "https://gorails.com/hotwire-gallery"
+  },
+  {
+    "id": "gorails-184",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Mutation Testing with Mutant",
+    "description": "Measure test suite quality with mutation testing.",
+    "topics": [
+      "Testing"
+    ],
+    "level": "",
+    "hours": 0.8333333333333334,
+    "url": "https://gorails.com/mutation-testing"
+  },
+  {
+    "id": "gorails-185",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "ActionCable Connection Recovery",
+    "description": "Handle network interruptions gracefully.",
+    "topics": [
+      "ActionCable"
+    ],
+    "level": "",
+    "hours": 0.5,
+    "url": "https://gorails.com/connection-recovery"
+  },
+  {
+    "id": "gorails-186",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Rails 8 Preview: Authentication",
+    "description": "Built-in authentication improvements.",
+    "topics": [
+      "Rails 8"
+    ],
+    "level": "",
+    "hours": 0.6666666666666666,
+    "url": "https://gorails.com/rails8-auth-preview"
+  },
+  {
+    "id": "gorails-187",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Turbo Frame Timing",
+    "description": "Optimize frame update timing.",
+    "topics": [
+      "Turbo"
+    ],
+    "level": "",
+    "hours": 0.4166666666666667,
+    "url": "https://gorails.com/turbo-frame-timing"
+  },
+  {
+    "id": "gorails-188",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Advanced Sidekiq Configuration",
+    "description": "Production-ready Sidekiq setup.",
+    "topics": [
+      "Sidekiq"
+    ],
+    "level": "",
+    "hours": 0.75,
+    "url": "https://gorails.com/advanced-sidekiq"
+  },
+  {
+    "id": "gorails-189",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "ActiveStorage Disk Service",
+    "description": "Self-hosted file storage solution.",
+    "topics": [
+      "ActiveStorage"
+    ],
+    "level": "",
+    "hours": 0.5,
+    "url": "https://gorails.com/activestorage-disk"
+  },
+  {
+    "id": "gorails-190",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Hotwire Booking System",
+    "description": "Complete booking/reservation system.",
+    "topics": [
+      "Hotwire"
+    ],
+    "level": "",
+    "hours": 1,
+    "url": "https://gorails.com/hotwire-booking"
+  },
+  {
+    "id": "gorails-191",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "RSpec Approval Testing",
+    "description": "Golden master testing for complex outputs.",
+    "topics": [
+      "Testing"
+    ],
+    "level": "",
+    "hours": 0.5833333333333334,
+    "url": "https://gorails.com/approval-testing"
+  },
+  {
+    "id": "gorails-192",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Stripe Revenue Recognition",
+    "description": "Deferred revenue accounting integration.",
+    "topics": [
+      "Stripe"
+    ],
+    "level": "",
+    "hours": 0.6666666666666666,
+    "url": "https://gorails.com/stripe-revenue-recognition"
+  },
+  {
+    "id": "gorails-193",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Deploy with Elest.io",
+    "description": "Self-hosted PaaS solution.",
+    "topics": [
+      "Deployment"
+    ],
+    "level": "",
+    "hours": 0.5833333333333334,
+    "url": "https://gorails.com/elestio-deploy"
+  },
+  {
+    "id": "gorails-194",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Stimulus Form Validation",
+    "description": "Real-time form validation feedback.",
+    "topics": [
+      "Stimulus"
+    ],
+    "level": "",
+    "hours": 0.5,
+    "url": "https://gorails.com/stimulus-validation"
+  },
+  {
+    "id": "gorails-195",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "ActiveRecord Database Selectors",
+    "description": "Dynamic database routing.",
+    "topics": [
+      "ActiveRecord"
+    ],
+    "level": "",
+    "hours": 0.6666666666666666,
+    "url": "https://gorails.com/database-selectors"
+  },
+  {
+    "id": "gorails-196",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Turbo Permanent Elements",
+    "description": "Persist elements across page changes.",
+    "topics": [
+      "Turbo"
+    ],
+    "level": "",
+    "hours": 0.4166666666666667,
+    "url": "https://gorails.com/turbo-permanent"
+  },
+  {
+    "id": "gorails-197",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Comprehensive Rails Monitoring",
+    "description": "Complete observability stack for Rails.",
+    "topics": [
+      "Monitoring"
+    ],
+    "level": "",
+    "hours": 0.8333333333333334,
+    "url": "https://gorails.com/rails-monitoring"
+  },
+  {
+    "id": "gorails-198",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Hotwire SaaS Dashboard",
+    "description": "Production-ready SaaS dashboard implementation.",
+    "topics": [
+      "Hotwire"
+    ],
+    "level": "",
+    "hours": 1.1666666666666667,
+    "url": "https://gorails.com/hotwire-saas-dashboard"
+  },
+  {
+    "id": "gorails-199",
+    "platform": "GoRails",
+    "type": "video_tutorial",
+    "title": "Rails 8 Complete Upgrade Guide",
+    "description": "Everything you need to upgrade to Rails 8.",
+    "topics": [
+      "Rails 8"
+    ],
+    "level": "",
+    "hours": 1,
+    "url": "https://gorails.com/rails8-upgrade-guide"
+  }
+]
